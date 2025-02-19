@@ -658,6 +658,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-09-20, **Accurate, Interpretable, and Fast Animation: An Iterative, Sparse, and Nonconvex Approach**, Stevo Rackovic et.al., Paper: [http://arxiv.org/abs/2109.08356](http://arxiv.org/abs/2109.08356)
 - 2023-03-27, **Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**, Stevo Racković et.al., Paper: [http://arxiv.org/abs/2302.04843](http://arxiv.org/abs/2302.04843)
 - 2024-02-25, **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2402.16124](http://arxiv.org/abs/2402.16124)
+- 2025-02-18, **AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2502.13133](http://arxiv.org/abs/2502.13133)
 - 2020-10-25, **APB2FaceV2: Real-Time Audio-Guided Multi-Face Reenactment**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2010.13017](http://arxiv.org/abs/2010.13017), Code: **[https://github.com/zhangzjn/APB2FaceV2](https://github.com/zhangzjn/APB2FaceV2)**
 - 2020-04-30, **APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2004.14569](http://arxiv.org/abs/2004.14569)
 - 2023-12-18, **AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**, Dongze Li et.al., Paper: [http://arxiv.org/abs/2312.10921](http://arxiv.org/abs/2312.10921)
