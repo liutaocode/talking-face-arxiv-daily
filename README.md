@@ -53,6 +53,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**|Baptiste Chopin et.al.|[2502.17198](http://arxiv.org/abs/2502.17198)|null|
 |**2025-02-20**|**NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**|Xiaoxing Liu et.al.|[2502.14178](http://arxiv.org/abs/2502.14178)|null|
 |**2025-02-18**|**AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**|Aggelina Chatziagapi et.al.|[2502.13133](http://arxiv.org/abs/2502.13133)|null|
 |**2025-02-17**|**SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**|Junxian Ma et.al.|[2502.11515](http://arxiv.org/abs/2502.11515)|null|
@@ -696,6 +697,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**X-Dancer: Expressive Music to Human Dance Video Generation**|Zeyuan Chen et.al.|[2502.17414](http://arxiv.org/abs/2502.17414)|null|
 |**2025-02-15**|**SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**|Di Qiu et.al.|[2502.10841](http://arxiv.org/abs/2502.10841)|**[link](https://github.com/SkyworkAI/SkyReels-A1)**|
 |**2025-02-11**|**VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**|Xinyu Liu et.al.|[2502.05979](http://arxiv.org/abs/2502.05979)|null|
 |**2025-02-10**|**Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance**|Li Hu et.al.|[2502.06145](http://arxiv.org/abs/2502.06145)|null|

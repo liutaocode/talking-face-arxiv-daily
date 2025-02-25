@@ -537,6 +537,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-12-20, **Disentangling Style and Content in Anime Illustrations**, Sitao Xiang et.al., Paper: [http://arxiv.org/abs/1905.10742](http://arxiv.org/abs/1905.10742)
 - 2020-05-04, **Disentangled Speech Embeddings using Cross-modal Self-supervision**, Arsha Nagrani et.al., Paper: [http://arxiv.org/abs/2002.08742](http://arxiv.org/abs/2002.08742)
 - 2023-03-14, **DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions**, Geumbyeol Hwang et.al., Paper: [http://arxiv.org/abs/2303.07697](http://arxiv.org/abs/2303.07697), Code: **[https://github.com/deepbrainai-research/koeba](https://github.com/deepbrainai-research/koeba)**
+- 2025-02-24, **Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**, Baptiste Chopin et.al., Paper: [http://arxiv.org/abs/2502.17198](http://arxiv.org/abs/2502.17198)
 - 2023-12-02, **DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2311.16565](http://arxiv.org/abs/2311.16565)
 - 2024-03-25, **DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2403.17217](http://arxiv.org/abs/2403.17217)
 - 2023-07-29, **Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation**, Michał Stypułkowski et.al., Paper: [http://arxiv.org/abs/2301.03396](http://arxiv.org/abs/2301.03396)
@@ -695,6 +696,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 ## Image Animation
 
 - 2025-01-20, **X-Dyna: Expressive Dynamic Human Image Animation**, Di Chang et.al., Paper: [http://arxiv.org/abs/2501.10021](http://arxiv.org/abs/2501.10021), Code: **[https://github.com/bytedance/x-dyna](https://github.com/bytedance/x-dyna)**
+- 2025-02-24, **X-Dancer: Expressive Music to Human Dance Video Generation**, Zeyuan Chen et.al., Paper: [http://arxiv.org/abs/2502.17414](http://arxiv.org/abs/2502.17414)
 - 2024-05-28, **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**, Qilin Wang et.al., Paper: [http://arxiv.org/abs/2405.18156](http://arxiv.org/abs/2405.18156)
 - 2023-04-12, **VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**, Moayed Haji Ali et.al., Paper: [http://arxiv.org/abs/2304.06020](http://arxiv.org/abs/2304.06020)
 - 2025-02-11, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
