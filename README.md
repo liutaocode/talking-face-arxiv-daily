@@ -53,6 +53,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**|Antoni Bigata et.al.|[2503.01715](http://arxiv.org/abs/2503.01715)|null|
+|**2025-03-02**|**FaceShot: Bring Any Character into Life**|Junyao Gao et.al.|[2503.00740](http://arxiv.org/abs/2503.00740)|null|
+|**2025-03-01**|**Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture**|Xuanchen Li et.al.|[2503.00495](http://arxiv.org/abs/2503.00495)|null|
 |**2025-02-28**|**Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**|Masoumeh Chapariniya et.al.|[2502.20803](http://arxiv.org/abs/2502.20803)|null|
 |**2025-02-28**|**ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**|Xuangeng Chu et.al.|[2502.20323](http://arxiv.org/abs/2502.20323)|null|
 |**2025-02-27**|**InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**|Jiahe Li et.al.|[2502.20387](http://arxiv.org/abs/2502.20387)|null|
