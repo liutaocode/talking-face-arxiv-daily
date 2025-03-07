@@ -468,6 +468,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-02-25, **FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment**, Yuval Nirkin et.al., Paper: [http://arxiv.org/abs/2202.12972](http://arxiv.org/abs/2202.12972)
 - 2019-08-16, **FSGAN: Subject Agnostic Face Swapping and Reenactment**, Yuval Nirkin et.al., Paper: [http://arxiv.org/abs/1908.05932](http://arxiv.org/abs/1908.05932), Code: **[https://github.com/YuvalNirkin/fsgan](https://github.com/YuvalNirkin/fsgan)**
 - 2020-05-16, **FReeNet: Multi-Identity Face Reenactment**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/1905.11805](http://arxiv.org/abs/1905.11805)
+- 2025-03-06, **FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis**, Ziqi Ni et.al., Paper: [http://arxiv.org/abs/2503.04067](http://arxiv.org/abs/2503.04067)
 - 2023-03-31, **FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2303.17789](http://arxiv.org/abs/2303.17789)
 - 2022-09-21, **FNeVR: Neural Volume Rendering for Face Animation**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2209.10340](http://arxiv.org/abs/2209.10340), Code: **[https://github.com/zengbohan0217/FNeVR](https://github.com/zengbohan0217/FNeVR)**
 - 2019-11-21, **FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis**, Kuangxiao Gu et.al., Paper: [http://arxiv.org/abs/1911.09224](http://arxiv.org/abs/1911.09224)
