@@ -194,6 +194,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-07-20, **Responsive Listening Head Generation: A Benchmark Dataset and Baseline**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2112.13548](http://arxiv.org/abs/2112.13548)
 - 2024-02-26, **Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**, Yifei Li et.al., Paper: [http://arxiv.org/abs/2402.16599](http://arxiv.org/abs/2402.16599)
 - 2023-05-22, **RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**, Dongwei Pan et.al., Paper: [http://arxiv.org/abs/2305.13353](http://arxiv.org/abs/2305.13353), Code: **[https://github.com/renderme-360/renderme-360](https://github.com/renderme-360/renderme-360)**
+- 2025-03-09, **Removing Averaging: Personalized Lip-Sync Driven Characters Based on Identity Adapter**, Yanyu Zhu et.al., Paper: [http://arxiv.org/abs/2503.06397](http://arxiv.org/abs/2503.06397)
 - 2023-06-08, **ReliableSwap: Boosting General Face Swapping Via Reliable Supervision**, Ge Yuan et.al., Paper: [http://arxiv.org/abs/2306.05356](http://arxiv.org/abs/2306.05356), Code: **[https://github.com/ygtxr1997/reliableswap](https://github.com/ygtxr1997/reliableswap)**
 - 2018-07-29, **ReenactGAN: Learning to Reenact Faces via Boundary Transfer**, Wayne Wu et.al., Paper: [http://arxiv.org/abs/1807.11079](http://arxiv.org/abs/1807.11079), Code: **[https://github.com/wywu/ReenactGAN](https://github.com/wywu/ReenactGAN)**
 - 2024-08-01, **Reenact Anything: Semantic Video Motion Transfer Using Motion-Textual Inversion**, Manuel Kansy et.al., Paper: [http://arxiv.org/abs/2408.00458](http://arxiv.org/abs/2408.00458)
@@ -305,6 +306,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
 - 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
 - 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
+- 2025-03-07, **MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2503.05978](http://arxiv.org/abs/2503.05978)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
 - 2024-10-10, **MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**, Sijing Wu et.al., Paper: [http://arxiv.org/abs/2410.07757](http://arxiv.org/abs/2410.07757)
 - 2023-12-13, **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2303.09797](http://arxiv.org/abs/2303.09797)
@@ -708,7 +710,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-02-24, **X-Dancer: Expressive Music to Human Dance Video Generation**, Zeyuan Chen et.al., Paper: [http://arxiv.org/abs/2502.17414](http://arxiv.org/abs/2502.17414)
 - 2024-05-28, **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**, Qilin Wang et.al., Paper: [http://arxiv.org/abs/2405.18156](http://arxiv.org/abs/2405.18156)
 - 2023-04-12, **VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**, Moayed Haji Ali et.al., Paper: [http://arxiv.org/abs/2304.06020](http://arxiv.org/abs/2304.06020)
-- 2025-02-11, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
+- 2025-03-10, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
 - 2024-06-03, **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2406.01188](http://arxiv.org/abs/2406.01188)
 - 2020-12-01, **Ultra-low bitrate video conferencing using deep image animation**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2012.00346](http://arxiv.org/abs/2012.00346)
@@ -726,7 +728,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2018-01-31, **RAPTOR I: Time-dependent radiative transfer in arbitrary spacetimes**, Thomas Bronzwaer et.al., Paper: [http://arxiv.org/abs/1801.10452](http://arxiv.org/abs/1801.10452)
 - 2021-03-22, **PriorityCut: Occlusion-guided Regularization for Warp-based Image Animation**, Wai Ting Cheung et.al., Paper: [http://arxiv.org/abs/2103.11600](http://arxiv.org/abs/2103.11600)
 - 2023-07-09, **Predictive Coding For Animation-Based Video Compression**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2307.04187](http://arxiv.org/abs/2307.04187)
-- 2025-01-09, **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**, Yingjie Chen et.al., Paper: [http://arxiv.org/abs/2501.05020](http://arxiv.org/abs/2501.05020)
+- 2025-03-10, **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**, Yingjie Chen et.al., Paper: [http://arxiv.org/abs/2501.05020](http://arxiv.org/abs/2501.05020)
 - 2024-03-25, **PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**, Yiming Zhang et.al., Paper: [http://arxiv.org/abs/2312.13964](http://arxiv.org/abs/2312.13964), Code: **[https://github.com/open-mmlab/PIA](https://github.com/open-mmlab/PIA)**
 - 2022-04-05, **Neural Fields in Visual Computing and Beyond**, Yiheng Xie et.al., Paper: [http://arxiv.org/abs/2111.11426](http://arxiv.org/abs/2111.11426)
 - 2022-11-30, **NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation**, Yu Yin et.al., Paper: [http://arxiv.org/abs/2211.17235](http://arxiv.org/abs/2211.17235)
