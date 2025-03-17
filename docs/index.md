@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**EmoDiffusion: Enhancing Emotional 3D Facial Animation with Latent Diffusion Models**|Yixuan Zhang et.al.|[2503.11028](http://arxiv.org/abs/2503.11028)|null|
 |**2025-03-12**|**StyleSpeaker: Audio-Enhanced Fine-Grained Style Modeling for Speech-Driven 3D Facial Animation**|An Yang et.al.|[2503.09852](http://arxiv.org/abs/2503.09852)|null|
 |**2025-03-12**|**Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2503.09787](http://arxiv.org/abs/2503.09787)|null|
 |**2025-03-10**|**Versatile Multimodal Controls for Whole-Body Talking Human Animation**|Zheng Qin et.al.|[2503.08714](http://arxiv.org/abs/2503.08714)|null|

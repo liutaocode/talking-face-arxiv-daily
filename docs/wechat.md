@@ -518,6 +518,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-08-21, **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.11518](http://arxiv.org/abs/2408.11518)
 - 2024-07-17, **EmoFace: Audio-driven Emotional 3D Face Animation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2407.12501](http://arxiv.org/abs/2407.12501), Code: **[https://github.com/sjtu-lucy/emoface](https://github.com/sjtu-lucy/emoface)**
 - 2024-12-12, **EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2412.08988](http://arxiv.org/abs/2412.08988)
+- 2025-03-14, **EmoDiffusion: Enhancing Emotional 3D Facial Animation with Latent Diffusion Models**, Yixuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.11028](http://arxiv.org/abs/2503.11028)
 - 2019-10-09, **EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos**, Haipeng Zeng et.al., Paper: [http://arxiv.org/abs/1907.12918](http://arxiv.org/abs/1907.12918)
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
 - 2021-07-07, **Egocentric Videoconferencing**, Mohamed Elgharib et.al., Paper: [http://arxiv.org/abs/2107.03109](http://arxiv.org/abs/2107.03109)
