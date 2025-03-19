@@ -243,6 +243,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-03-23, **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**, Sizhe An et.al., Paper: [http://arxiv.org/abs/2303.13071](http://arxiv.org/abs/2303.13071)
 - 2023-12-05, **PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features**, Tianshun Han et.al., Paper: [http://arxiv.org/abs/2312.02781](http://arxiv.org/abs/2312.02781)
 - 2023-09-13, **PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network**, Qinghua Liu et.al., Paper: [http://arxiv.org/abs/2309.06723](http://arxiv.org/abs/2309.06723)
+- 2025-03-18, **PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**, Baiqin Wang et.al., Paper: [http://arxiv.org/abs/2503.14295](http://arxiv.org/abs/2503.14295)
 - 2024-07-22, **PAV: Personalized Head Avatar from Unstructured Video Collection**, Akin Caliskan et.al., Paper: [http://arxiv.org/abs/2407.21047](http://arxiv.org/abs/2407.21047)
 - 2024-05-28, **OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance**, Shuheng Ge et.al., Paper: [http://arxiv.org/abs/2405.14709](http://arxiv.org/abs/2405.14709)
 - 2021-12-06, **One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning**, Suzhen Wang et.al., Paper: [http://arxiv.org/abs/2112.02749](http://arxiv.org/abs/2112.02749)
