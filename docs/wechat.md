@@ -112,6 +112,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-18, **Text-driven Talking Face Synthesis by Reprogramming Audio-driven Models**, Jeongsoo Choi et.al., Paper: [http://arxiv.org/abs/2306.16003](http://arxiv.org/abs/2306.16003)
 - 2024-07-20, **Text-based Talking Video Editing with Cascaded Conditional Diffusion**, Bo Han et.al., Paper: [http://arxiv.org/abs/2407.14841](http://arxiv.org/abs/2407.14841)
 - 2019-06-04, **Text-based Editing of Talking-head Video**, Ohad Fried et.al., Paper: [http://arxiv.org/abs/1906.01524](http://arxiv.org/abs/1906.01524)
+- 2025-03-21, **TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**, Jianchuan Chen et.al., Paper: [http://arxiv.org/abs/2503.17032](http://arxiv.org/abs/2503.17032)
 - 2024-04-23, **TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2404.15264](http://arxiv.org/abs/2404.15264)
 - 2025-01-17, **TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation**, Yixiang Zhuang et.al., Paper: [http://arxiv.org/abs/2501.09921](http://arxiv.org/abs/2501.09921)
 - 2020-07-16, **Talking-head Generation with Rhythmic Head Motion**, Lele Chen et.al., Paper: [http://arxiv.org/abs/2007.08547](http://arxiv.org/abs/2007.08547), Code: **[https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)**
@@ -216,6 +217,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-07-12, **Real Face Video Animation Platform**, Xiaokai Chen et.al., Paper: [http://arxiv.org/abs/2407.18955](http://arxiv.org/abs/2407.18955)
 - 2024-08-06, **ReSyncer: Rewiring Style-based Generator for Unified Audio-Visually Synced Facial Performer**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2408.03284](http://arxiv.org/abs/2408.03284)
 - 2010-03-01, **Re-verification of a Lip Synchronization Protocol using Robust Reachability**, Piotr Kordy et.al., Paper: [http://arxiv.org/abs/1003.0431](http://arxiv.org/abs/1003.0431)
+- 2025-03-21, **Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**, Yingying Fan et.al., Paper: [http://arxiv.org/abs/2503.16942](http://arxiv.org/abs/2503.16942)
 - 2024-06-18, **RITA: A Real-time Interactive Talking Avatars Framework**, Wuxinlin Cheng et.al., Paper: [http://arxiv.org/abs/2406.13093](http://arxiv.org/abs/2406.13093)
 - 2025-01-06, **RDD4D: 4D Attention-Guided Road Damage Detection And Classification**, Asma Alkalbani et.al., Paper: [http://arxiv.org/abs/2501.02822](http://arxiv.org/abs/2501.02822), Code: **[https://github.com/msaqib17/road_damage_detection](https://github.com/msaqib17/road_damage_detection)**
 - 2023-11-06, **RADIO: Reference-Agnostic Dubbing Video Synthesis**, Dongyeun Lee et.al., Paper: [http://arxiv.org/abs/2309.01950](http://arxiv.org/abs/2309.01950)
@@ -440,6 +442,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
 - 2024-08-23, **G3FA: Geometry-guided GAN for Face Animation**, Alireza Javanmardi et.al., Paper: [http://arxiv.org/abs/2408.13049](http://arxiv.org/abs/2408.13049)
 - 2023-08-30, **From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**, Shreyank N Gowda et.al., Paper: [http://arxiv.org/abs/2308.16041](http://arxiv.org/abs/2308.16041)
+- 2025-03-21, **From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**, Ji-Hoon Kim et.al., Paper: [http://arxiv.org/abs/2503.16956](http://arxiv.org/abs/2503.16956)
 - 2024-01-07, **Freetalker: Controllable Speech and Text-Driven Gesture Generation Based on Diffusion Models for Enhanced Speaker Naturalness**, Sicheng Yang et.al., Paper: [http://arxiv.org/abs/2401.03476](http://arxiv.org/abs/2401.03476)
 - 2024-10-09, **FreeAvatar: Robust 3D Facial Animation Transfer by Learning an Expression Foundation Model**, Feng Qiu et.al., Paper: [http://arxiv.org/abs/2409.13180](http://arxiv.org/abs/2409.13180)
 - 2022-08-03, **Free-HeadGAN: Neural Talking Head Synthesis with Explicit Gaze Control**, Michail Christos Doukas et.al., Paper: [http://arxiv.org/abs/2208.02210](http://arxiv.org/abs/2208.02210)
@@ -563,7 +566,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-09-11, **DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures**, Steven Hogue et.al., Paper: [http://arxiv.org/abs/2409.07649](http://arxiv.org/abs/2409.07649)
 - 2024-02-08, **DiffSpeaker: Speech-Driven 3D Facial Animation with Diffusion Transformer**, Zhiyuan Ma et.al., Paper: [http://arxiv.org/abs/2402.05712](http://arxiv.org/abs/2402.05712), Code: **[https://github.com/theericma/diffspeaker](https://github.com/theericma/diffspeaker)**
 - 2023-09-30, **DiffPoseTalk: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models**, Zhiyao Sun et.al., Paper: [http://arxiv.org/abs/2310.00434](http://arxiv.org/abs/2310.00434)
-- 2025-03-19, **DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**, Yuming Gu et.al., Paper: [http://arxiv.org/abs/2503.15667](http://arxiv.org/abs/2503.15667)
+- 2025-03-19, **DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**, Yuming Gu et.al., Paper: [http://arxiv.org/abs/2503.15667](http://arxiv.org/abs/2503.15667), Code: **[https://github.com/freedomgu/diffportrait360](https://github.com/freedomgu/diffportrait360)**
 - 2024-01-12, **DiffDub: Person-generic Visual Dubbing Using Inpainting Renderer with Diffusion Auto-encoder**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2311.01811](http://arxiv.org/abs/2311.01811)
 - 2023-08-18, **Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization**, Soumik Mukhopadhyay et.al., Paper: [http://arxiv.org/abs/2308.09716](http://arxiv.org/abs/2308.09716), Code: **[https://github.com/soumik-kanad/diff2lip](https://github.com/soumik-kanad/diff2lip)**
 - 2023-08-12, **DialogueNeRF: Towards Realistic Avatar Face-to-Face Conversation Video Generation**, Yichao Yan et.al., Paper: [http://arxiv.org/abs/2203.07931](http://arxiv.org/abs/2203.07931)
