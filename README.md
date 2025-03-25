@@ -53,9 +53,12 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**|Zunnan Xu et.al.|[2503.18860](http://arxiv.org/abs/2503.18860)|null|
+|**2025-03-24**|**Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation**|Dingcheng Zhen et.al.|[2503.18429](http://arxiv.org/abs/2503.18429)|null|
+|**2025-03-24**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
+|**2025-03-23**|**DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation**|Peng Chen et.al.|[2503.18159](http://arxiv.org/abs/2503.18159)|null|
 |**2025-03-21**|**TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**|Jianchuan Chen et.al.|[2503.17032](http://arxiv.org/abs/2503.17032)|null|
 |**2025-03-21**|**From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**|Ji-Hoon Kim et.al.|[2503.16956](http://arxiv.org/abs/2503.16956)|null|
-|**2025-03-21**|**Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**|Yingying Fan et.al.|[2503.16942](http://arxiv.org/abs/2503.16942)|null|
 |**2025-03-20**|**UniSync: A Unified Framework for Audio-Visual Synchronization**|Tao Feng et.al.|[2503.16357](http://arxiv.org/abs/2503.16357)|null|
 |**2025-03-20**|**PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**|Baiqin Wang et.al.|[2503.14295](http://arxiv.org/abs/2503.14295)|null|
 |**2025-03-19**|**DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis**|Yuming Gu et.al.|[2503.15667](http://arxiv.org/abs/2503.15667)|**[link](https://github.com/freedomgu/diffportrait360)**|
