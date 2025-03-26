@@ -316,6 +316,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
 - 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
 - 2025-03-07, **MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2503.05978](http://arxiv.org/abs/2503.05978)
+- 2025-03-25, **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**, Yukang Lin et.al., Paper: [http://arxiv.org/abs/2503.19383](http://arxiv.org/abs/2503.19383)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
 - 2024-10-10, **MMHead: Towards Fine-grained Multi-modal 3D Facial Animation**, Sijing Wu et.al., Paper: [http://arxiv.org/abs/2410.07757](http://arxiv.org/abs/2410.07757)
 - 2023-12-13, **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2303.09797](http://arxiv.org/abs/2303.09797)
@@ -524,6 +525,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-25, **EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2303.11089](http://arxiv.org/abs/2303.11089), Code: **[https://github.com/psyai-net/EmoTalk_release](https://github.com/psyai-net/EmoTalk_release)**
 - 2024-08-01, **EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**, Qianyun He et.al., Paper: [http://arxiv.org/abs/2408.00297](http://arxiv.org/abs/2408.00297)
 - 2024-02-02, **EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2402.01422](http://arxiv.org/abs/2402.01422)
+- 2025-03-25, **EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**, Xuli Shen et.al., Paper: [http://arxiv.org/abs/2503.19416](http://arxiv.org/abs/2503.19416)
 - 2024-08-21, **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.11518](http://arxiv.org/abs/2408.11518)
 - 2024-07-17, **EmoFace: Audio-driven Emotional 3D Face Animation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2407.12501](http://arxiv.org/abs/2407.12501), Code: **[https://github.com/sjtu-lucy/emoface](https://github.com/sjtu-lucy/emoface)**
 - 2024-12-12, **EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2412.08988](http://arxiv.org/abs/2412.08988)
@@ -558,6 +560,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-03-26, **Distributed Solution of the Inverse Rig Problem in Blendshape Facial Animation**, Stevo Racković et.al., Paper: [http://arxiv.org/abs/2303.06370](http://arxiv.org/abs/2303.06370)
 - 2019-12-20, **Disentangling Style and Content in Anime Illustrations**, Sitao Xiang et.al., Paper: [http://arxiv.org/abs/1905.10742](http://arxiv.org/abs/1905.10742)
 - 2020-05-04, **Disentangled Speech Embeddings using Cross-modal Self-supervision**, Arsha Nagrani et.al., Paper: [http://arxiv.org/abs/2002.08742](http://arxiv.org/abs/2002.08742)
+- 2025-03-24, **DisentTalk: Cross-lingual Talking Face Generation via Semantic Disentangled Diffusion Model**, Kangwei Liu et.al., Paper: [http://arxiv.org/abs/2503.19001](http://arxiv.org/abs/2503.19001)
 - 2023-03-14, **DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions**, Geumbyeol Hwang et.al., Paper: [http://arxiv.org/abs/2303.07697](http://arxiv.org/abs/2303.07697), Code: **[https://github.com/deepbrainai-research/koeba](https://github.com/deepbrainai-research/koeba)**
 - 2025-02-24, **Dimitra: Audio-driven Diffusion model for Expressive Talking Head Generation**, Baptiste Chopin et.al., Paper: [http://arxiv.org/abs/2502.17198](http://arxiv.org/abs/2502.17198)
 - 2023-12-02, **DiffusionTalker: Personalization and Acceleration for Speech-Driven 3D Face Diffuser**, Peng Chen et.al., Paper: [http://arxiv.org/abs/2311.16565](http://arxiv.org/abs/2311.16565)
@@ -660,6 +663,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-05-20, **Audio-Driven Emotional Video Portraits**, Xinya Ji et.al., Paper: [http://arxiv.org/abs/2104.07452](http://arxiv.org/abs/2104.07452)
 - 2023-06-20, **Audio-Driven 3D Facial Animation from In-the-Wild Videos**, Liying Lu et.al., Paper: [http://arxiv.org/abs/2306.11541](http://arxiv.org/abs/2306.11541)
 - 2020-08-11, **Audio- and Gaze-driven Facial Animation of Codec Avatars**, Alexander Richard et.al., Paper: [http://arxiv.org/abs/2008.05023](http://arxiv.org/abs/2008.05023)
+- 2025-03-25, **AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2503.19824](http://arxiv.org/abs/2503.19824)
 - 2023-12-15, **Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2312.09750](http://arxiv.org/abs/2312.09750)
 - 2022-03-08, **Attention-Based Lip Audio-Visual Synthesis for Talking Face Generation in the Wild**, Ganglai Wang et.al., Paper: [http://arxiv.org/abs/2203.03984](http://arxiv.org/abs/2203.03984)
 - 2020-05-13, **Arbitrary Talking Face Generation via Attentional Audio-Visual Coherence Learning**, Hao Zhu et.al., Paper: [http://arxiv.org/abs/1812.06589](http://arxiv.org/abs/1812.06589)
