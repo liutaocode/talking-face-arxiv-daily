@@ -191,6 +191,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-13, **Say Anything with Any Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06363](http://arxiv.org/abs/2403.06363)
 - 2024-08-18, **S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**, Dongze Li et.al., Paper: [http://arxiv.org/abs/2408.09347](http://arxiv.org/abs/2408.09347)
 - 2024-09-05, **SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model**, Weipeng Tan et.al., Paper: [http://arxiv.org/abs/2409.03270](http://arxiv.org/abs/2409.03270)
+- 2025-03-29, **STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing**, Zijun Ding et.al., Paper: [http://arxiv.org/abs/2503.23039](http://arxiv.org/abs/2503.23039)
 - 2022-12-07, **SPACE: Speech-driven Portrait Animation with Controllable Expression**, Siddharth Gururani et.al., Paper: [http://arxiv.org/abs/2211.09809](http://arxiv.org/abs/2211.09809)
 - 2020-10-05, **SMILE: Semantically-guided Multi-attribute Image and Layout Editing**, Andrés Romero et.al., Paper: [http://arxiv.org/abs/2010.02315](http://arxiv.org/abs/2010.02315), Code: **[https://github.com/affromero/SMILE](https://github.com/affromero/SMILE)**
 - 2024-12-04, **SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model**, Yan Li et.al., Paper: [http://arxiv.org/abs/2412.03430](http://arxiv.org/abs/2412.03430)
@@ -239,7 +240,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2007-08-28, **Plate-forme Magicien d'Oz pour l'étude de l'apport des ACAs à l'interaction**, Jérôme Simonin et.al., Paper: [http://arxiv.org/abs/0708.3740](http://arxiv.org/abs/0708.3740)
 - 2023-10-25, **Personalized Speech-driven Expressive 3D Facial Animation Synthesis with Style Control**, Elif Bozkurt et.al., Paper: [http://arxiv.org/abs/2310.17011](http://arxiv.org/abs/2310.17011)
 - 2024-09-09, **PersonaTalk: Bring Attention to Your Persona in Visual Dubbing**, Longhao Zhang et.al., Paper: [http://arxiv.org/abs/2409.05379](http://arxiv.org/abs/2409.05379)
-- 2025-03-27, **Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics**, Lee Chae-Yeon et.al., Paper: [http://arxiv.org/abs/2503.20308](http://arxiv.org/abs/2503.20308)
+- 2025-03-31, **Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics**, Lee Chae-Yeon et.al., Paper: [http://arxiv.org/abs/2503.20308](http://arxiv.org/abs/2503.20308)
 - 2022-08-02, **Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer**, Ailin Huang et.al., Paper: [http://arxiv.org/abs/2206.12837](http://arxiv.org/abs/2206.12837), Code: **[https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration)**
 - 2024-11-26, **Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey**, Hong-Hanh Nguyen-Le et.al., Paper: [http://arxiv.org/abs/2411.17911](http://arxiv.org/abs/2411.17911)
 - 2023-06-13, **Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**, Ricong Huang et.al., Paper: [http://arxiv.org/abs/2306.07579](http://arxiv.org/abs/2306.07579)
@@ -294,6 +295,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-07-08, **MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**, Jianwen Jiang et.al., Paper: [http://arxiv.org/abs/2407.05712](http://arxiv.org/abs/2407.05712)
 - 2025-01-09, **MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**, Huaize Liu et.al., Paper: [http://arxiv.org/abs/2501.01808](http://arxiv.org/abs/2501.01808)
 - 2024-03-28, **MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation**, Seyeon Kim et.al., Paper: [http://arxiv.org/abs/2403.19144](http://arxiv.org/abs/2403.19144), Code: **[https://github.com/KU-CVLAB/MoDiTalker](https://github.com/KU-CVLAB/MoDiTalker)**
+- 2025-03-30, **MoCha: Towards Movie-Grade Talking Character Synthesis**, Cong Wei et.al., Paper: [http://arxiv.org/abs/2503.23307](http://arxiv.org/abs/2503.23307)
 - 2024-10-15, **MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2410.06734](http://arxiv.org/abs/2410.06734)
 - 2023-12-18, **Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**, Hui Fu et.al., Paper: [http://arxiv.org/abs/2312.10877](http://arxiv.org/abs/2312.10877)
 - 2024-08-28, **Micro and macro facial expressions by driven animations in realistic Virtual Humans**, Rubens Halbig Montanha et.al., Paper: [http://arxiv.org/abs/2408.16110](http://arxiv.org/abs/2408.16110)
@@ -554,6 +556,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-06-13, **DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**, Neha Sahipjohn et.al., Paper: [http://arxiv.org/abs/2406.08802](http://arxiv.org/abs/2406.08802)
 - 2023-11-13, **DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**, Guinan Su et.al., Paper: [http://arxiv.org/abs/2311.04766](http://arxiv.org/abs/2311.04766)
 - 2020-09-12, **DualLip: A System for Joint Lip Reading and Generation**, Weicong Chen et.al., Paper: [http://arxiv.org/abs/2009.05784](http://arxiv.org/abs/2009.05784)
+- 2025-03-26, **Dual Audio-Centric Modality Coupling for Talking Head Generation**, Ao Fu et.al., Paper: [http://arxiv.org/abs/2503.22728](http://arxiv.org/abs/2503.22728)
 - 2023-12-15, **DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2312.09767](http://arxiv.org/abs/2312.09767)
 - 2024-09-16, **DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2409.10281](http://arxiv.org/abs/2409.10281)
 - 2023-04-01, **DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance**, Longwen Zhang et.al., Paper: [http://arxiv.org/abs/2304.03117](http://arxiv.org/abs/2304.03117)
