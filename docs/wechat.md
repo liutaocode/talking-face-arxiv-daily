@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.04.02
+> Updated on 2025.04.03
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -529,7 +529,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-25, **EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2303.11089](http://arxiv.org/abs/2303.11089), Code: **[https://github.com/psyai-net/EmoTalk_release](https://github.com/psyai-net/EmoTalk_release)**
 - 2024-08-01, **EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**, Qianyun He et.al., Paper: [http://arxiv.org/abs/2408.00297](http://arxiv.org/abs/2408.00297)
 - 2024-02-02, **EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2402.01422](http://arxiv.org/abs/2402.01422)
-- 2025-03-25, **EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**, Xuli Shen et.al., Paper: [http://arxiv.org/abs/2503.19416](http://arxiv.org/abs/2503.19416)
+- 2025-04-02, **EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**, Xuli Shen et.al., Paper: [http://arxiv.org/abs/2503.19416](http://arxiv.org/abs/2503.19416)
 - 2024-08-21, **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.11518](http://arxiv.org/abs/2408.11518)
 - 2024-07-17, **EmoFace: Audio-driven Emotional 3D Face Animation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2407.12501](http://arxiv.org/abs/2407.12501), Code: **[https://github.com/sjtu-lucy/emoface](https://github.com/sjtu-lucy/emoface)**
 - 2024-12-12, **EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2412.08988](http://arxiv.org/abs/2412.08988)
@@ -729,7 +729,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Image Animation
 
@@ -825,7 +825,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 Notes: 
 
