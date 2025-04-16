@@ -166,6 +166,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-10-31, **Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**, Xiang Deng et.al., Paper: [http://arxiv.org/abs/2410.23836](http://arxiv.org/abs/2410.23836)
 - 2022-08-29, **StableFace: Analyzing and Improving Motion Stability for Talking Face Generation**, Jun Ling et.al., Paper: [http://arxiv.org/abs/2208.13717](http://arxiv.org/abs/2208.13717)
 - 2024-09-26, **Stable Video Portraits**, Mirela Ostrek et.al., Paper: [http://arxiv.org/abs/2409.18083](http://arxiv.org/abs/2409.18083)
+- 2025-04-14, **SpinMeRound: Consistent Multi-View Identity Generation Using Diffusion Models**, Stathis Galanakis et.al., Paper: [http://arxiv.org/abs/2504.10716](http://arxiv.org/abs/2504.10716)
 - 2024-04-08, **SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**, Heyuan Li et.al., Paper: [http://arxiv.org/abs/2404.05680](http://arxiv.org/abs/2404.05680)
 - 2021-07-10, **Speech2Video: Cross-Modal Distillation for Speech to Video Generation**, Shijing Si et.al., Paper: [http://arxiv.org/abs/2107.04806](http://arxiv.org/abs/2107.04806)
 - 2023-09-09, **Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video**, Xiuzhe Wu et.al., Paper: [http://arxiv.org/abs/2309.04814](http://arxiv.org/abs/2309.04814), Code: **[https://github.com/cvmi-lab/speech2lip](https://github.com/cvmi-lab/speech2lip)**
@@ -752,11 +753,13 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-04-01, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
 - 2024-06-03, **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2406.01188](http://arxiv.org/abs/2406.01188)
+- 2025-04-15, **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11289](http://arxiv.org/abs/2504.11289)
 - 2020-12-01, **Ultra-low bitrate video conferencing using deep image animation**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2012.00346](http://arxiv.org/abs/2012.00346)
 - 2010-01-04, **Tutoring System for Dance Learning**, Rajkumar Kannan et.al., Paper: [http://arxiv.org/abs/1001.0440](http://arxiv.org/abs/1001.0440)
 - 2024-03-05, **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**, Weijie Li et.al., Paper: [http://arxiv.org/abs/2403.02827](http://arxiv.org/abs/2403.02827)
 - 2022-03-29, **Thin-Plate Spline Motion Model for Image Animation**, Jian Zhao et.al., Paper: [http://arxiv.org/abs/2203.14367](http://arxiv.org/abs/2203.14367), Code: **[https://github.com/yoyo-nb/thin-plate-spline-motion-model](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**
 - 2023-09-26, **Text-Guided Synthesis of Eulerian Cinemagraphs**, Aniruddha Mahapatra et.al., Paper: [http://arxiv.org/abs/2307.03190](http://arxiv.org/abs/2307.03190), Code: **[https://github.com/text2cinemagraph/text2cinemagraph](https://github.com/text2cinemagraph/text2cinemagraph)**
+- 2025-04-15, **Taming Consistency Distillation for Accelerated Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11143](http://arxiv.org/abs/2504.11143)
 - 2024-10-31, **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**, Sunjae Yoon et.al., Paper: [http://arxiv.org/abs/2410.24037](http://arxiv.org/abs/2410.24037)
 - 2024-07-12, **TCAN: Animating Human Images with Temporally Consistent Pose Guidance using Diffusion Models**, Jeongho Kim et.al., Paper: [http://arxiv.org/abs/2407.09012](http://arxiv.org/abs/2407.09012)
 - 2024-11-27, **StableAnimator: High-Quality Identity-Preserving Human Image Animation**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2411.17697](http://arxiv.org/abs/2411.17697), Code: **[https://github.com/Francis-Rings/StableAnimator](https://github.com/Francis-Rings/StableAnimator)**
