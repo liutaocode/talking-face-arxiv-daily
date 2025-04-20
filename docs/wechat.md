@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.04.19
+> Updated on 2025.04.20
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -742,7 +742,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 ## Image Animation
 
@@ -753,7 +753,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-04-01, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
 - 2024-06-03, **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2406.01188](http://arxiv.org/abs/2406.01188)
-- 2025-04-15, **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11289](http://arxiv.org/abs/2504.11289)
+- 2025-04-15, **UniAnimate-DiT: Human Image Animation with Large-Scale Video Diffusion Transformer**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2504.11289](http://arxiv.org/abs/2504.11289), Code: **[https://github.com/ali-vilab/unianimate-dit](https://github.com/ali-vilab/unianimate-dit)**
 - 2020-12-01, **Ultra-low bitrate video conferencing using deep image animation**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2012.00346](http://arxiv.org/abs/2012.00346)
 - 2010-01-04, **Tutoring System for Dance Learning**, Rajkumar Kannan et.al., Paper: [http://arxiv.org/abs/1001.0440](http://arxiv.org/abs/1001.0440)
 - 2024-03-05, **Tuning-Free Noise Rectification for High Fidelity Image-to-Video Generation**, Weijie Li et.al., Paper: [http://arxiv.org/abs/2403.02827](http://arxiv.org/abs/2403.02827)
@@ -843,7 +843,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250419>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
 
 Notes: 
 
