@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Disentangle Identity, Cooperate Emotion: Correlation-Aware Emotional Talking Portrait Generation**|Weipeng Tan et.al.|[2504.18087](http://arxiv.org/abs/2504.18087)|null|
 |**2025-04-18**|**Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis**|Radek Daněček et.al.|[2504.13386](http://arxiv.org/abs/2504.13386)|null|
 |**2025-04-14**|**SpinMeRound: Consistent Multi-View Identity Generation Using Diffusion Models**|Stathis Galanakis et.al.|[2504.10716](http://arxiv.org/abs/2504.10716)|null|
 |**2025-04-10**|**ChildlikeSHAPES: Semantic Hierarchical Region Parsing for Animating Figure Drawings**|Astitva Srivastava et.al.|[2504.08022](http://arxiv.org/abs/2504.08022)|null|
