@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.04.29
+> Updated on 2025.04.30
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -409,7 +409,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-05-15, **Identity-Preserving Talking Face Generation with Landmark and Appearance Priors**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2305.08293](http://arxiv.org/abs/2305.08293), Code: **[https://github.com/Weizhi-Zhong/IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)**
 - 2020-05-25, **Identity-Preserving Realistic Talking Face Generation**, Sanjana Sinha et.al., Paper: [http://arxiv.org/abs/2005.12318](http://arxiv.org/abs/2005.12318)
 - 2023-05-17, **INCLG: Inpainting for Non-Cleft Lip Generation with a Multi-Task Image Processing Network**, Shuang Chen et.al., Paper: [http://arxiv.org/abs/2305.10589](http://arxiv.org/abs/2305.10589)
-- 2025-04-27, **IM-Portrait: Learning 3D-aware Video Diffusion for PhotorealisticTalking Heads from Monocular Videos**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2504.19165](http://arxiv.org/abs/2504.19165)
+- 2025-04-29, **IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2504.19165](http://arxiv.org/abs/2504.19165)
 - 2024-12-10, **IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation**, Sejong Yang et.al., Paper: [http://arxiv.org/abs/2412.04000](http://arxiv.org/abs/2412.04000)
 - 2020-01-17, **ICface: Interpretable and Controllable Face Reenactment Using GANs**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/1904.01909](http://arxiv.org/abs/1904.01909)
 - 2023-07-20, **HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2307.10797](http://arxiv.org/abs/2307.10797), Code: **[https://github.com/stelabou/hyperreenact](https://github.com/stelabou/hyperreenact)**
@@ -747,7 +747,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 ## Image Animation
 
@@ -849,7 +849,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
 
 Notes: 
 
