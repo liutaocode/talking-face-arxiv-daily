@@ -325,6 +325,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
 - 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
 - 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
+- 2025-04-30, **MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**, Mengting Wei et.al., Paper: [http://arxiv.org/abs/2504.21497](http://arxiv.org/abs/2504.21497)
 - 2025-03-07, **MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2503.05978](http://arxiv.org/abs/2503.05978)
 - 2025-03-25, **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**, Yukang Lin et.al., Paper: [http://arxiv.org/abs/2503.19383](http://arxiv.org/abs/2503.19383)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
