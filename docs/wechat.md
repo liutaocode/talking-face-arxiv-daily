@@ -376,6 +376,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-04-07, **LI-Net: Large-Pose Identity-Preserving Face Reenactment Network**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2104.02850](http://arxiv.org/abs/2104.02850)
 - 2024-11-14, **LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2411.09268](http://arxiv.org/abs/2411.09268)
 - 2021-08-23, **KoDF: A Large-scale Korean DeepFake Detection Dataset**, Patrick Kwon et.al., Paper: [http://arxiv.org/abs/2103.10094](http://arxiv.org/abs/2103.10094)
+- 2025-05-01, **KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution**, Antoni Bigata et.al., Paper: [http://arxiv.org/abs/2505.00497](http://arxiv.org/abs/2505.00497)
 - 2025-03-03, **KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**, Antoni Bigata et.al., Paper: [http://arxiv.org/abs/2503.01715](http://arxiv.org/abs/2503.01715)
 - 2017-07-30, **Kernel Projection of Latent Structures Regression for Facial Animation Retargeting**, Christos Ouzounis et.al., Paper: [http://arxiv.org/abs/1707.09629](http://arxiv.org/abs/1707.09629)
 - 2024-09-02, **KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**, Zhihao Xu et.al., Paper: [http://arxiv.org/abs/2409.01113](http://arxiv.org/abs/2409.01113), Code: **[https://github.com/ffxzh/kmtalk](https://github.com/ffxzh/kmtalk)**
