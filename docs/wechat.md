@@ -298,6 +298,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-04, **Multi-modality Deep Restoration of Extremely Compressed Face Videos**, Xi Zhang et.al., Paper: [http://arxiv.org/abs/2107.05548](http://arxiv.org/abs/2107.05548)
 - 2020-12-14, **Multi Modal Adaptive Normalization for Audio to Video Generation**, Neeraj Kumar et.al., Paper: [http://arxiv.org/abs/2012.07304](http://arxiv.org/abs/2012.07304)
 - 2025-04-01, **Monocular and Generalizable Gaussian Talking Head Animation**, Shengjie Gong et.al., Paper: [http://arxiv.org/abs/2504.00665](http://arxiv.org/abs/2504.00665)
+- 2025-05-02, **Model See Model Do: Speech-Driven Facial Animation with Style Control**, Yifang Pan et.al., Paper: [http://arxiv.org/abs/2505.01319](http://arxiv.org/abs/2505.01319)
 - 2020-05-27, **Modality Dropout for Improved Performance-driven Talking Faces**, Ahmed Hussen Abdelaziz et.al., Paper: [http://arxiv.org/abs/2005.13616](http://arxiv.org/abs/2005.13616)
 - 2024-07-08, **MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**, Jianwen Jiang et.al., Paper: [http://arxiv.org/abs/2407.05712](http://arxiv.org/abs/2407.05712)
 - 2025-01-09, **MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**, Huaize Liu et.al., Paper: [http://arxiv.org/abs/2501.01808](http://arxiv.org/abs/2501.01808)
@@ -467,6 +468,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-03-28, **Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**, Haijie Yang et.al., Paper: [http://arxiv.org/abs/2503.22225](http://arxiv.org/abs/2503.22225)
 - 2025-04-06, **FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**, Shiyan Liu et.al., Paper: [http://arxiv.org/abs/2504.04427](http://arxiv.org/abs/2504.04427)
 - 2024-03-12, **FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06375](http://arxiv.org/abs/2403.06375)
+- 2025-05-02, **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2505.01263](http://arxiv.org/abs/2505.01263)
 - 2021-10-12, **Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**, Haichao Zhang et.al., Paper: [http://arxiv.org/abs/2110.04708](http://arxiv.org/abs/2110.04708)
 - 2022-10-06, **Finding Directions in GAN's Latent Space for Neural Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2202.00046](http://arxiv.org/abs/2202.00046), Code: **[https://github.com/stelabou/stylegan_directions_face_reenactment](https://github.com/stelabou/stylegan_directions_face_reenactment)**
 - 2019-10-28, **Few-shot Video-to-Video Synthesis**, Ting-Chun Wang et.al., Paper: [http://arxiv.org/abs/1910.12713](http://arxiv.org/abs/1910.12713)
