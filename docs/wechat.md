@@ -273,6 +273,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-03-27, **OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis**, Hongyi Xu et.al., Paper: [http://arxiv.org/abs/2303.15539](http://arxiv.org/abs/2303.15539)
 - 2017-12-06, **ObamaNet: Photo-realistic lip-sync from text**, Rithesh Kumar et.al., Paper: [http://arxiv.org/abs/1801.01442](http://arxiv.org/abs/1801.01442)
 - 2023-03-26, **OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**, Zhiyuan Ma et.al., Paper: [http://arxiv.org/abs/2303.14662](http://arxiv.org/abs/2303.14662), Code: **[https://github.com/theericma/otavatar](https://github.com/theericma/otavatar)**
+- 2025-05-03, **OT-Talk: Animating 3D Talking Head with Optimal Transportation**, Xinmu Wang et.al., Paper: [http://arxiv.org/abs/2505.01932](http://arxiv.org/abs/2505.01932)
 - 2023-09-28, **OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2309.16148](http://arxiv.org/abs/2309.16148)
 - 2023-02-16, **OPT: One-shot Pose-Controllable Talking Head Generation**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2302.08197](http://arxiv.org/abs/2302.08197)
 - 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153](http://arxiv.org/abs/2307.09153), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
@@ -443,6 +444,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-07-04, **Generating Animatable 3D Cartoon Faces from Single Portraits**, Chuanyu Pan et.al., Paper: [http://arxiv.org/abs/2307.01468](http://arxiv.org/abs/2307.01468)
 - 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2301.13430](http://arxiv.org/abs/2301.13430)
 - 2023-05-01, **GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2305.00787](http://arxiv.org/abs/2305.00787)
+- 2025-05-03, **GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**, Anushka Agarwal et.al., Paper: [http://arxiv.org/abs/2505.01928](http://arxiv.org/abs/2505.01928)
 - 2023-10-19, **Gemino: Practical and Robust Neural Compression for Video Conferencing**, Vibhaalakshmi Sivaraman et.al., Paper: [http://arxiv.org/abs/2209.10507](http://arxiv.org/abs/2209.10507)
 - 2024-04-28, **GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting**, Hongyun Yu et.al., Paper: [http://arxiv.org/abs/2404.14037](http://arxiv.org/abs/2404.14037)
 - 2024-04-25, **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting**, Kyusun Cho et.al., Paper: [http://arxiv.org/abs/2404.16012](http://arxiv.org/abs/2404.16012), Code: **[https://github.com/ku-cvlab/gaussiantalker](https://github.com/ku-cvlab/gaussiantalker)**
