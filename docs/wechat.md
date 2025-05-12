@@ -272,6 +272,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-04-03, **OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**, Zhongjian Wang et.al., Paper: [http://arxiv.org/abs/2504.02433](http://arxiv.org/abs/2504.02433)
 - 2023-03-27, **OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis**, Hongyi Xu et.al., Paper: [http://arxiv.org/abs/2303.15539](http://arxiv.org/abs/2303.15539)
 - 2017-12-06, **ObamaNet: Photo-realistic lip-sync from text**, Rithesh Kumar et.al., Paper: [http://arxiv.org/abs/1801.01442](http://arxiv.org/abs/1801.01442)
+- 2025-05-08, **OXSeg: Multidimensional attention UNet-based lip segmentation using semi-supervised lip contours**, Hanie Moghaddasi et.al., Paper: [http://arxiv.org/abs/2505.05531](http://arxiv.org/abs/2505.05531)
 - 2023-03-26, **OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**, Zhiyuan Ma et.al., Paper: [http://arxiv.org/abs/2303.14662](http://arxiv.org/abs/2303.14662), Code: **[https://github.com/theericma/otavatar](https://github.com/theericma/otavatar)**
 - 2025-05-03, **OT-Talk: Animating 3D Talking Head with Optimal Transportation**, Xinmu Wang et.al., Paper: [http://arxiv.org/abs/2505.01932](http://arxiv.org/abs/2505.01932)
 - 2023-09-28, **OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2309.16148](http://arxiv.org/abs/2309.16148)
