@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.05.12
+> Updated on 2025.05.13
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -274,7 +274,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2017-12-06, **ObamaNet: Photo-realistic lip-sync from text**, Rithesh Kumar et.al., Paper: [http://arxiv.org/abs/1801.01442](http://arxiv.org/abs/1801.01442)
 - 2025-05-08, **OXSeg: Multidimensional attention UNet-based lip segmentation using semi-supervised lip contours**, Hanie Moghaddasi et.al., Paper: [http://arxiv.org/abs/2505.05531](http://arxiv.org/abs/2505.05531)
 - 2023-03-26, **OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering**, Zhiyuan Ma et.al., Paper: [http://arxiv.org/abs/2303.14662](http://arxiv.org/abs/2303.14662), Code: **[https://github.com/theericma/otavatar](https://github.com/theericma/otavatar)**
-- 2025-05-03, **OT-Talk: Animating 3D Talking Head with Optimal Transportation**, Xinmu Wang et.al., Paper: [http://arxiv.org/abs/2505.01932](http://arxiv.org/abs/2505.01932)
+- 2025-05-10, **OT-Talk: Animating 3D Talking Head with Optimal Transportation**, Xinmu Wang et.al., Paper: [http://arxiv.org/abs/2505.01932](http://arxiv.org/abs/2505.01932)
 - 2023-09-28, **OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2309.16148](http://arxiv.org/abs/2309.16148)
 - 2023-02-16, **OPT: One-shot Pose-Controllable Talking Head Generation**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2302.08197](http://arxiv.org/abs/2302.08197)
 - 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153](http://arxiv.org/abs/2307.09153), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
@@ -328,7 +328,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
 - 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
 - 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
-- 2025-04-30, **MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**, Mengting Wei et.al., Paper: [http://arxiv.org/abs/2504.21497](http://arxiv.org/abs/2504.21497)
+- 2025-05-10, **MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**, Mengting Wei et.al., Paper: [http://arxiv.org/abs/2504.21497](http://arxiv.org/abs/2504.21497)
 - 2025-03-07, **MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2503.05978](http://arxiv.org/abs/2503.05978)
 - 2025-03-25, **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**, Yukang Lin et.al., Paper: [http://arxiv.org/abs/2503.19383](http://arxiv.org/abs/2503.19383)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
@@ -754,7 +754,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Image Animation
 
@@ -856,7 +856,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 Notes: 
 
