@@ -72,6 +72,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-11, **Versatile Face Animator: Driving Arbitrary 3D Facial Avatar in RGBD Space**, Haoyu Wang et.al., Paper: [http://arxiv.org/abs/2308.06076](http://arxiv.org/abs/2308.06076), Code: **[https://github.com/why986/VFA](https://github.com/why986/VFA)**
 - 2023-12-18, **VectorTalker: SVG Talking Face Generation with Progressive Vectorisation**, Hao Hu et.al., Paper: [http://arxiv.org/abs/2312.11568](http://arxiv.org/abs/2312.11568)
 - 2025-02-13, **VTutor: An Open-Source SDK for Generative AI-Powered Animated Pedagogical Agents with Multi-Media Output**, Eason Chen et.al., Paper: [http://arxiv.org/abs/2502.04103](http://arxiv.org/abs/2502.04103)
+- 2025-05-10, **VTutor: An Animated Pedagogical Agent SDK that Provide Real Time Multi-Model Feedback**, Eason Chen et.al., Paper: [http://arxiv.org/abs/2505.06676](http://arxiv.org/abs/2505.06676)
 - 2023-04-24, **VR Facial Animation for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2304.12051](http://arxiv.org/abs/2304.12051)
 - 2024-12-18, **VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2412.09892](http://arxiv.org/abs/2412.09892)
 - 2023-08-11, **VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2308.04830](http://arxiv.org/abs/2308.04830)
@@ -328,7 +329,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
 - 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
 - 2024-06-17, **Make Your Actor Talk: Generalizable and High-Fidelity Lip Sync with Motion and Appearance Disentanglement**, Runyi Yu et.al., Paper: [http://arxiv.org/abs/2406.08096](http://arxiv.org/abs/2406.08096)
-- 2025-05-10, **MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**, Mengting Wei et.al., Paper: [http://arxiv.org/abs/2504.21497](http://arxiv.org/abs/2504.21497)
+- 2025-05-10, **MagicPortrait: Temporally Consistent Face Reenactment with 3D Geometric Guidance**, Mengting Wei et.al., Paper: [http://arxiv.org/abs/2504.21497](http://arxiv.org/abs/2504.21497), Code: **[https://github.com/weimengting/magicportrait](https://github.com/weimengting/magicportrait)**
 - 2025-03-07, **MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice**, Hongwei Yi et.al., Paper: [http://arxiv.org/abs/2503.05978](http://arxiv.org/abs/2503.05978)
 - 2025-03-25, **MVPortrait: Text-Guided Motion and Emotion Control for Multi-view Vivid Portrait Animation**, Yukang Lin et.al., Paper: [http://arxiv.org/abs/2503.19383](http://arxiv.org/abs/2503.19383)
 - 2023-07-19, **MODA: Mapping-Once Audio-driven Portrait Animation with Dual Attentions**, Yunfei Liu et.al., Paper: [http://arxiv.org/abs/2307.10008](http://arxiv.org/abs/2307.10008)
