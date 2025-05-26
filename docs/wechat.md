@@ -575,6 +575,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-11, **Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2401.06126](http://arxiv.org/abs/2401.06126)
 - 2024-06-13, **DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**, Neha Sahipjohn et.al., Paper: [http://arxiv.org/abs/2406.08802](http://arxiv.org/abs/2406.08802)
 - 2023-11-13, **DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**, Guinan Su et.al., Paper: [http://arxiv.org/abs/2311.04766](http://arxiv.org/abs/2311.04766)
+- 2025-05-23, **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2505.18096](http://arxiv.org/abs/2505.18096)
 - 2020-09-12, **DualLip: A System for Joint Lip Reading and Generation**, Weicong Chen et.al., Paper: [http://arxiv.org/abs/2009.05784](http://arxiv.org/abs/2009.05784)
 - 2025-03-26, **Dual Audio-Centric Modality Coupling for Talking Head Generation**, Ao Fu et.al., Paper: [http://arxiv.org/abs/2503.22728](http://arxiv.org/abs/2503.22728)
 - 2023-12-15, **DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2312.09767](http://arxiv.org/abs/2312.09767)
@@ -662,6 +663,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-04-29, **CSTalk: Correlation Supervised Speech-driven 3D Emotional Facial Animation Generation**, Xiangyu Liang et.al., Paper: [http://arxiv.org/abs/2404.18604](http://arxiv.org/abs/2404.18604)
 - 2023-05-23, **CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation**, Jingning Xu et.al., Paper: [http://arxiv.org/abs/2305.13962](http://arxiv.org/abs/2305.13962)
 - 2023-11-15, **CP-EB: Talking Face Generation with Controllable Pose and Eye Blinking Embedding**, Jianzong Wang et.al., Paper: [http://arxiv.org/abs/2311.08673](http://arxiv.org/abs/2311.08673)
+- 2025-05-23, **CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**, Florian Barthel et.al., Paper: [http://arxiv.org/abs/2505.17590](http://arxiv.org/abs/2505.17590)
 - 2024-02-21, **Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**, Zechen Bai et.al., Paper: [http://arxiv.org/abs/2402.13724](http://arxiv.org/abs/2402.13724), Code: **[https://github.com/showlab/byoc](https://github.com/showlab/byoc)**
 - 2023-10-31, **Breathing Life into Faces: Speech-driven 3D Facial Animation with Natural Head Pose and Detailed Shape**, Wei Zhao et.al., Paper: [http://arxiv.org/abs/2310.20240](http://arxiv.org/abs/2310.20240)
 - 2021-11-02, **BiosecurID: a multimodal biometric database**, Julian Fierrez et.al., Paper: [http://arxiv.org/abs/2111.03472](http://arxiv.org/abs/2111.03472)
