@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.05.27
+> Updated on 2025.05.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -575,7 +575,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-11, **Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2401.06126](http://arxiv.org/abs/2401.06126)
 - 2024-06-13, **DubWise: Video-Guided Speech Duration Control in Multimodal LLM-based Text-to-Speech for Dubbing**, Neha Sahipjohn et.al., Paper: [http://arxiv.org/abs/2406.08802](http://arxiv.org/abs/2406.08802)
 - 2023-11-13, **DualTalker: A Cross-Modal Dual Learning Approach for Speech-Driven 3D Facial Animation**, Guinan Su et.al., Paper: [http://arxiv.org/abs/2311.04766](http://arxiv.org/abs/2311.04766)
-- 2025-05-23, **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2505.18096](http://arxiv.org/abs/2505.18096)
+- 2025-05-26, **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2505.18096](http://arxiv.org/abs/2505.18096)
 - 2020-09-12, **DualLip: A System for Joint Lip Reading and Generation**, Weicong Chen et.al., Paper: [http://arxiv.org/abs/2009.05784](http://arxiv.org/abs/2009.05784)
 - 2025-03-26, **Dual Audio-Centric Modality Coupling for Talking Head Generation**, Ao Fu et.al., Paper: [http://arxiv.org/abs/2503.22728](http://arxiv.org/abs/2503.22728)
 - 2023-12-15, **DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2312.09767](http://arxiv.org/abs/2312.09767)
@@ -758,7 +758,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Image Animation
 
@@ -830,6 +830,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-12-04, **FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**, Taekyung Ki et.al., Paper: [http://arxiv.org/abs/2412.01064](http://arxiv.org/abs/2412.01064)
 - 2025-01-30, **Every Image Listens, Every Image Dances: Music-Driven Image Animation**, Zhikang Dong et.al., Paper: [http://arxiv.org/abs/2501.18801](http://arxiv.org/abs/2501.18801)
 - 2024-05-29, **Evaluating the efectiveness of sonifcation in science education using Edukoi**, Lucrezia Guiotto Nai Fovino et.al., Paper: [http://arxiv.org/abs/2405.18908](http://arxiv.org/abs/2405.18908)
+- 2025-05-24, **EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**, Qiang Qu et.al., Paper: [http://arxiv.org/abs/2503.18552](http://arxiv.org/abs/2503.18552)
 - 2024-07-12, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
 - 2025-05-18, **DynamiCtrl: Rethinking the Basic Structure and the Role of Text for High-quality Human Image Animation**, Haoyu Zhao et.al., Paper: [http://arxiv.org/abs/2503.21246](http://arxiv.org/abs/2503.21246), Code: **[https://github.com/gulucaptain/dynamictrl](https://github.com/gulucaptain/dynamictrl)**
 - 2023-11-27, **DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2310.12190](http://arxiv.org/abs/2310.12190), Code: **[https://github.com/Doubiiu/DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter)**
@@ -862,7 +863,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 Notes: 
 
