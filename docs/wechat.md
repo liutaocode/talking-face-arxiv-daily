@@ -118,6 +118,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-06-04, **Text-based Editing of Talking-head Video**, Ohad Fried et.al., Paper: [http://arxiv.org/abs/1906.01524](http://arxiv.org/abs/1906.01524)
 - 2025-05-14, **Test-Time Augmentation for Pose-invariant Face Recognition**, Jaemin Jung et.al., Paper: [http://arxiv.org/abs/2505.09256](http://arxiv.org/abs/2505.09256)
 - 2025-03-24, **Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation**, Dingcheng Zhen et.al., Paper: [http://arxiv.org/abs/2503.18429](http://arxiv.org/abs/2503.18429)
+- 2025-05-28, **Tell me Habibi, is it Real or Fake?**, Kartik Kuckreja et.al., Paper: [http://arxiv.org/abs/2505.22581](http://arxiv.org/abs/2505.22581)
 - 2025-03-21, **TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**, Jianchuan Chen et.al., Paper: [http://arxiv.org/abs/2503.17032](http://arxiv.org/abs/2503.17032)
 - 2024-04-23, **TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2404.15264](http://arxiv.org/abs/2404.15264)
 - 2025-01-17, **TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation**, Yixiang Zhuang et.al., Paper: [http://arxiv.org/abs/2501.09921](http://arxiv.org/abs/2501.09921)
@@ -229,6 +230,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2010-03-01, **Re-verification of a Lip Synchronization Protocol using Robust Reachability**, Piotr Kordy et.al., Paper: [http://arxiv.org/abs/1003.0431](http://arxiv.org/abs/1003.0431)
 - 2025-03-25, **Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model**, Yingying Fan et.al., Paper: [http://arxiv.org/abs/2503.16942](http://arxiv.org/abs/2503.16942)
 - 2024-06-18, **RITA: A Real-time Interactive Talking Avatars Framework**, Wuxinlin Cheng et.al., Paper: [http://arxiv.org/abs/2406.13093](http://arxiv.org/abs/2406.13093)
+- 2025-05-28, **RESOUND: Speech Reconstruction from Silent Videos via Acoustic-Semantic Decomposed Modeling**, Long-Khanh Pham et.al., Paper: [http://arxiv.org/abs/2505.22024](http://arxiv.org/abs/2505.22024)
 - 2025-01-06, **RDD4D: 4D Attention-Guided Road Damage Detection And Classification**, Asma Alkalbani et.al., Paper: [http://arxiv.org/abs/2501.02822](http://arxiv.org/abs/2501.02822), Code: **[https://github.com/msaqib17/road_damage_detection](https://github.com/msaqib17/road_damage_detection)**
 - 2023-11-06, **RADIO: Reference-Agnostic Dubbing Video Synthesis**, Dongyeun Lee et.al., Paper: [http://arxiv.org/abs/2309.01950](http://arxiv.org/abs/2309.01950)
 - 2023-12-09, **R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**, Zhiling Ye et.al., Paper: [http://arxiv.org/abs/2312.05572](http://arxiv.org/abs/2312.05572)
@@ -287,6 +289,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2020-07-29, **Neural Voice Puppetry: Audio-driven Facial Reenactment**, Justus Thies et.al., Paper: [http://arxiv.org/abs/1912.05566](http://arxiv.org/abs/1912.05566), Code: **[https://github.com/miu200521358/NeuralVoicePuppetryMMD](https://github.com/miu200521358/NeuralVoicePuppetryMMD)**
 - 2023-12-11, **Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**, Georgios Milis et.al., Paper: [http://arxiv.org/abs/2312.06613](http://arxiv.org/abs/2312.06613), Code: **[https://github.com/g-milis/NEUTART](https://github.com/g-milis/NEUTART)**
 - 2019-09-06, **Neural Style-Preserving Visual Dubbing**, Hyeongwoo Kim et.al., Paper: [http://arxiv.org/abs/1909.02518](http://arxiv.org/abs/1909.02518)
+- 2025-05-28, **Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**, Sihun Cha et.al., Paper: [http://arxiv.org/abs/2505.22416](http://arxiv.org/abs/2505.22416)
 - 2023-08-10, **Near-realtime Facial Animation by Deep 3D Simulation Super-Resolution**, Hyojoon Park et.al., Paper: [http://arxiv.org/abs/2305.03216](http://arxiv.org/abs/2305.03216)
 - 2024-05-10, **NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior**, Gihoon Kim et.al., Paper: [http://arxiv.org/abs/2405.05749](http://arxiv.org/abs/2405.05749)
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
@@ -354,6 +357,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-07-26, **LinguaLinker: Audio-Driven Portraits Animation with Implicit Facial Control Enhancement**, Rui Zhang et.al., Paper: [http://arxiv.org/abs/2407.18595](http://arxiv.org/abs/2407.18595)
 - 2022-10-21, **Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection**, Alexandros Haliassos et.al., Paper: [http://arxiv.org/abs/2201.07131](http://arxiv.org/abs/2201.07131), Code: **[https://github.com/ahaliassos/RealForensics](https://github.com/ahaliassos/RealForensics)**
 - 2024-11-24, **LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis**, Haojie Zhang et.al., Paper: [http://arxiv.org/abs/2411.16748](http://arxiv.org/abs/2411.16748)
+- 2025-05-28, **Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**, Zhe Kong et.al., Paper: [http://arxiv.org/abs/2505.22647](http://arxiv.org/abs/2505.22647)
 - 2024-04-02, **Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation**, Taekyung Ki et.al., Paper: [http://arxiv.org/abs/2404.00636](http://arxiv.org/abs/2404.00636)
 - 2024-12-18, **Learning to Control an Android Robot Head for Facial Animation**, Marcel Heisler et.al., Paper: [http://arxiv.org/abs/2412.13641](http://arxiv.org/abs/2412.13641)
 - 2024-02-29, **Learning a Generalized Physical Face Model From Data**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2402.19477](http://arxiv.org/abs/2402.19477)
@@ -494,6 +498,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-03-02, **FaceShot: Bring Any Character into Life**, Junyao Gao et.al., Paper: [http://arxiv.org/abs/2503.00740](http://arxiv.org/abs/2503.00740)
 - 2024-12-23, **FaceLift: Single Image to 3D Head with View Generation and GS-LRM**, Weijie Lyu et.al., Paper: [http://arxiv.org/abs/2412.17812](http://arxiv.org/abs/2412.17812)
 - 2022-03-17, **FaceFormer: Speech-Driven 3D Facial Animation with Transformers**, Yingruo Fan et.al., Paper: [http://arxiv.org/abs/2112.05329](http://arxiv.org/abs/2112.05329), Code: **[https://github.com/EvelynFan/FaceFormer](https://github.com/EvelynFan/FaceFormer)**
+- 2025-05-28, **FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2505.22141](http://arxiv.org/abs/2505.22141)
 - 2023-09-20, **FaceDiffuser: Speech-Driven 3D Facial Animation Synthesis Using Diffusion**, Stefan Stan et.al., Paper: [http://arxiv.org/abs/2309.11306](http://arxiv.org/abs/2309.11306), Code: **[https://github.com/uuembodiedsocialai/FaceDiffuser](https://github.com/uuembodiedsocialai/FaceDiffuser)**
 - 2024-04-01, **FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2403.01901](http://arxiv.org/abs/2403.01901), Code: **[https://github.com/modelscope/facechain](https://github.com/modelscope/facechain)**
 - 2022-06-09, **Face-Dubbing++: Lip-Synchronous, Voice Preserving Translation of Videos**, Alexander Waibel et.al., Paper: [http://arxiv.org/abs/2206.04523](http://arxiv.org/abs/2206.04523)

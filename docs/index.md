@@ -49,6 +49,11 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation**|Zhe Kong et.al.|[2505.22647](http://arxiv.org/abs/2505.22647)|null|
+|**2025-05-28**|**Tell me Habibi, is it Real or Fake?**|Kartik Kuckreja et.al.|[2505.22581](http://arxiv.org/abs/2505.22581)|null|
+|**2025-05-28**|**Neural Face Skinning for Mesh-agnostic Facial Expression Cloning**|Sihun Cha et.al.|[2505.22416](http://arxiv.org/abs/2505.22416)|null|
+|**2025-05-28**|**FaceEditTalker: Interactive Talking Head Generation with Facial Attribute Editing**|Guanwen Feng et.al.|[2505.22141](http://arxiv.org/abs/2505.22141)|null|
+|**2025-05-28**|**RESOUND: Speech Reconstruction from Silent Videos via Acoustic-Semantic Decomposed Modeling**|Long-Khanh Pham et.al.|[2505.22024](http://arxiv.org/abs/2505.22024)|null|
 |**2025-05-27**|**OmniSync: Towards Universal Lip Synchronization via Diffusion Transformers**|Ziqiao Peng et.al.|[2505.21448](http://arxiv.org/abs/2505.21448)|null|
 |**2025-05-26**|**Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting**|Yizhou Zhao et.al.|[2505.20582](http://arxiv.org/abs/2505.20582)|null|
 |**2025-05-26**|**DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations**|Ziqiao Peng et.al.|[2505.18096](http://arxiv.org/abs/2505.18096)|null|
