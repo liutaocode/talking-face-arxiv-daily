@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers (With GPT Analysis)
-> Updated on 2025.06.09
+> Updated on 2025.06.10
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -192,7 +192,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841), Code: **[https://github.com/SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1)**
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
 - 2023-12-08, **SingingHead: A Large-scale 4D Dataset for Singing Head Animation**, Sijing Wu et.al., Paper: [http://arxiv.org/abs/2312.04369](http://arxiv.org/abs/2312.04369)
-- 2025-06-02, **Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**, Yuan Gan et.al., Paper: [http://arxiv.org/abs/2506.01591](http://arxiv.org/abs/2506.01591)
+- 2025-06-02, **Silence is Golden: Leveraging Adversarial Examples to Nullify Audio Control in LDM-based Talking-Head Generation**, Yuan Gan et.al., Paper: [http://arxiv.org/abs/2506.01591](http://arxiv.org/abs/2506.01591), Code: **[https://github.com/yuangan/silencer](https://github.com/yuangan/silencer)**
 - 2009-12-03, **Sequential Clustering based Facial Feature Extraction Method for Automatic Creation of Facial Models from Orthogonal Views**, Alireza Ghahari et.al., Paper: [http://arxiv.org/abs/0912.0600](http://arxiv.org/abs/0912.0600)
 - 2023-08-30, **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2306.10799](http://arxiv.org/abs/2306.10799), Code: **[https://github.com/psyai-net/SelfTalk_release](https://github.com/psyai-net/SelfTalk_release)**
 - 2022-01-24, **Selective Listening by Synchronizing Speech with Lips**, Zexu Pan et.al., Paper: [http://arxiv.org/abs/2106.07150](http://arxiv.org/abs/2106.07150), Code: **[https://github.com/zexupan/reentry](https://github.com/zexupan/reentry)**
@@ -775,7 +775,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 ## Image Animation
 
@@ -881,7 +881,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
 
 Notes: 
 
