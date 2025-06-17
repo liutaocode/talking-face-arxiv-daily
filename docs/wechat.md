@@ -52,6 +52,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 ## Talking Face
 
 - 2023-12-13, **uTalk: Bridging the Gap Between Humans and AI**, Hussam Azzuni et.al., Paper: [http://arxiv.org/abs/2310.02739](http://arxiv.org/abs/2310.02739)
+- 2025-06-15, **iDiT-HOI: Inpainting-based Hand Object Interaction Reenactment via Video Diffusion Transformer**, Zhelun Shen et.al., Paper: [http://arxiv.org/abs/2506.12847](http://arxiv.org/abs/2506.12847)
 - 2023-05-09, **Zero-shot personalized lip-to-speech synthesis with face image based voice control**, Zheng-Yan Sheng et.al., Paper: [http://arxiv.org/abs/2305.14359](http://arxiv.org/abs/2305.14359)
 - 2017-07-18, **You said that?**, Joon Son Chung et.al., Paper: [http://arxiv.org/abs/1705.02966](http://arxiv.org/abs/1705.02966)
 - 2024-03-27, **X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention**, You Xie et.al., Paper: [http://arxiv.org/abs/2403.15931](http://arxiv.org/abs/2403.15931)
@@ -433,6 +434,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-04-29, **IM-Portrait: Learning 3D-aware Video Diffusion for Photorealistic Talking Heads from Monocular Videos**, Yuan Li et.al., Paper: [http://arxiv.org/abs/2504.19165](http://arxiv.org/abs/2504.19165)
 - 2024-12-10, **IF-MDM: Implicit Face Motion Diffusion Model for High-Fidelity Realtime Talking Head Generation**, Sejong Yang et.al., Paper: [http://arxiv.org/abs/2412.04000](http://arxiv.org/abs/2412.04000)
 - 2020-01-17, **ICface: Interpretable and Controllable Face Reenactment Using GANs**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/1904.01909](http://arxiv.org/abs/1904.01909)
+- 2025-06-13, **ICME 2025 Grand Challenge on Video Super-Resolution for Video Conferencing**, Babak Naderi et.al., Paper: [http://arxiv.org/abs/2506.12269](http://arxiv.org/abs/2506.12269)
 - 2023-07-20, **HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2307.10797](http://arxiv.org/abs/2307.10797), Code: **[https://github.com/stelabou/hyperreenact](https://github.com/stelabou/hyperreenact)**
 - 2023-10-15, **HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**, Yaosen Chen et.al., Paper: [http://arxiv.org/abs/2310.05720](http://arxiv.org/abs/2310.05720), Code: **[https://github.com/semchan/HyperLips](https://github.com/semchan/HyperLips)**
 - 2025-06-10, **HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2506.08797](http://arxiv.org/abs/2506.08797)
@@ -708,6 +710,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-05-07, **Audio-Visual Speech Representation Expert for Enhanced Talking Face Video Generation and Evaluation**, Dogucan Yaman et.al., Paper: [http://arxiv.org/abs/2405.04327](http://arxiv.org/abs/2405.04327)
 - 2023-05-18, **Audio-Visual Person-of-Interest DeepFake Detection**, Davide Cozzolino et.al., Paper: [http://arxiv.org/abs/2204.03083](http://arxiv.org/abs/2204.03083), Code: **[https://github.com/grip-unina/poi-forensics](https://github.com/grip-unina/poi-forensics)**
 - 2022-10-06, **Audio-Visual Face Reenactment**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.02755](http://arxiv.org/abs/2210.02755), Code: **[https://github.com/mdv3101/AVFR-Gan](https://github.com/mdv3101/AVFR-Gan)**
+- 2025-06-16, **Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**, Riku Takahashi et.al., Paper: [http://arxiv.org/abs/2506.13419](http://arxiv.org/abs/2506.13419)
 - 2023-09-15, **Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech**, Junjie Li et.al., Paper: [http://arxiv.org/abs/2309.08408](http://arxiv.org/abs/2309.08408), Code: **[https://github.com/mrjunjieli/activeextract](https://github.com/mrjunjieli/activeextract)**
 - 2025-03-28, **Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**, Shuai Shen et.al., Paper: [http://arxiv.org/abs/2503.22605](http://arxiv.org/abs/2503.22605)
 - 2025-04-26, **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2504.18810](http://arxiv.org/abs/2504.18810)
