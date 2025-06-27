@@ -480,6 +480,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-12-12, **GMTalker: Gaussian Mixture based Emotional talking video Portraits**, Yibo Xia et.al., Paper: [http://arxiv.org/abs/2312.07669](http://arxiv.org/abs/2312.07669)
 - 2024-08-16, **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.01826](http://arxiv.org/abs/2408.01826)
 - 2024-12-18, **GLCF: A Global-Local Multimodal Coherence Analysis Framework for Talking Face Generation Detection**, Xiaocan Chen et.al., Paper: [http://arxiv.org/abs/2412.13656](http://arxiv.org/abs/2412.13656)
+- 2025-06-26, **GGTalker: Talking Head Systhesis with Generalizable Gaussian Priors and Identity-Specific Adaptation**, Wentao Hu et.al., Paper: [http://arxiv.org/abs/2506.21513](http://arxiv.org/abs/2506.21513)
 - 2018-08-28, **GANimation: Anatomically-aware Facial Animation from a Single Image**, Albert Pumarola et.al., Paper: [http://arxiv.org/abs/1807.09251](http://arxiv.org/abs/1807.09251), Code: **[https://github.com/albertpumarola/GANimation](https://github.com/albertpumarola/GANimation)**
 - 2024-03-14, **GAIA: Zero-shot Talking Avatar Generation**, Tianyu He et.al., Paper: [http://arxiv.org/abs/2311.15230](http://arxiv.org/abs/2311.15230)
 - 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
