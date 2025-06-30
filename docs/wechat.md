@@ -214,6 +214,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-25, **SAiD: Speech-driven Blendshape Facial Animation with Diffusion**, Inkyu Park et.al., Paper: [http://arxiv.org/abs/2401.08655](http://arxiv.org/abs/2401.08655), Code: **[https://github.com/yunik1004/said](https://github.com/yunik1004/said)**
 - 2023-07-03, **RobustL2S: Speaker-Specific Lip-to-Speech Synthesis exploiting Self-Supervised Representations**, Neha Sahipjohn et.al., Paper: [http://arxiv.org/abs/2307.01233](http://arxiv.org/abs/2307.01233)
 - 2020-12-14, **Robust One Shot Audio to Video Generation**, Neeraj Kumar et.al., Paper: [http://arxiv.org/abs/2012.07842](http://arxiv.org/abs/2012.07842)
+- 2025-06-27, **RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**, Haofeng Wang et.al., Paper: [http://arxiv.org/abs/2506.21865](http://arxiv.org/abs/2506.21865)
 - 2022-09-07, **Restructurable Activation Networks**, Kartikeya Bhardwaj et.al., Paper: [http://arxiv.org/abs/2208.08562](http://arxiv.org/abs/2208.08562), Code: **[https://github.com/arm-software/ml-restructurable-activation-networks](https://github.com/arm-software/ml-restructurable-activation-networks)**
 - 2022-07-20, **Responsive Listening Head Generation: A Benchmark Dataset and Baseline**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2112.13548](http://arxiv.org/abs/2112.13548)
 - 2024-02-26, **Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**, Yifei Li et.al., Paper: [http://arxiv.org/abs/2402.16599](http://arxiv.org/abs/2402.16599)
@@ -322,6 +323,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2025-01-09, **MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation**, Huaize Liu et.al., Paper: [http://arxiv.org/abs/2501.01808](http://arxiv.org/abs/2501.01808)
 - 2024-03-28, **MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation**, Seyeon Kim et.al., Paper: [http://arxiv.org/abs/2403.19144](http://arxiv.org/abs/2403.19144), Code: **[https://github.com/KU-CVLAB/MoDiTalker](https://github.com/KU-CVLAB/MoDiTalker)**
 - 2025-03-30, **MoCha: Towards Movie-Grade Talking Character Synthesis**, Cong Wei et.al., Paper: [http://arxiv.org/abs/2503.23307](http://arxiv.org/abs/2503.23307)
+- 2025-06-27, **MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**, Dechao Meng et.al., Paper: [http://arxiv.org/abs/2506.22065](http://arxiv.org/abs/2506.22065)
 - 2024-10-15, **MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2410.06734](http://arxiv.org/abs/2410.06734)
 - 2023-12-18, **Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation**, Hui Fu et.al., Paper: [http://arxiv.org/abs/2312.10877](http://arxiv.org/abs/2312.10877)
 - 2024-08-28, **Micro and macro facial expressions by driven animations in realistic Virtual Humans**, Rubens Halbig Montanha et.al., Paper: [http://arxiv.org/abs/2408.16110](http://arxiv.org/abs/2408.16110)
@@ -498,6 +500,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2021-10-12, **Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**, Haichao Zhang et.al., Paper: [http://arxiv.org/abs/2110.04708](http://arxiv.org/abs/2110.04708)
 - 2022-10-06, **Finding Directions in GAN's Latent Space for Neural Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2202.00046](http://arxiv.org/abs/2202.00046), Code: **[https://github.com/stelabou/stylegan_directions_face_reenactment](https://github.com/stelabou/stylegan_directions_face_reenactment)**
 - 2019-10-28, **Few-shot Video-to-Video Synthesis**, Ting-Chun Wang et.al., Paper: [http://arxiv.org/abs/1910.12713](http://arxiv.org/abs/1910.12713)
+- 2025-06-27, **Few-Shot Identity Adaptation for 3D Talking Heads via Global Gaussian Field**, Hong Nie et.al., Paper: [http://arxiv.org/abs/2506.22044](http://arxiv.org/abs/2506.22044)
 - 2019-09-25, **Few-Shot Adversarial Learning of Realistic Neural Talking Head Models**, Egor Zakharov et.al., Paper: [http://arxiv.org/abs/1905.08233](http://arxiv.org/abs/1905.08233)
 - 2024-09-24, **FastTalker: Jointly Generating Speech and Conversational Gestures from Text**, Zixin Guo et.al., Paper: [http://arxiv.org/abs/2409.16404](http://arxiv.org/abs/2409.16404)
 - 2022-07-13, **FastLTS: Non-Autoregressive End-to-End Unconstrained Lip-to-Speech Synthesis**, Yongqi Wang et.al., Paper: [http://arxiv.org/abs/2207.03800](http://arxiv.org/abs/2207.03800)
