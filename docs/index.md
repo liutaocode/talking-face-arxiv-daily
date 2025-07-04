@@ -49,6 +49,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation**|Xiangyang Luo et.al.|[2507.02691](http://arxiv.org/abs/2507.02691)|null|
 |**2025-07-02**|**FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**|Shuai Tan et.al.|[2507.01390](http://arxiv.org/abs/2507.01390)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
 |**2025-06-27**|**MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation**|Dechao Meng et.al.|[2506.22065](http://arxiv.org/abs/2506.22065)|null|

@@ -688,6 +688,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-10-14, **Character-aware audio-visual subtitling in context**, Jaesung Huh et.al., Paper: [http://arxiv.org/abs/2410.11068](http://arxiv.org/abs/2410.11068)
 - 1998-07-31, **Character design for soccer commmentary**, Kim Binsted et.al., Paper: [http://arxiv.org/abs/cmp-lg/9807012](http://arxiv.org/abs/cmp-lg/9807012)
 - 2019-05-08, **Capture, Learning, and Synthesis of 3D Speaking Styles**, Daniel Cudeiro et.al., Paper: [http://arxiv.org/abs/1905.03079](http://arxiv.org/abs/1905.03079), Code: **[https://github.com/TimoBolkart/voca](https://github.com/TimoBolkart/voca)**
+- 2025-07-03, **CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation**, Xiangyang Luo et.al., Paper: [http://arxiv.org/abs/2507.02691](http://arxiv.org/abs/2507.02691)
 - 2025-03-14, **Cafe-Talk: Generating 3D Talking Face Animation with Multimodal Coarse- and Fine-grained Control**, Hejia Chen et.al., Paper: [http://arxiv.org/abs/2503.14517](http://arxiv.org/abs/2503.14517)
 - 2024-04-29, **CSTalk: Correlation Supervised Speech-driven 3D Emotional Facial Animation Generation**, Xiangyu Liang et.al., Paper: [http://arxiv.org/abs/2404.18604](http://arxiv.org/abs/2404.18604)
 - 2023-05-23, **CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation**, Jingning Xu et.al., Paper: [http://arxiv.org/abs/2305.13962](http://arxiv.org/abs/2305.13962)
