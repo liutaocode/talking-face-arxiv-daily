@@ -49,6 +49,9 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation**|Yucheng Wang et.al.|[2507.05092](http://arxiv.org/abs/2507.05092)|null|
+|**2025-07-05**|**EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**|Rang Meng et.al.|[2507.03905](http://arxiv.org/abs/2507.03905)|null|
+|**2025-07-04**|**MoDA: Multi-modal Diffusion Architecture for Talking Head Generation**|Xinyang Li et.al.|[2507.03256](http://arxiv.org/abs/2507.03256)|null|
 |**2025-07-03**|**CanonSwap: High-Fidelity and Consistent Video Face Swapping via Canonical Space Modulation**|Xiangyang Luo et.al.|[2507.02691](http://arxiv.org/abs/2507.02691)|null|
 |**2025-07-02**|**FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**|Shuai Tan et.al.|[2507.01390](http://arxiv.org/abs/2507.01390)|null|
 |**2025-06-30**|**JAM-Flow: Joint Audio-Motion Synthesis with Flow Matching**|Mingi Kwon et.al.|[2506.23552](http://arxiv.org/abs/2506.23552)|null|
