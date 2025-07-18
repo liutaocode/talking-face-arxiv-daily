@@ -108,6 +108,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2023-08-24, **ToonTalker: Cross-Domain Face Reenactment**, Yuan Gong et.al., Paper: [http://arxiv.org/abs/2308.12866](http://arxiv.org/abs/2308.12866)
 - 2024-10-15, **Titanic Calling: Low Bandwidth Video Conference from the Titanic Wreck**, Fevziye Irem Eyiokur et.al., Paper: [http://arxiv.org/abs/2410.11434](http://arxiv.org/abs/2410.11434)
 - 2022-02-22, **Thinking the Fusion Strategy of Multi-reference Face Reenactment**, Takuya Yashima et.al., Paper: [http://arxiv.org/abs/2202.10758](http://arxiv.org/abs/2202.10758)
+- 2025-07-17, **Think-Before-Draw: Decomposing Emotion Semantics & Fine-Grained Controllable Expressive Talking Head Generation**, Hanlei Shi et.al., Paper: [http://arxiv.org/abs/2507.12761](http://arxiv.org/abs/2507.12761)
 - 2022-03-29, **Thin-Plate Spline Motion Model for Image Animation**, Jian Zhao et.al., Paper: [http://arxiv.org/abs/2203.14367](http://arxiv.org/abs/2203.14367), Code: **[https://github.com/yoyo-nb/thin-plate-spline-motion-model](https://github.com/yoyo-nb/thin-plate-spline-motion-model)**
 - 2024-07-24, **The impact of differences in facial features between real speakers and 3D face models on synthesized lip motions**, Rabab Algadhy et.al., Paper: [http://arxiv.org/abs/2407.17253](http://arxiv.org/abs/2407.17253)
 - 2023-10-23, **The Self 2.0: How AI-Enhanced Self-Clones Transform Self-Perception and Improve Presentation Skills**, Qingxiao Zheng et.al., Paper: [http://arxiv.org/abs/2310.15112](http://arxiv.org/abs/2310.15112)
@@ -514,6 +515,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-01-19, **Fast Registration of Photorealistic Avatars for VR Facial Animation**, Chaitanya Patel et.al., Paper: [http://arxiv.org/abs/2401.11002](http://arxiv.org/abs/2401.11002)
 - 2022-04-25, **Fast Facial Landmark Detection and Applications: A Survey**, Kostiantyn Khabarlak et.al., Paper: [http://arxiv.org/abs/2101.10808](http://arxiv.org/abs/2101.10808)
 - 2017-07-26, **Fast Deep Matting for Portrait Animation on Mobile Phone**, Bingke Zhu et.al., Paper: [http://arxiv.org/abs/1707.08289](http://arxiv.org/abs/1707.08289)
+- 2025-07-17, **FantasyPortrait: Enhancing Multi-Character Portrait Animation with Expression-Augmented Diffusion Transformers**, Qiang Wang et.al., Paper: [http://arxiv.org/abs/2507.12956](http://arxiv.org/abs/2507.12956)
 - 2022-03-01, **FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset**, Hasam Khalid et.al., Paper: [http://arxiv.org/abs/2108.05080](http://arxiv.org/abs/2108.05080), Code: **[https://github.com/dash-lab/fakeavceleb](https://github.com/dash-lab/fakeavceleb)**
 - 2022-09-29, **Facial Landmark Predictions with Applications to Metaverse**, Qiao Han et.al., Paper: [http://arxiv.org/abs/2209.14698](http://arxiv.org/abs/2209.14698), Code: **[https://github.com/sweatybridge/text-to-anime](https://github.com/sweatybridge/text-to-anime)**
 - 2020-11-02, **Facial Keypoint Sequence Generation from Audio**, Prateek Manocha et.al., Paper: [http://arxiv.org/abs/2011.01114](http://arxiv.org/abs/2011.01114)
@@ -673,6 +675,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-03-01, **DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder**, Chenpeng Du et.al., Paper: [http://arxiv.org/abs/2303.17550](http://arxiv.org/abs/2303.17550)
 - 2023-03-05, **Cyber Vaccine for Deepfake Immunity**, Ching-Chun Chang et.al., Paper: [http://arxiv.org/abs/2303.02659](http://arxiv.org/abs/2303.02659)
 - 2022-06-29, **Cut Inner Layers: A Structured Pruning Strategy for Efficient U-Net GANs**, Bo-Kyeong Kim et.al., Paper: [http://arxiv.org/abs/2206.14658](http://arxiv.org/abs/2206.14658)
+- 2025-07-17, **Cross-Modal Watermarking for Authentic Audio Recovery and Tamper Localization in Synthesized Audiovisual Forgeries**, Minyoung Kim et.al., Paper: [http://arxiv.org/abs/2507.12723](http://arxiv.org/abs/2507.12723)
 - 2023-10-17, **CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation**, Zhaojie Chu et.al., Paper: [http://arxiv.org/abs/2310.11295](http://arxiv.org/abs/2310.11295)
 - 2024-06-05, **Controllable Talking Face Generation by Implicit Facial Keypoints Editing**, Dong Zhao et.al., Paper: [http://arxiv.org/abs/2406.02880](http://arxiv.org/abs/2406.02880)
 - 2023-04-27, **Controllable One-Shot Face Video Synthesis With Semantic Aware Prior**, Kangning Liu et.al., Paper: [http://arxiv.org/abs/2304.14471](http://arxiv.org/abs/2304.14471)
@@ -766,6 +769,7 @@ Overall, the interconnectedness among these papers highlights a trend towards ac
 - 2024-02-25, **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2402.16124](http://arxiv.org/abs/2402.16124)
 - 2025-02-18, **AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2502.13133](http://arxiv.org/abs/2502.13133)
 - 2025-07-16, **AU-Blendshape for Fine-grained Stylized 3D Facial Expression Manipulation**, Hao Li et.al., Paper: [http://arxiv.org/abs/2507.12001](http://arxiv.org/abs/2507.12001)
+- 2025-07-17, **ATL-Diff: Audio-Driven Talking Head Generation with Early Landmarks-Guide Noise Diffusion**, Hoang-Son Vo et.al., Paper: [http://arxiv.org/abs/2507.12804](http://arxiv.org/abs/2507.12804)
 - 2025-02-28, **ARTalk: Speech-Driven 3D Head Animation via Autoregressive Model**, Xuangeng Chu et.al., Paper: [http://arxiv.org/abs/2502.20323](http://arxiv.org/abs/2502.20323)
 - 2020-10-25, **APB2FaceV2: Real-Time Audio-Guided Multi-Face Reenactment**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2010.13017](http://arxiv.org/abs/2010.13017), Code: **[https://github.com/zhangzjn/APB2FaceV2](https://github.com/zhangzjn/APB2FaceV2)**
 - 2020-04-30, **APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2004.14569](http://arxiv.org/abs/2004.14569)
