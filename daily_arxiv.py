@@ -7,6 +7,11 @@ import logging
 import argparse
 import datetime
 import requests
+import warnings
+from urllib3.exceptions import InsecureRequestWarning
+
+# 禁用SSL警告
+warnings.filterwarnings('ignore', category=InsecureRequestWarning)
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -101,13 +106,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
-    search_engine = arxiv.Search(
+    
+    # Use Client instead of Search to avoid deprecation warning
+    client = arxiv.Client()
+    search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in client.results(search):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -132,11 +140,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
         paper_url = arxiv_url + 'abs/' + paper_key
         
         try:
-            # source code link    
-            r = requests.get(code_url).json()
+            # source code link - 暂时跳过paperswithcode请求，避免SSL错误
             repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
+            # r = requests.get(code_url, verify=False).json()
+            # if "official" in r and r["official"]:
+            #     repo_url = r["official"]["url"]
             # TODO: not found, two more chances  
             # else: 
             #    repo_url = get_code_link(paper_title)
@@ -206,15 +214,16 @@ def update_paper_links(filename):
                 if valid_link:
                     continue
                 try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
+                    # 暂时跳过paperswithcode请求，避免SSL错误
+                    # code_url = base_url + paper_id #TODO
+                    # r = requests.get(code_url, verify=False).json()
                     repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
+                    # if "official" in r and r["official"]:
+                    #     repo_url = r["official"]["url"]
+                    #     if repo_url is not None:
+                    #         new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
+                    #         logging.info(f'ID = {paper_id}, contents = {new_cont}')
+                    #         json_data[keywords][paper_id] = str(new_cont)
 
                 except Exception as e:
                     logging.error(f"exception: {e} with id: {paper_id}")
@@ -252,8 +261,7 @@ def contains_any_title(str,
                        set):
     return any(s in str for s in set)
 
-def json_to_md(recent_trend_path,
-               filename,
+def json_to_md(filename,
                md_filename,
                black_list_set,
                task = '',
@@ -308,7 +316,7 @@ def json_to_md(recent_trend_path,
             f.write(f"[![Stargazers][stars-shield]][stars-url]\n")
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
         
-        f.write("# Talking-Face Research Papers (With GPT Analysis)\n")
+        f.write("# Talking-Face Research Papers\n")
         if use_title == True:
             #f.write(("<p align="center"><h1 align="center"><br><ins>talking-face-arxiv-daily"
             #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
@@ -319,18 +327,8 @@ def json_to_md(recent_trend_path,
         # TODO: add usage
         f.write("Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`\n\n")
         f.write("> If you have any other keywords, please feel free to let us know :) \n\n")
-        f.write("> We now offer support for article analysis through large language models. You can view this feature by clicking the `Paper Analysis` link below. Currently, we are experimenting with `Claude.ai` or `Moonshot AI`. This is to help everyone **quickly skim** through the latest research papers. \n\n")
+        # AI analysis removed
         f.write(" \n\n")
-
-        recent_trend = open(recent_trend_path).read()
-        f.write("<details>\n")
-        f.write("  <summary>Recent Trends (by AI)</summary>\n")
-        f.write("  <ol>\n")    
-        f.write(f"    <li>{recent_trend}</li>\n")
-        f.write("  </ol>\n")
-        f.write("</details>\n\n")
-
-        f.write("[>>>> Each Paper Analysis (by AI) <<<<](https://github.com/liutaocode/talking-face-arxiv-daily/blob/main/analysis_by_ai.md) \n\n")
         f.write("[Web Page](https://liutaocode.github.io/talking-face-arxiv-daily/) ([Scrape Code](https://github.com/liutaocode/talking-face-arxiv-daily)) \n\n")
         
         #Add: table of contents
@@ -385,11 +383,9 @@ def json_to_md(recent_trend_path,
         
         f.write("Notes: \n\n")
         f.write("* We have modified the `sorting rule` of the above table to prioritize papers based on the time of their latest update rather than their initial publication date. If an article has been recently modified, it will appear earlier in the list. \n\n")
-        f.write("* However, recent trends are still based on `ten` papers sorted by the initial publication date. \n\n")
         f.write("Function added: \n\n")
         f.write("* Support more reliable text parser. [Link](https://github.com/pdfminer/pdfminer.six) \n\n")
         f.write("* Support rich markdown format (better at parsing experimental tables). [Link](https://github.com/davendw49/sciparser) \n\n")
-        f.write("* Supports the analysis of more than 10 papers in a single conversation, which exceeds the attachment size limit. \n\n")
         
         if show_badge == True:
             # we don't like long string, break it!
@@ -424,7 +420,6 @@ def demo(**config):
     publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
     black_list_path = config['black_list_path']
-    recent_trend_path = config['recent_trend_path']
 
     black_list_set = set() # some papers in this set will be excluded
     with open(black_list_path, 'r') as file:
@@ -455,7 +450,7 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update Readme', \
+        json_to_md(json_file, md_file, black_list_set, task ='Update Readme', \
             show_badge = show_badge)
 
     # 2. update docs/index.md file (to gitpage)
@@ -467,7 +462,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update GitPage', \
+        json_to_md(json_file, md_file, black_list_set, task ='Update GitPage', \
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
@@ -480,7 +475,7 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(recent_trend_path, json_file, md_file, black_list_set, task ='Update Wechat', \
+        json_to_md(json_file, md_file, black_list_set, task ='Update Wechat', \
             to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
