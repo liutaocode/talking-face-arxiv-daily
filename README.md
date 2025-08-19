@@ -25,6 +25,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-17**|**CEM-Net: Cross-Emotion Memory Network for Emotional Talking Face Generation**|Kangyi Wu et.al.|[2508.12368](http://arxiv.org/abs/2508.12368)|null|
+|**2025-08-16**|**RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis**|Wenqing Wang et.al.|[2508.12163](http://arxiv.org/abs/2508.12163)|null|
+|**2025-08-16**|**SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System**|Truong Thanh Hung Nguyen et.al.|[2508.11873](http://arxiv.org/abs/2508.11873)|null|
 |**2025-08-15**|**FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation**|MengChao Wang et.al.|[2508.11255](http://arxiv.org/abs/2508.11255)|null|
 |**2025-08-14**|**HM-Talker: Hybrid Motion Modeling for High-Fidelity Talking Head Synthesis**|Shiyu Liu et.al.|[2508.10566](http://arxiv.org/abs/2508.10566)|null|
 |**2025-08-14**|**M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**|Kui Jiang et.al.|[2507.08307](http://arxiv.org/abs/2507.08307)|null|
