@@ -117,6 +117,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-05-13, **Talking Face Generation with Multilingual TTS**, Hyoung-Kyu Song et.al., Paper: [http://arxiv.org/abs/2205.06421](http://arxiv.org/abs/2205.06421)
 - 2019-07-25, **Talking Face Generation by Conditional Recurrent Adversarial Network**, Yang Song et.al., Paper: [http://arxiv.org/abs/1804.04786](http://arxiv.org/abs/1804.04786), Code: **[https://github.com/susanqq/Talking_Face_Generation](https://github.com/susanqq/Talking_Face_Generation)**
 - 2019-04-23, **Talking Face Generation by Adversarially Disentangled Audio-Visual Representation**, Hang Zhou et.al., Paper: [http://arxiv.org/abs/1807.07860](http://arxiv.org/abs/1807.07860)
+- 2025-08-19, **TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis**, Shunian Chen et.al., Paper: [http://arxiv.org/abs/2508.13618](http://arxiv.org/abs/2508.13618)
 - 2024-08-25, **TalkLoRA: Low-Rank Adaptation for Speech-Driven Animation**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2408.13714](http://arxiv.org/abs/2408.13714)
 - 2023-04-01, **TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2304.00334](http://arxiv.org/abs/2304.00334)
 - 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153](http://arxiv.org/abs/2403.20153), Code: **[https://github.com/KU-CVLAB/Talk3D](https://github.com/KU-CVLAB/Talk3D)**
@@ -604,6 +605,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-01-18, **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**, Linrui Tian et.al., Paper: [http://arxiv.org/abs/2501.10687](http://arxiv.org/abs/2501.10687)
 - 2024-04-11, **EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**, Trung Tuan Dao et.al., Paper: [http://arxiv.org/abs/2312.17205](http://arxiv.org/abs/2312.17205)
 - 2024-04-02, **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2404.01647](http://arxiv.org/abs/2404.01647)
+- 2025-08-19, **EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2508.13442](http://arxiv.org/abs/2508.13442)
 - 2018-08-19, **Dynamic Temporal Alignment of Speech to Lips**, Tavi Halperin et.al., Paper: [http://arxiv.org/abs/1808.06250](http://arxiv.org/abs/1808.06250), Code: **[https://github.com/tavihalperin/AV-sync](https://github.com/tavihalperin/AV-sync)**
 - 2022-04-13, **Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions**, Zipeng Ye et.al., Paper: [http://arxiv.org/abs/2204.06180](http://arxiv.org/abs/2204.06180)
 - 2020-10-05, **Dynamic Facial Asset and Rig Generation from a Single Scan**, Jiaman Li et.al., Paper: [http://arxiv.org/abs/2010.00560](http://arxiv.org/abs/2010.00560)

@@ -25,6 +25,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-19**|**TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis**|Shunian Chen et.al.|[2508.13618](http://arxiv.org/abs/2508.13618)|null|
+|**2025-08-19**|**EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis**|Shuai Tan et.al.|[2508.13442](http://arxiv.org/abs/2508.13442)|null|
 |**2025-08-17**|**CEM-Net: Cross-Emotion Memory Network for Emotional Talking Face Generation**|Kangyi Wu et.al.|[2508.12368](http://arxiv.org/abs/2508.12368)|null|
 |**2025-08-16**|**RealTalk: Realistic Emotion-Aware Lifelike Talking-Head Synthesis**|Wenqing Wang et.al.|[2508.12163](http://arxiv.org/abs/2508.12163)|null|
 |**2025-08-16**|**SimInterview: Transforming Business Education through Large Language Model-Based Simulated Multilingual Interview Training System**|Truong Thanh Hung Nguyen et.al.|[2508.11873](http://arxiv.org/abs/2508.11873)|null|
