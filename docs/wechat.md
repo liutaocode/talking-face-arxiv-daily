@@ -449,6 +449,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-10-15, **HyperLips: Hyper Control Lips with High Resolution Decoder for Talking Face Generation**, Yaosen Chen et.al., Paper: [http://arxiv.org/abs/2310.05720](http://arxiv.org/abs/2310.05720), Code: **[https://github.com/semchan/HyperLips](https://github.com/semchan/HyperLips)**
 - 2025-06-10, **HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2506.08797](http://arxiv.org/abs/2506.08797)
 - 2025-03-25, **HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**, Zunnan Xu et.al., Paper: [http://arxiv.org/abs/2503.18860](http://arxiv.org/abs/2503.18860)
+- 2025-08-18, **Human Feedback Driven Dynamic Speech Emotion Recognition**, Ilya Fedorov et.al., Paper: [http://arxiv.org/abs/2508.14920](http://arxiv.org/abs/2508.14920)
 - 2024-08-10, **High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2408.05416](http://arxiv.org/abs/2408.05416)
 - 2023-05-31, **High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02572](http://arxiv.org/abs/2305.02572)
 - 2023-03-04, **High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors**, Yunpeng Bai et.al., Paper: [http://arxiv.org/abs/2211.15064](http://arxiv.org/abs/2211.15064)
