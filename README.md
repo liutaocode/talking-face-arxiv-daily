@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/abs/2508.16401)|null|
 |**2025-08-20**|**D^3-Talker: Dual-Branch Decoupled Deformation Fields for Few-Shot 3D Talking Head Synthesis**|Yuhang Guo et.al.|[2508.14449](http://arxiv.org/abs/2508.14449)|null|
 |**2025-08-20**|**Taming Transformer for Emotion-Controllable Talking Face Generation**|Ziqi Zhang et.al.|[2508.14359](http://arxiv.org/abs/2508.14359)|null|
 |**2025-08-19**|**TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis**|Shunian Chen et.al.|[2508.13618](http://arxiv.org/abs/2508.13618)|null|
