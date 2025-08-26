@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2025.08.25
+> Updated on 2025.08.26
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -815,7 +815,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2019-08-29, **3D Face Pose and Animation Tracking via Eigen-Decomposition based Bayesian Approach**, Ngoc-Trung Tran et.al., Paper: [http://arxiv.org/abs/1908.11039](http://arxiv.org/abs/1908.11039)
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
 ## Image Animation
 
@@ -914,7 +914,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-07-17, **Audio-Synchronized Visual Animation**, Lin Zhang et.al., Paper: [http://arxiv.org/abs/2403.05659](http://arxiv.org/abs/2403.05659)
 - 2019-08-30, **Animating Arbitrary Objects via Deep Motion Transfer**, Aliaksandr Siarohin et.al., Paper: [http://arxiv.org/abs/1812.08861](http://arxiv.org/abs/1812.08861)
 - 2023-12-06, **AnimateZero: Video Diffusion Models are Zero-Shot Image Animators**, Jiwen Yu et.al., Paper: [http://arxiv.org/abs/2312.03793](http://arxiv.org/abs/2312.03793)
-- 2025-04-28, **AnimateAnywhere: Rouse the Background in Human Image Animation**, Xiaoyu Liu et.al., Paper: [http://arxiv.org/abs/2504.19834](http://arxiv.org/abs/2504.19834)
+- 2025-08-23, **AnimateAnywhere: Rouse the Background in Human Image Animation**, Xiaoyu Liu et.al., Paper: [http://arxiv.org/abs/2504.19834](http://arxiv.org/abs/2504.19834)
 - 2023-12-04, **AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance**, Zuozhuo Dai et.al., Paper: [http://arxiv.org/abs/2311.12886](http://arxiv.org/abs/2311.12886)
 - 2024-12-11, **Animate-X: Universal Character Image Animation with Enhanced Motion Representation**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2410.10306](http://arxiv.org/abs/2410.10306)
 - 2025-08-13, **Animate-X++: Universal Character Image Animation with Dynamic Backgrounds**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2508.09454](http://arxiv.org/abs/2508.09454)
@@ -926,7 +926,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20250825>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250826>back to top</a>)</p>
 
 Notes: 
 
