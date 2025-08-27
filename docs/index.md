@@ -21,6 +21,10 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-08-26**|**OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive Simulation**|Jianwen Jiang et.al.|[2508.19209](http://arxiv.org/abs/2508.19209)|null|
+|**2025-08-26**|**PanoHair: Detailed Hair Strand Synthesis on Volumetric Heads**|Shashikant Verma et.al.|[2508.18944](http://arxiv.org/abs/2508.18944)|null|
+|**2025-08-26**|**Wan-S2V: Audio-Driven Cinematic Video Generation**|Xin Gao et.al.|[2508.18621](http://arxiv.org/abs/2508.18621)|null|
+|**2025-08-25**|**EAI-Avatar: Emotion-Aware Interactive Talking Head Generation**|Haijie Yang et.al.|[2508.18337](http://arxiv.org/abs/2508.18337)|null|
 |**2025-08-22**|**Audio2Face-3D: Audio-driven Realistic Facial Animation For Digital Avatars**|NVIDIA et.al.|[2508.16401](http://arxiv.org/abs/2508.16401)|null|
 |**2025-08-20**|**D^3-Talker: Dual-Branch Decoupled Deformation Fields for Few-Shot 3D Talking Head Synthesis**|Yuhang Guo et.al.|[2508.14449](http://arxiv.org/abs/2508.14449)|null|
 |**2025-08-20**|**Taming Transformer for Emotion-Controllable Talking Face Generation**|Ziqi Zhang et.al.|[2508.14359](http://arxiv.org/abs/2508.14359)|null|
