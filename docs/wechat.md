@@ -433,6 +433,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-02-27, **InsTaG: Learning Personalized 3D Talking Head from Few-Second Video**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2502.20387](http://arxiv.org/abs/2502.20387), Code: **[https://github.com/Fictionarry/InsTaG](https://github.com/Fictionarry/InsTaG)**
 - 2021-12-19, **Initiative Defense against Facial Manipulation**, Qidong Huang et.al., Paper: [http://arxiv.org/abs/2112.10098](http://arxiv.org/abs/2112.10098), Code: **[https://github.com/shikiw/initiative-defense-for-deepfake](https://github.com/shikiw/initiative-defense-for-deepfake)**
 - 2018-11-16, **Influence of visual cues on head and eye movements during listening tasks in multi-talker audiovisual environments with animated characters**, Maartje M. E. Hendrikse et.al., Paper: [http://arxiv.org/abs/1812.02088](http://arxiv.org/abs/1812.02088)
+- 2025-08-27, **InfinityHuman: Towards Long-Term Audio-Driven Human**, Xiaodi Li et.al., Paper: [http://arxiv.org/abs/2508.20210](http://arxiv.org/abs/2508.20210)
 - 2025-08-27, **Improving Generalization in Deepfake Detection with Face Foundation Models and Metric Learning**, Stelios Mylonas et.al., Paper: [http://arxiv.org/abs/2508.19730](http://arxiv.org/abs/2508.19730)
 - 2023-03-09, **Improving Few-Shot Learning for Talking Face System with TTS Data Augmentation**, Qi Chen et.al., Paper: [http://arxiv.org/abs/2303.05322](http://arxiv.org/abs/2303.05322), Code: **[https://github.com/moon0316/t2a](https://github.com/moon0316/t2a)**
 - 2016-05-22, **Improving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression**, David Rim et.al., Paper: [http://arxiv.org/abs/1512.08212](http://arxiv.org/abs/1512.08212)
@@ -597,6 +598,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-12-12, **EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2412.08988](http://arxiv.org/abs/2412.08988)
 - 2025-03-14, **EmoDiffusion: Enhancing Emotional 3D Facial Animation with Latent Diffusion Models**, Yixuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.11028](http://arxiv.org/abs/2503.11028)
 - 2019-10-09, **EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos**, Haipeng Zeng et.al., Paper: [http://arxiv.org/abs/1907.12918](http://arxiv.org/abs/1907.12918)
+- 2025-08-28, **EmoCAST: Emotional Talking Portrait via Emotive Text Description**, Yiguo Jiang et.al., Paper: [http://arxiv.org/abs/2508.20615](http://arxiv.org/abs/2508.20615)
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
 - 2021-07-07, **Egocentric Videoconferencing**, Mohamed Elgharib et.al., Paper: [http://arxiv.org/abs/2107.03109](http://arxiv.org/abs/2107.03109)
 - 2022-03-16, **Efficient conditioned face animation using frontally-viewed embedding**, Maxime Oquab et.al., Paper: [http://arxiv.org/abs/2203.08765](http://arxiv.org/abs/2203.08765)
