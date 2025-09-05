@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-04**|**Durian: Dual Reference-guided Portrait Animation with Attribute Transfer**|Hyunsoo Cha et.al.|[2509.04434](http://arxiv.org/abs/2509.04434)|null|
 |**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
 |**2025-08-27**|**InfinityHuman: Towards Long-Term Audio-Driven Human**|Xiaodi Li et.al.|[2508.20210](http://arxiv.org/abs/2508.20210)|null|
 |**2025-08-27**|**Improving Generalization in Deepfake Detection with Face Foundation Models and Metric Learning**|Stelios Mylonas et.al.|[2508.19730](http://arxiv.org/abs/2508.19730)|null|
