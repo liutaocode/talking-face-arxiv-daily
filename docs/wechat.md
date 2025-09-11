@@ -726,6 +726,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-17, **CEM-Net: Cross-Emotion Memory Network for Emotional Talking Face Generation**, Kangyi Wu et.al., Paper: [http://arxiv.org/abs/2508.12368](http://arxiv.org/abs/2508.12368)
 - 2024-02-21, **Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**, Zechen Bai et.al., Paper: [http://arxiv.org/abs/2402.13724](http://arxiv.org/abs/2402.13724), Code: **[https://github.com/showlab/byoc](https://github.com/showlab/byoc)**
 - 2023-10-31, **Breathing Life into Faces: Speech-driven 3D Facial Animation with Natural Head Pose and Detailed Shape**, Wei Zhao et.al., Paper: [http://arxiv.org/abs/2310.20240](http://arxiv.org/abs/2310.20240)
+- 2025-09-10, **Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2509.08376](http://arxiv.org/abs/2509.08376)
 - 2021-11-02, **BiosecurID: a multimodal biometric database**, Julian Fierrez et.al., Paper: [http://arxiv.org/abs/2111.03472](http://arxiv.org/abs/2111.03472)
 - 2025-06-24, **Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**, Yubo Huang et.al., Paper: [http://arxiv.org/abs/2506.19833](http://arxiv.org/abs/2506.19833)
 - 2025-03-12, **Bidirectional Learned Facial Animation Codec for Low Bitrate Talking Head Videos**, Riku Takahashi et.al., Paper: [http://arxiv.org/abs/2503.09787](http://arxiv.org/abs/2503.09787)

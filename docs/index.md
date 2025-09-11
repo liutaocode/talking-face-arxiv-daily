@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-09-10**|**Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video**|Xiao Li et.al.|[2509.08376](http://arxiv.org/abs/2509.08376)|null|
 |**2025-09-09**|**PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image**|Peng Li et.al.|[2509.07552](http://arxiv.org/abs/2509.07552)|null|
 |**2025-09-04**|**Durian: Dual Reference-guided Portrait Animation with Attribute Transfer**|Hyunsoo Cha et.al.|[2509.04434](http://arxiv.org/abs/2509.04434)|null|
 |**2025-08-28**|**EmoCAST: Emotional Talking Portrait via Emotive Text Description**|Yiguo Jiang et.al.|[2508.20615](http://arxiv.org/abs/2508.20615)|null|
