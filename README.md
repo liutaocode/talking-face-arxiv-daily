@@ -25,6 +25,11 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-22**|**"I don't like my avatar": Investigating Human Digital Doubles**|Siyi Liu et.al.|[2509.17748](http://arxiv.org/abs/2509.17748)|null|
+|**2025-09-22**|**Stable Video-Driven Portraits**|Mallikarjun B. R. et.al.|[2509.17476](http://arxiv.org/abs/2509.17476)|null|
+|**2025-09-21**|**Beat on Gaze: Learning Stylized Generation of Gaze and Head Dynamics**|Chengwei Shi et.al.|[2509.17168](http://arxiv.org/abs/2509.17168)|null|
+|**2025-09-21**|**PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control**|Tianheng Zhu et.al.|[2509.16922](http://arxiv.org/abs/2509.16922)|null|
+|**2025-09-20**|**Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation**|Yue Ma et.al.|[2509.16630](http://arxiv.org/abs/2509.16630)|null|
 |**2025-09-17**|**Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis**|Yikang Ding et.al.|[2509.09595](http://arxiv.org/abs/2509.09595)|null|
 |**2025-09-16**|**A Lightweight Pipeline for Noisy Speech Voice Cloning and Accurate Lip Sync Synthesis**|Javeria Amir et.al.|[2509.12831](http://arxiv.org/abs/2509.12831)|null|
 |**2025-09-15**|**AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**|Yuchen Deng et.al.|[2509.12052](http://arxiv.org/abs/2509.12052)|null|
