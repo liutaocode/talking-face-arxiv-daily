@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-23**|**Audio-Driven Universal Gaussian Head Avatars**|Kartik Teotia et.al.|[2509.18924](http://arxiv.org/abs/2509.18924)|null|
 |**2025-09-22**|**"I don't like my avatar": Investigating Human Digital Doubles**|Siyi Liu et.al.|[2509.17748](http://arxiv.org/abs/2509.17748)|null|
 |**2025-09-22**|**Stable Video-Driven Portraits**|Mallikarjun B. R. et.al.|[2509.17476](http://arxiv.org/abs/2509.17476)|null|
 |**2025-09-21**|**Beat on Gaze: Learning Stylized Generation of Gaze and Head Dynamics**|Chengwei Shi et.al.|[2509.17168](http://arxiv.org/abs/2509.17168)|null|

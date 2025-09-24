@@ -763,6 +763,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-06-16, **Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**, Riku Takahashi et.al., Paper: [http://arxiv.org/abs/2506.13419](http://arxiv.org/abs/2506.13419)
 - 2023-09-15, **Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker Speech**, Junjie Li et.al., Paper: [http://arxiv.org/abs/2309.08408](http://arxiv.org/abs/2309.08408), Code: **[https://github.com/mrjunjieli/activeextract](https://github.com/mrjunjieli/activeextract)**
 - 2025-03-28, **Audio-Plane: Audio Factorization Plane Gaussian Splatting for Real-Time Talking Head Synthesis**, Shuai Shen et.al., Paper: [http://arxiv.org/abs/2503.22605](http://arxiv.org/abs/2503.22605)
+- 2025-09-23, **Audio-Driven Universal Gaussian Head Avatars**, Kartik Teotia et.al., Paper: [http://arxiv.org/abs/2509.18924](http://arxiv.org/abs/2509.18924)
 - 2025-04-26, **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2504.18810](http://arxiv.org/abs/2504.18810)
 - 2022-01-16, **Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels**, Zipeng Ye et.al., Paper: [http://arxiv.org/abs/2201.05986](http://arxiv.org/abs/2201.05986)
 - 2023-04-18, **Audio-Driven Talking Face Generation with Diverse yet Realistic Facial Animations**, Rongliang Wu et.al., Paper: [http://arxiv.org/abs/2304.08945](http://arxiv.org/abs/2304.08945)
