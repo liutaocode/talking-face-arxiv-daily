@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-25**|**Unlocking Financial Insights: An advanced Multimodal Summarization with Multimodal Output Framework for Financial Advisory Videos**|Sarmistha Das et.al.|[2509.20961](http://arxiv.org/abs/2509.20961)|null|
 |**2025-09-24**|**KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation**|Tianle Lyu et.al.|[2509.20128](http://arxiv.org/abs/2509.20128)|null|
 |**2025-09-24**|**Comparative Study of Subjective Video Quality Assessment Test Methods in Crowdsourcing for Varied Use Cases**|Babak Naderi et.al.|[2509.20118](http://arxiv.org/abs/2509.20118)|null|
 |**2025-09-24**|**SynchroRaMa : Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding**|Phyo Thet Yee et.al.|[2509.19965](http://arxiv.org/abs/2509.19965)|null|
