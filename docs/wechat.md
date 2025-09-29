@@ -161,6 +161,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-01-21, **Stitch it in Time: GAN-Based Facial Editing of Real Videos**, Rotem Tzaban et.al., Paper: [http://arxiv.org/abs/2201.08361](http://arxiv.org/abs/2201.08361), Code: **[https://github.com/rotemtzaban/STIT](https://github.com/rotemtzaban/STIT)**
 - 2024-10-31, **Stereo-Talker: Audio-driven 3D Human Synthesis with Prior-Guided Mixture-of-Experts**, Xiang Deng et.al., Paper: [http://arxiv.org/abs/2410.23836](http://arxiv.org/abs/2410.23836)
 - 2022-08-29, **StableFace: Analyzing and Improving Motion Stability for Talking Face Generation**, Jun Ling et.al., Paper: [http://arxiv.org/abs/2208.13717](http://arxiv.org/abs/2208.13717)
+- 2025-09-26, **StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2509.21887](http://arxiv.org/abs/2509.21887)
 - 2025-09-22, **Stable Video-Driven Portraits**, Mallikarjun B. R. et.al., Paper: [http://arxiv.org/abs/2509.17476](http://arxiv.org/abs/2509.17476)
 - 2024-09-26, **Stable Video Portraits**, Mirela Ostrek et.al., Paper: [http://arxiv.org/abs/2409.18083](http://arxiv.org/abs/2409.18083)
 - 2025-04-14, **SpinMeRound: Consistent Multi-View Identity Generation Using Diffusion Models**, Stathis Galanakis et.al., Paper: [http://arxiv.org/abs/2504.10716](http://arxiv.org/abs/2504.10716)
