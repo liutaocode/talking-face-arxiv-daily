@@ -776,6 +776,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2021-05-20, **Audio-Driven Emotional Video Portraits**, Xinya Ji et.al., Paper: [http://arxiv.org/abs/2104.07452](http://arxiv.org/abs/2104.07452)
 - 2023-06-20, **Audio-Driven 3D Facial Animation from In-the-Wild Videos**, Liying Lu et.al., Paper: [http://arxiv.org/abs/2306.11541](http://arxiv.org/abs/2306.11541)
 - 2020-08-11, **Audio- and Gaze-driven Facial Animation of Codec Avatars**, Alexander Richard et.al., Paper: [http://arxiv.org/abs/2008.05023](http://arxiv.org/abs/2008.05023)
+- 2025-10-01, **Audio Driven Real-Time Facial Animation for Social Telepresence**, Jiye Lee et.al., Paper: [http://arxiv.org/abs/2510.01176](http://arxiv.org/abs/2510.01176)
 - 2025-03-25, **AudCast: Audio-Driven Human Video Generation by Cascaded Diffusion Transformers**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2503.19824](http://arxiv.org/abs/2503.19824)
 - 2023-12-15, **Attention-Based VR Facial Animation with Visual Mouth Camera Guidance for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2312.09750](http://arxiv.org/abs/2312.09750)
 - 2022-03-08, **Attention-Based Lip Audio-Visual Synthesis for Talking Face Generation in the Wild**, Ganglai Wang et.al., Paper: [http://arxiv.org/abs/2203.03984](http://arxiv.org/abs/2203.03984)
