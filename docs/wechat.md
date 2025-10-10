@@ -258,7 +258,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-11-26, **Passive Deepfake Detection Across Multi-modalities: A Comprehensive Survey**, Hong-Hanh Nguyen-Le et.al., Paper: [http://arxiv.org/abs/2411.17911](http://arxiv.org/abs/2411.17911)
 - 2023-06-13, **Parametric Implicit Face Representation for Audio-Driven Facial Reenactment**, Ricong Huang et.al., Paper: [http://arxiv.org/abs/2306.07579](http://arxiv.org/abs/2306.07579)
 - 2021-12-20, **Parallel and High-Fidelity Text-to-Lip Generation**, Jinglin Liu et.al., Paper: [http://arxiv.org/abs/2107.06831](http://arxiv.org/abs/2107.06831), Code: **[https://github.com/Dianezzy/ParaLip](https://github.com/Dianezzy/ParaLip)**
-- 2025-10-06, **Paper2Video: Automatic Video Generation from Scientific Papers**, Zeyu Zhu et.al., Paper: [http://arxiv.org/abs/2510.05096](http://arxiv.org/abs/2510.05096)
+- 2025-10-09, **Paper2Video: Automatic Video Generation from Scientific Papers**, Zeyu Zhu et.al., Paper: [http://arxiv.org/abs/2510.05096](http://arxiv.org/abs/2510.05096)
 - 2023-08-29, **Papeos: Augmenting Research Papers with Talk Videos**, Tae Soo Kim et.al., Paper: [http://arxiv.org/abs/2308.15224](http://arxiv.org/abs/2308.15224)
 - 2025-09-09, **PanoLAM: Large Avatar Model for Gaussian Full-Head Synthesis from One-shot Unposed Image**, Peng Li et.al., Paper: [http://arxiv.org/abs/2509.07552](http://arxiv.org/abs/2509.07552)
 - 2023-03-23, **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360 $^{\circ}$**, Sizhe An et.al., Paper: [http://arxiv.org/abs/2303.13071](http://arxiv.org/abs/2303.13071)
