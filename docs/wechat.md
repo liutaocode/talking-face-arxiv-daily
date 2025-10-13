@@ -625,6 +625,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-04-29, **EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars**, Nikita Drobyshev et.al., Paper: [http://arxiv.org/abs/2404.19110](http://arxiv.org/abs/2404.19110)
 - 2024-02-27, **EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions**, Linrui Tian et.al., Paper: [http://arxiv.org/abs/2402.17485](http://arxiv.org/abs/2402.17485)
 - 2025-01-18, **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation**, Linrui Tian et.al., Paper: [http://arxiv.org/abs/2501.10687](http://arxiv.org/abs/2501.10687)
+- 2025-10-03, **EGSTalker: Real-Time Audio-Driven Talking Head Generation with Efficient Gaussian Deformation**, Tianheng Zhu et.al., Paper: [http://arxiv.org/abs/2510.08587](http://arxiv.org/abs/2510.08587)
 - 2024-04-11, **EFHQ: Multi-purpose ExtremePose-Face-HQ dataset**, Trung Tuan Dao et.al., Paper: [http://arxiv.org/abs/2312.17205](http://arxiv.org/abs/2312.17205)
 - 2024-04-02, **EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2404.01647](http://arxiv.org/abs/2404.01647)
 - 2025-08-19, **EDTalk++: Full Disentanglement for Controllable Talking Head Synthesis**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2508.13442](http://arxiv.org/abs/2508.13442)
