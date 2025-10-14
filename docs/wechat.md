@@ -37,6 +37,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-26, **Wan-S2V: Audio-Driven Cinematic Video Generation**, Xin Gao et.al., Paper: [http://arxiv.org/abs/2508.18621](http://arxiv.org/abs/2508.18621)
 - 2025-04-03, **VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2504.02386](http://arxiv.org/abs/2504.02386)
 - 2023-12-07, **VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior**, Xusen Sun et.al., Paper: [http://arxiv.org/abs/2312.01841](http://arxiv.org/abs/2312.01841)
+- 2025-10-11, **VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework**, Donglin Huang et.al., Paper: [http://arxiv.org/abs/2510.10269](http://arxiv.org/abs/2510.10269)
 - 2025-07-21, **VisualSpeaker: Visually-Guided 3D Avatar Lip Synthesis**, Alexandre Symeonidis-Herzig et.al., Paper: [http://arxiv.org/abs/2507.06060](http://arxiv.org/abs/2507.06060)
 - 2022-07-22, **Visual Speech-Aware Perceptual 3D Facial Expression Reconstruction from Videos**, Panagiotis P. Filntisis et.al., Paper: [http://arxiv.org/abs/2207.11094](http://arxiv.org/abs/2207.11094), Code: **[https://github.com/filby89/spectre](https://github.com/filby89/spectre)**
 - 2014-09-03, **Visual Speech Recognition**, Ahmad B. A. Hassanat et.al., Paper: [http://arxiv.org/abs/1409.1411](http://arxiv.org/abs/1409.1411)
@@ -138,6 +139,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-11-03, **SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2211.00924](http://arxiv.org/abs/2211.00924)
 - 2023-11-29, **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2311.17590](http://arxiv.org/abs/2311.17590), Code: **[https://github.com/ZiqiaoPeng/SyncTalk](https://github.com/ZiqiaoPeng/SyncTalk)**
 - 2025-06-17, **SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2506.14742](http://arxiv.org/abs/2506.14742)
+- 2025-10-11, **SyncLipMAE: Contrastive Masked Pretraining for Audio-Visual Talking-Face Representation**, Zeyu Ling et.al., Paper: [http://arxiv.org/abs/2510.10069](http://arxiv.org/abs/2510.10069)
 - 2025-03-17, **SyncDiff: Diffusion-based Talking Head Synthesis with Bottlenecked Temporal Visual Prior for Improved Synchronization**, Xulin Fan et.al., Paper: [http://arxiv.org/abs/2503.13371](http://arxiv.org/abs/2503.13371)
 - 2025-01-24, **SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**, Yujian Liu et.al., Paper: [http://arxiv.org/abs/2501.14646](http://arxiv.org/abs/2501.14646)
 - 2024-05-09, **SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space**, Zeren Zhang et.al., Paper: [http://arxiv.org/abs/2405.05636](http://arxiv.org/abs/2405.05636)
@@ -698,6 +700,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-06-19, **DF40: Toward Next-Generation Deepfake Detection**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2406.13495](http://arxiv.org/abs/2406.13495)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
+- 2025-10-12, **DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis**, Peiyin Chen et.al., Paper: [http://arxiv.org/abs/2510.10650](http://arxiv.org/abs/2510.10650)
 - 2024-12-28, **DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis**, Kaijun Deng et.al., Paper: [http://arxiv.org/abs/2412.20148](http://arxiv.org/abs/2412.20148), Code: **[https://github.com/cvi-szu/degstalk](https://github.com/cvi-szu/degstalk)**
 - 2024-08-20, **DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**, Zhijing Shao et.al., Paper: [http://arxiv.org/abs/2408.10588](http://arxiv.org/abs/2408.10588)
 - 2024-08-12, **DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation**, Jisoo Kim et.al., Paper: [http://arxiv.org/abs/2408.06010](http://arxiv.org/abs/2408.06010)
