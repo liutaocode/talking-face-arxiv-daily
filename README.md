@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis**|Soumyya Kanti Datta et.al.|[2510.14241](http://arxiv.org/abs/2510.14241)|null|
 |**2025-10-14**|**Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback**|Xingpei Ma et.al.|[2510.12089](http://arxiv.org/abs/2510.12089)|null|
 |**2025-10-12**|**DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis**|Peiyin Chen et.al.|[2510.10650](http://arxiv.org/abs/2510.10650)|null|
 |**2025-10-11**|**VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework**|Donglin Huang et.al.|[2510.10269](http://arxiv.org/abs/2510.10269)|null|

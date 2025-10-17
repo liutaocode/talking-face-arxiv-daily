@@ -268,6 +268,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-26, **PanoHair: Detailed Hair Strand Synthesis on Volumetric Heads**, Shashikant Verma et.al., Paper: [http://arxiv.org/abs/2508.18944](http://arxiv.org/abs/2508.18944)
 - 2023-12-05, **PMMTalk: Speech-Driven 3D Facial Animation from Complementary Pseudo Multi-modal Features**, Tianshun Han et.al., Paper: [http://arxiv.org/abs/2312.02781](http://arxiv.org/abs/2312.02781)
 - 2023-09-13, **PIAVE: A Pose-Invariant Audio-Visual Speaker Extraction Network**, Qinghua Liu et.al., Paper: [http://arxiv.org/abs/2309.06723](http://arxiv.org/abs/2309.06723)
+- 2025-10-16, **PIA: Deepfake Detection Using Phoneme-Temporal and Identity-Dynamic Analysis**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2510.14241](http://arxiv.org/abs/2510.14241)
 - 2025-09-21, **PGSTalker: Real-Time Audio-Driven Talking Head Generation via 3D Gaussian Splatting with Pixel-Aware Density Control**, Tianheng Zhu et.al., Paper: [http://arxiv.org/abs/2509.16922](http://arxiv.org/abs/2509.16922)
 - 2025-03-20, **PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation**, Baiqin Wang et.al., Paper: [http://arxiv.org/abs/2503.14295](http://arxiv.org/abs/2503.14295)
 - 2024-07-22, **PAV: Personalized Head Avatar from Unstructured Video Collection**, Akin Caliskan et.al., Paper: [http://arxiv.org/abs/2407.21047](http://arxiv.org/abs/2407.21047)
