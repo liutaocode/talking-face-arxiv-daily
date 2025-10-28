@@ -208,6 +208,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-12-14, **Robust One Shot Audio to Video Generation**, Neeraj Kumar et.al., Paper: [http://arxiv.org/abs/2012.07842](http://arxiv.org/abs/2012.07842)
 - 2025-07-30, **Robust Deepfake Detection for Electronic Know Your Customer Systems Using Registered Images**, Takuma Amada et.al., Paper: [http://arxiv.org/abs/2507.22601](http://arxiv.org/abs/2507.22601)
 - 2025-06-27, **RiverEcho: Real-Time Interactive Digital System for Ancient Yellow River Culture**, Haofeng Wang et.al., Paper: [http://arxiv.org/abs/2506.21865](http://arxiv.org/abs/2506.21865)
+- 2025-10-27, **Revising Second Order Terms in Deep Animation Video Coding**, Konstantin Schmidt et.al., Paper: [http://arxiv.org/abs/2510.23561](http://arxiv.org/abs/2510.23561)
 - 2022-09-07, **Restructurable Activation Networks**, Kartikeya Bhardwaj et.al., Paper: [http://arxiv.org/abs/2208.08562](http://arxiv.org/abs/2208.08562), Code: **[https://github.com/arm-software/ml-restructurable-activation-networks](https://github.com/arm-software/ml-restructurable-activation-networks)**
 - 2022-07-20, **Responsive Listening Head Generation: A Benchmark Dataset and Baseline**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2112.13548](http://arxiv.org/abs/2112.13548)
 - 2024-02-26, **Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**, Yifei Li et.al., Paper: [http://arxiv.org/abs/2402.16599](http://arxiv.org/abs/2402.16599)
@@ -371,8 +372,10 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-12-05, **MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**, Longtao Zheng et.al., Paper: [http://arxiv.org/abs/2412.04448](http://arxiv.org/abs/2412.04448)
 - 2025-08-14, **MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2507.06071](http://arxiv.org/abs/2507.06071)
 - 2023-03-22, **MARLIN: Masked Autoencoder for facial video Representation LearnINg**, Zhixi Cai et.al., Paper: [http://arxiv.org/abs/2211.06627](http://arxiv.org/abs/2211.06627), Code: **[https://github.com/ControlNet/MARLIN](https://github.com/ControlNet/MARLIN)**
+- 2025-10-26, **MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control**, Fatemeh Nazarieh et.al., Paper: [http://arxiv.org/abs/2510.22810](http://arxiv.org/abs/2510.22810)
 - 2025-08-14, **M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**, Kui Jiang et.al., Paper: [http://arxiv.org/abs/2507.08307](http://arxiv.org/abs/2507.08307)
 - 2025-06-02, **Low-Rank Head Avatar Personalization with Registers**, Sai Tanmay Reddy Chakkera et.al., Paper: [http://arxiv.org/abs/2506.01935](http://arxiv.org/abs/2506.01935)
+- 2025-10-27, **Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation**, Junyoung Seo et.al., Paper: [http://arxiv.org/abs/2510.23581](http://arxiv.org/abs/2510.23581)
 - 2025-02-13, **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**, Fei Shen et.al., Paper: [http://arxiv.org/abs/2502.09533](http://arxiv.org/abs/2502.09533)
 - 2024-11-29, **LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**, Tianqi Li et.al., Paper: [http://arxiv.org/abs/2411.19525](http://arxiv.org/abs/2411.19525)
 - 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168](http://arxiv.org/abs/2407.03168), Code: **[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**
@@ -413,6 +416,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-11-06, **Large Generative Model-assisted Talking-face Semantic Communication System**, Feibo Jiang et.al., Paper: [http://arxiv.org/abs/2411.03876](http://arxiv.org/abs/2411.03876)
 - 2024-08-03, **Landmark-guided Diffusion Model for High-fidelity and Temporally Coherent Talking Head Generation**, Jintao Tan et.al., Paper: [http://arxiv.org/abs/2408.01732](http://arxiv.org/abs/2408.01732)
 - 2024-10-01, **LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**, Jian Yang et.al., Paper: [http://arxiv.org/abs/2410.00990](http://arxiv.org/abs/2410.00990)
+- 2025-10-23, **LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation**, Xin Lu et.al., Paper: [http://arxiv.org/abs/2510.21864](http://arxiv.org/abs/2510.21864)
 - 2023-05-17, **LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**, Kwangho Lee et.al., Paper: [http://arxiv.org/abs/2305.10456](http://arxiv.org/abs/2305.10456)
 - 2025-08-13, **LIA-X: Interpretable Latent Portrait Animator**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2508.09959](http://arxiv.org/abs/2508.09959)
 - 2021-04-07, **LI-Net: Large-Pose Identity-Preserving Face Reenactment Network**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2104.02850](http://arxiv.org/abs/2104.02850)
@@ -679,6 +683,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-15, **Depth-Aware Generative Adversarial Network for Talking Head Video Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2203.06605](http://arxiv.org/abs/2203.06605), Code: **[https://github.com/harlanhong/cvpr2022-dagan](https://github.com/harlanhong/cvpr2022-dagan)**
 - 2020-07-20, **Deformable Style Transfer**, Sunnie S. Y. Kim et.al., Paper: [http://arxiv.org/abs/2003.11038](http://arxiv.org/abs/2003.11038), Code: **[https://github.com/sunniesuhyoung/DST](https://github.com/sunniesuhyoung/DST)**
 - 2024-07-31, **Deformable 3D Shape Diffusion Model**, Dengsheng Chen et.al., Paper: [http://arxiv.org/abs/2407.21428](http://arxiv.org/abs/2407.21428)
+- 2025-10-26, **DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**, Kangran Zhao et.al., Paper: [http://arxiv.org/abs/2510.22622](http://arxiv.org/abs/2510.22622)
 - 2024-04-09, **Deepfake Generation and Detection: A Benchmark and Survey**, Gan Pei et.al., Paper: [http://arxiv.org/abs/2403.17881](http://arxiv.org/abs/2403.17881), Code: **[https://github.com/flyingby/awesome-deepfake-generation-and-detection](https://github.com/flyingby/awesome-deepfake-generation-and-detection)**
 - 2024-08-09, **DeepSpeak Dataset v1.0**, Sarah Barrington et.al., Paper: [http://arxiv.org/abs/2408.05366](http://arxiv.org/abs/2408.05366)
 - 2018-12-20, **DeepFakes: a New Threat to Face Recognition? Assessment and Detection**, Pavel Korshunov et.al., Paper: [http://arxiv.org/abs/1812.08685](http://arxiv.org/abs/1812.08685)
