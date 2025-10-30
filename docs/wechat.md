@@ -402,6 +402,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-09-29, **Learning Frame-Wise Emotion Intensity for Audio-Driven Talking-Head Generation**, Jingyi Xu et.al., Paper: [http://arxiv.org/abs/2409.19501](http://arxiv.org/abs/2409.19501)
 - 2024-02-27, **Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**, Zicheng Zhang et.al., Paper: [http://arxiv.org/abs/2402.17364](http://arxiv.org/abs/2402.17364), Code: **[https://github.com/zhangzc21/dyntet](https://github.com/zhangzc21/dyntet)**
 - 2022-07-24, **Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis**, Shuai Shen et.al., Paper: [http://arxiv.org/abs/2207.11770](http://arxiv.org/abs/2207.11770), Code: **[https://github.com/sstzal/DFRF](https://github.com/sstzal/DFRF)**
+- 2025-10-29, **Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**, Yuxiang Mao et.al., Paper: [http://arxiv.org/abs/2510.25234](http://arxiv.org/abs/2510.25234)
 - 2023-12-19, **Learning Dense Correspondence for NeRF-Based Face Reenactment**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2312.10422](http://arxiv.org/abs/2312.10422)
 - 2023-01-15, **Learning Audio-Driven Viseme Dynamics for 3D Face Animation**, Linchao Bao et.al., Paper: [http://arxiv.org/abs/2301.06059](http://arxiv.org/abs/2301.06059)
 - 2021-04-29, **Learned Spatial Representations for Few-shot Talking-Head Synthesis**, Moustafa Meshry et.al., Paper: [http://arxiv.org/abs/2104.14557](http://arxiv.org/abs/2104.14557)
