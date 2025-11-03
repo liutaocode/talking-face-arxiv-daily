@@ -193,6 +193,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-09-05, **SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing**, Lingyu Xiong et.al., Paper: [http://arxiv.org/abs/2409.03605](http://arxiv.org/abs/2409.03605)
 - 2020-09-02, **Seeing wake words: Audio-visual Keyword Spotting**, Liliane Momeni et.al., Paper: [http://arxiv.org/abs/2009.01225](http://arxiv.org/abs/2009.01225)
 - 2023-03-29, **Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**, Jiadong Wang et.al., Paper: [http://arxiv.org/abs/2303.17480](http://arxiv.org/abs/2303.17480), Code: **[https://github.com/sxjdwang/talklip](https://github.com/sxjdwang/talklip)**
+- 2025-10-28, **See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement**, Jinting Wang et.al., Paper: [http://arxiv.org/abs/2510.26819](http://arxiv.org/abs/2510.26819)
 - 2024-03-19, **ScanTalk: 3D Talking Heads from Unregistered Scans**, Federico Nocentini et.al., Paper: [http://arxiv.org/abs/2403.10942](http://arxiv.org/abs/2403.10942)
 - 2025-02-17, **SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**, Junxian Ma et.al., Paper: [http://arxiv.org/abs/2502.11515](http://arxiv.org/abs/2502.11515)
 - 2024-03-13, **Say Anything with Any Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06363](http://arxiv.org/abs/2403.06363)
