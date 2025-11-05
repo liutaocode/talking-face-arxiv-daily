@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[2510.25234](http://arxiv.org/abs/2510.25234)|null|
 |**2025-10-28**|**See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement**|Jinting Wang et.al.|[2510.26819](http://arxiv.org/abs/2510.26819)|null|
 |**2025-10-27**|**Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation**|Junyoung Seo et.al.|[2510.23581](http://arxiv.org/abs/2510.23581)|null|

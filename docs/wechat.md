@@ -683,6 +683,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-07-11, **Detecting Deepfake Talking Heads from Facial Biometric Anomalies**, Justin D. Norman et.al., Paper: [http://arxiv.org/abs/2507.08917](http://arxiv.org/abs/2507.08917)
 - 2019-10-16, **Designing Style Matching Conversational Agents**, Deepali Aneja et.al., Paper: [http://arxiv.org/abs/1910.07514](http://arxiv.org/abs/1910.07514)
 - 2022-03-15, **Depth-Aware Generative Adversarial Network for Talking Head Video Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2203.06605](http://arxiv.org/abs/2203.06605), Code: **[https://github.com/harlanhong/cvpr2022-dagan](https://github.com/harlanhong/cvpr2022-dagan)**
+- 2025-11-04, **Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**, Dmitrii Pozdeev et.al., Paper: [http://arxiv.org/abs/2511.02830](http://arxiv.org/abs/2511.02830)
 - 2020-07-20, **Deformable Style Transfer**, Sunnie S. Y. Kim et.al., Paper: [http://arxiv.org/abs/2003.11038](http://arxiv.org/abs/2003.11038), Code: **[https://github.com/sunniesuhyoung/DST](https://github.com/sunniesuhyoung/DST)**
 - 2024-07-31, **Deformable 3D Shape Diffusion Model**, Dengsheng Chen et.al., Paper: [http://arxiv.org/abs/2407.21428](http://arxiv.org/abs/2407.21428)
 - 2025-10-26, **DeepfakeBench-MM: A Comprehensive Benchmark for Multimodal Deepfake Detection**, Kangran Zhao et.al., Paper: [http://arxiv.org/abs/2510.22622](http://arxiv.org/abs/2510.22622)
