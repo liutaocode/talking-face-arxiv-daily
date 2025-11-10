@@ -21,7 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-11-06**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
+|**2025-11-07**|**Shared Latent Representation for Joint Text-to-Audio-Visual Synthesis**|Dogucan Yaman et.al.|[2511.05432](http://arxiv.org/abs/2511.05432)|null|
+|**2025-11-07**|**THEval. Evaluation Framework for Talking Head Video Generation**|Nabyl Quignon et.al.|[2511.04520](http://arxiv.org/abs/2511.04520)|null|
 |**2025-11-05**|**UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**|Guozhen Zhang et.al.|[2511.03334](http://arxiv.org/abs/2511.03334)|null|
 |**2025-11-04**|**Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks**|Dmitrii Pozdeev et.al.|[2511.02830](http://arxiv.org/abs/2511.02830)|null|
 |**2025-10-29**|**Learning Disentangled Speech- and Expression-Driven Blendshapes for 3D Talking Face Animation**|Yuxiang Mao et.al.|[2510.25234](http://arxiv.org/abs/2510.25234)|null|
