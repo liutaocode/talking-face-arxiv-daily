@@ -732,6 +732,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-09-20, **Context-Aware Talking-Head Video Editing**, Songlin Yang et.al., Paper: [http://arxiv.org/abs/2308.00462](http://arxiv.org/abs/2308.00462)
 - 2024-08-14, **Content and Style Aware Audio-Driven Facial Animation**, Qingju Liu et.al., Paper: [http://arxiv.org/abs/2408.07005](http://arxiv.org/abs/2408.07005)
 - 2024-11-23, **ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with Temporal Guidance**, Haijie Yang et.al., Paper: [http://arxiv.org/abs/2411.15436](http://arxiv.org/abs/2411.15436)
+- 2025-11-10, **ConsistTalk: Intensity Controllable Temporally Consistent Talking Head Generation with Diffusion Noise Search**, Zhenjie Liu et.al., Paper: [http://arxiv.org/abs/2511.06833](http://arxiv.org/abs/2511.06833)
 - 2022-10-07, **Compressing Video Calls using Synthetic Talking Heads**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.03692](http://arxiv.org/abs/2210.03692)
 - 2025-06-17, **Compressed Video Super-Resolution based on Hierarchical Encoding**, Yuxuan Jiang et.al., Paper: [http://arxiv.org/abs/2506.14381](http://arxiv.org/abs/2506.14381)
 - 2024-07-04, **Compressed Skinning for Facial Blendshapes**, Ladislav Kavan et.al., Paper: [http://arxiv.org/abs/2406.11597](http://arxiv.org/abs/2406.11597)
