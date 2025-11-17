@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**3D Gaussian and Diffusion-Based Gaze Redirection**|Abiram Panchalingam et.al.|[2511.11231](http://arxiv.org/abs/2511.11231)|null|
 |**2025-11-13**|**One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models**|Aleksandr Razin et.al.|[2511.10629](http://arxiv.org/abs/2511.10629)|null|
 |**2025-11-12**|**GRACE: Designing Generative Face Video Codec via Agile Hardware-Centric Workflow**|Rui Wan et.al.|[2511.09272](http://arxiv.org/abs/2511.09272)|null|
 |**2025-11-11**|**StableMorph: High-Quality Face Morph Generation with Stable Diffusion**|Wassim Kabbani et.al.|[2511.08090](http://arxiv.org/abs/2511.08090)|null|
@@ -879,6 +880,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-14**|**EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation**|Zongyang Qiu et.al.|[2511.11002](http://arxiv.org/abs/2511.11002)|null|
 |**2025-11-11**|**OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**|Yuncheng Guo et.al.|[2511.08423](http://arxiv.org/abs/2511.08423)|null|
 |**2025-11-11**|**oboro: Text-to-Image Synthesis on Limited Data using Flow-based Diffusion Transformer with MMH Attention**|Ryusuke Mizutani et.al.|[2511.08168](http://arxiv.org/abs/2511.08168)|null|
 |**2025-11-11**|**Beyond the Pixels: VLM-based Evaluation of Identity Preservation in Reference-Guided Synthesis**|Aditi Singhania et.al.|[2511.08087](http://arxiv.org/abs/2511.08087)|null|
