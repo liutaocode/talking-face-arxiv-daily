@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**|Junyi Ma et.al.|[2511.12878](http://arxiv.org/abs/2511.12878)|null|
 |**2025-11-14**|**3D Gaussian and Diffusion-Based Gaze Redirection**|Abiram Panchalingam et.al.|[2511.11231](http://arxiv.org/abs/2511.11231)|null|
 |**2025-11-13**|**One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models**|Aleksandr Razin et.al.|[2511.10629](http://arxiv.org/abs/2511.10629)|null|
 |**2025-11-12**|**GRACE: Designing Generative Face Video Codec via Agile Hardware-Centric Workflow**|Rui Wan et.al.|[2511.09272](http://arxiv.org/abs/2511.09272)|null|
@@ -880,6 +881,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-17**|**PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**|Dianbing Xi et.al.|[2511.12935](http://arxiv.org/abs/2511.12935)|null|
+|**2025-11-16**|**Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction**|Li Wang et.al.|[2510.26196](http://arxiv.org/abs/2510.26196)|null|
 |**2025-11-14**|**EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation**|Zongyang Qiu et.al.|[2511.11002](http://arxiv.org/abs/2511.11002)|null|
 |**2025-11-11**|**OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**|Yuncheng Guo et.al.|[2511.08423](http://arxiv.org/abs/2511.08423)|null|
 |**2025-11-11**|**oboro: Text-to-Image Synthesis on Limited Data using Flow-based Diffusion Transformer with MMH Attention**|Ryusuke Mizutani et.al.|[2511.08168](http://arxiv.org/abs/2511.08168)|null|
@@ -889,7 +892,6 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2025-11-03**|**FreeArt3D: Training-Free Articulated Object Generation using 3D Diffusion**|Chuhao Chen et.al.|[2510.25765](http://arxiv.org/abs/2510.25765)|null|
 |**2025-11-02**|**A Hybrid YOLOv5-SSD IoT-Based Animal Detection System for Durian Plantation Protection**|Anis Suttan Shahrir et.al.|[2511.00777](http://arxiv.org/abs/2511.00777)|null|
 |**2025-10-31**|**DANCER: Dance ANimation via Condition Enhancement and Rendering with diffusion model**|Yucheng Xing et.al.|[2510.27169](http://arxiv.org/abs/2510.27169)|null|
-|**2025-10-30**|**Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction**|Li Wang et.al.|[2510.26196](http://arxiv.org/abs/2510.26196)|null|
 |**2025-10-29**|**4-Doodle: Text to 3D Sketches that Move!**|Hao Chen et.al.|[2510.25319](http://arxiv.org/abs/2510.25319)|null|
 |**2025-09-19**|**TT-DF: A Large-Scale Diffusion-Based Dataset and Benchmark for Human Body Forgery Detection**|Wenkui Yang et.al.|[2505.08437](http://arxiv.org/abs/2505.08437)|null|
 |**2025-09-09**|**LINR Bridge: Vector Graphic Animation via Neural Implicits and Video Diffusion Priors**|Wenshuo Gao et.al.|[2509.07484](http://arxiv.org/abs/2509.07484)|null|
