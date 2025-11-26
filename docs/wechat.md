@@ -482,6 +482,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-08-18, **Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2307.09906](http://arxiv.org/abs/2307.09906), Code: **[https://github.com/harlanhong/iccv2023-mcnet](https://github.com/harlanhong/iccv2023-mcnet)**
 - 2022-12-30, **Imitator: Personalized Speech-driven 3D Facial Animation**, Balamurugan Thambiraja et.al., Paper: [http://arxiv.org/abs/2301.00023](http://arxiv.org/abs/2301.00023)
 - 2021-10-30, **Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2111.00203](http://arxiv.org/abs/2111.00203), Code: **[https://github.com/wuhaozhe/style_avatar](https://github.com/wuhaozhe/style_avatar)**
+- 2025-11-25, **Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos**, Youngseo Kim et.al., Paper: [http://arxiv.org/abs/2511.19936](http://arxiv.org/abs/2511.19936)
 - 2025-01-09, **Identity-Preserving Video Dubbing Using Motion Warping**, Runzhen Liu et.al., Paper: [http://arxiv.org/abs/2501.04586](http://arxiv.org/abs/2501.04586)
 - 2023-05-15, **Identity-Preserving Talking Face Generation with Landmark and Appearance Priors**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2305.08293](http://arxiv.org/abs/2305.08293), Code: **[https://github.com/Weizhi-Zhong/IP_LAP](https://github.com/Weizhi-Zhong/IP_LAP)**
 - 2020-05-25, **Identity-Preserving Realistic Talking Face Generation**, Sanjana Sinha et.al., Paper: [http://arxiv.org/abs/2005.12318](http://arxiv.org/abs/2005.12318)
@@ -775,6 +776,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-02-21, **Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**, Zechen Bai et.al., Paper: [http://arxiv.org/abs/2402.13724](http://arxiv.org/abs/2402.13724), Code: **[https://github.com/showlab/byoc](https://github.com/showlab/byoc)**
 - 2023-10-31, **Breathing Life into Faces: Speech-driven 3D Facial Animation with Natural Head Pose and Detailed Shape**, Wei Zhao et.al., Paper: [http://arxiv.org/abs/2310.20240](http://arxiv.org/abs/2310.20240)
 - 2025-11-18, **Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection**, Xiaolin Wang et.al., Paper: [http://arxiv.org/abs/2511.14371](http://arxiv.org/abs/2511.14371)
+- 2025-11-24, **Blinking Beyond EAR: A Stable Eyelid Angle Metric for Driver Drowsiness Detection and Data Augmentation**, Mathis Wolter et.al., Paper: [http://arxiv.org/abs/2511.19519](http://arxiv.org/abs/2511.19519)
 - 2025-09-10, **Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2509.08376](http://arxiv.org/abs/2509.08376)
 - 2021-11-02, **BiosecurID: a multimodal biometric database**, Julian Fierrez et.al., Paper: [http://arxiv.org/abs/2111.03472](http://arxiv.org/abs/2111.03472)
 - 2025-06-24, **Bind-Your-Avatar: Multi-Talking-Character Video Generation with Dynamic 3D-mask-based Embedding Router**, Yubo Huang et.al., Paper: [http://arxiv.org/abs/2506.19833](http://arxiv.org/abs/2506.19833)
@@ -929,11 +931,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-11-18, **PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**, Dianbing Xi et.al., Paper: [http://arxiv.org/abs/2511.12935](http://arxiv.org/abs/2511.12935)
 - 2025-04-04, **Optimizing 4D Gaussians for Dynamic Scene Video from Single Landscape Images**, In-Hwan Jin et.al., Paper: [http://arxiv.org/abs/2504.05458](http://arxiv.org/abs/2504.05458)
 - 2025-11-11, **OmniAID: Decoupling Semantic and Artifacts for Universal AI-Generated Image Detection in the Wild**, Yuncheng Guo et.al., Paper: [http://arxiv.org/abs/2511.08423](http://arxiv.org/abs/2511.08423)
+- 2025-11-25, **New York Smells: A Large Multimodal Dataset for Olfaction**, Ege Ozguroglu et.al., Paper: [http://arxiv.org/abs/2511.20544](http://arxiv.org/abs/2511.20544)
 - 2022-04-05, **Neural Fields in Visual Computing and Beyond**, Yiheng Xie et.al., Paper: [http://arxiv.org/abs/2111.11426](http://arxiv.org/abs/2111.11426)
 - 2022-11-30, **NeRFInvertor: High Fidelity NeRF-GAN Inversion for Single-shot Real Image Animation**, Yu Yin et.al., Paper: [http://arxiv.org/abs/2211.17235](http://arxiv.org/abs/2211.17235)
 - 2015-02-04, **Multimedia-Video for Learning**, Kah Hean Chua et.al., Paper: [http://arxiv.org/abs/1502.01090](http://arxiv.org/abs/1502.01090)
 - 2025-04-05, **Multi-identity Human Image Animation with Structural Video Diffusion**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2504.04126](http://arxiv.org/abs/2504.04126)
 - 2021-12-19, **Move As You Like: Image Animation in E-Commerce Scenario**, Borun Xu et.al., Paper: [http://arxiv.org/abs/2112.13647](http://arxiv.org/abs/2112.13647)
+- 2025-11-25, **MotionV2V: Editing Motion in a Video**, Ryan Burgert et.al., Paper: [http://arxiv.org/abs/2511.20640](http://arxiv.org/abs/2511.20640)
 - 2025-02-06, **MotionCanvas: Cinematic Shot Design with Controllable Image-to-Video Generation**, Jinbo Xing et.al., Paper: [http://arxiv.org/abs/2502.04299](http://arxiv.org/abs/2502.04299)
 - 2023-11-30, **Motion-Conditioned Image Animation for Video Editing**, Wilson Yan et.al., Paper: [http://arxiv.org/abs/2311.18827](http://arxiv.org/abs/2311.18827)
 - 2022-09-28, **Motion Transformer for Unsupervised Image Animation**, Jiale Tao et.al., Paper: [http://arxiv.org/abs/2209.14024](http://arxiv.org/abs/2209.14024)
