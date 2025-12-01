@@ -25,10 +25,17 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement**|Zhizhou Zhong et.al.|[2511.23475](http://arxiv.org/abs/2511.23475)|null|
+|**2025-11-28**|**DAONet-YOLOv8: An Occlusion-Aware Dual-Attention Network for Tea Leaf Pest and Disease Detection**|Yefeng Wu et.al.|[2511.23222](http://arxiv.org/abs/2511.23222)|null|
+|**2025-11-28**|**CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation**|Fengyi Fang et.al.|[2511.22863](http://arxiv.org/abs/2511.22863)|null|
+|**2025-11-27**|**AI killed the video star. Audio-driven diffusion model for expressive talking head generation**|Baptiste Chopin et.al.|[2511.22488](http://arxiv.org/abs/2511.22488)|null|
+|**2025-11-27**|**VSpeechLM: A Visual Speech Language Model for Visual Text-to-Speech Task**|Yuyue Wang et.al.|[2511.22229](http://arxiv.org/abs/2511.22229)|null|
+|**2025-11-27**|**IMTalker: Efficient Audio-driven Talking Face Generation with Implicit Motion Transfer**|Bo Chen et.al.|[2511.22167](http://arxiv.org/abs/2511.22167)|null|
+|**2025-11-27**|**Lips-Jaw and Tongue-Jaw Articulatory Tradeoff in DYNARTmo**|Bernd J. Kröger et.al.|[2511.22155](http://arxiv.org/abs/2511.22155)|null|
+|**2025-11-27**|**DiP: Taming Diffusion Models in Pixel Space**|Zhennan Chen et.al.|[2511.18822](http://arxiv.org/abs/2511.18822)|null|
 |**2025-11-25**|**Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos**|Youngseo Kim et.al.|[2511.19936](http://arxiv.org/abs/2511.19936)|null|
 |**2025-11-24**|**Blinking Beyond EAR: A Stable Eyelid Angle Metric for Driver Drowsiness Detection and Data Augmentation**|Mathis Wolter et.al.|[2511.19519](http://arxiv.org/abs/2511.19519)|null|
 |**2025-11-24**|**Assessing the alignment between infants' visual and linguistic experience using multimodal language models**|Alvin Wei Ming Tan et.al.|[2511.18824](http://arxiv.org/abs/2511.18824)|null|
-|**2025-11-24**|**DiP: Taming Diffusion Models in Pixel Space**|Zhennan Chen et.al.|[2511.18822](http://arxiv.org/abs/2511.18822)|null|
 |**2025-11-23**|**The Locally Deployable Virtual Doctor: LLM Based Human Interface for Automated Anamnesis and Database Conversion**|Jan Benedikt Ruhland et.al.|[2511.18632](http://arxiv.org/abs/2511.18632)|null|
 |**2025-11-23**|**RigAnyFace: Scaling Neural Facial Mesh Auto-Rigging with Unlabeled Data**|Wenchao Ma et.al.|[2511.18601](http://arxiv.org/abs/2511.18601)|null|
 |**2025-11-22**|**A superpersuasive autonomous policy debating system**|Allen Roush et.al.|[2511.17854](http://arxiv.org/abs/2511.17854)|null|
@@ -895,6 +902,10 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**MultiBanana: A Challenging Benchmark for Multi-Reference Text-to-Image Generation**|Yuta Oshima et.al.|[2511.22989](http://arxiv.org/abs/2511.22989)|null|
+|**2025-11-28**|**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfe**|Shijun Shi et.al.|[2511.22940](http://arxiv.org/abs/2511.22940)|null|
+|**2025-11-27**|**A Progressive Evaluation Framework for Multicultural Analysis of Story Visualization**|Janak Kapuriya et.al.|[2511.22576](http://arxiv.org/abs/2511.22576)|null|
+|**2025-11-27**|**INSIGHT: An Interpretable Neural Vision-Language Framework for Reasoning of Generative Artifacts**|Anshul Bagaria et.al.|[2511.22351](http://arxiv.org/abs/2511.22351)|null|
 |**2025-11-25**|**MotionV2V: Editing Motion in a Video**|Ryan Burgert et.al.|[2511.20640](http://arxiv.org/abs/2511.20640)|null|
 |**2025-11-25**|**New York Smells: A Large Multimodal Dataset for Olfaction**|Ege Ozguroglu et.al.|[2511.20544](http://arxiv.org/abs/2511.20544)|null|
 |**2025-11-24**|**SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation**|Jiaming Zhang et.al.|[2511.19320](http://arxiv.org/abs/2511.19320)|null|
