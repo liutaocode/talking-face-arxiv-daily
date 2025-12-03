@@ -737,6 +737,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-01-03, **DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering**, Shunyu Yao et.al., Paper: [http://arxiv.org/abs/2201.00791](http://arxiv.org/abs/2201.00791)
 - 2024-06-19, **DF40: Toward Next-Generation Deepfake Detection**, Zhiyuan Yan et.al., Paper: [http://arxiv.org/abs/2406.13495](http://arxiv.org/abs/2406.13495)
 - 2023-09-12, **DF-TransFusion: Multimodal Deepfake Detection via Lip-Audio Cross-Attention and Facial Self-Attention**, Aaditya Kharel et.al., Paper: [http://arxiv.org/abs/2309.06511](http://arxiv.org/abs/2309.06511)
+- 2025-12-02, **DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**, Yifan Zhou et.al., Paper: [http://arxiv.org/abs/2512.02727](http://arxiv.org/abs/2512.02727)
 - 2023-08-23, **DF-3DFace: One-to-Many Speech Synchronized 3D Face Animation with Diffusion**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2310.05934](http://arxiv.org/abs/2310.05934)
 - 2025-10-12, **DEMO: Disentangled Motion Latent Flow Matching for Fine-Grained Controllable Talking Portrait Synthesis**, Peiyin Chen et.al., Paper: [http://arxiv.org/abs/2510.10650](http://arxiv.org/abs/2510.10650)
 - 2024-12-28, **DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis**, Kaijun Deng et.al., Paper: [http://arxiv.org/abs/2412.20148](http://arxiv.org/abs/2412.20148), Code: **[https://github.com/cvi-szu/degstalk](https://github.com/cvi-szu/degstalk)**
@@ -939,6 +940,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2021-03-22, **PriorityCut: Occlusion-guided Regularization for Warp-based Image Animation**, Wai Ting Cheung et.al., Paper: [http://arxiv.org/abs/2103.11600](http://arxiv.org/abs/2103.11600)
 - 2023-07-09, **Predictive Coding For Animation-Based Video Compression**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2307.04187](http://arxiv.org/abs/2307.04187)
 - 2025-03-10, **Perception-as-Control: Fine-grained Controllable Image Animation with 3D-aware Motion Representation**, Yingjie Chen et.al., Paper: [http://arxiv.org/abs/2501.05020](http://arxiv.org/abs/2501.05020)
+- 2025-12-02, **PPTArena: A Benchmark for Agentic PowerPoint Editing**, Michael Ofengenden et.al., Paper: [http://arxiv.org/abs/2512.03042](http://arxiv.org/abs/2512.03042)
 - 2024-03-25, **PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models**, Yiming Zhang et.al., Paper: [http://arxiv.org/abs/2312.13964](http://arxiv.org/abs/2312.13964)
 - 2025-11-18, **PFAvatar: Pose-Fusion 3D Personalized Avatar Reconstruction from Real-World Outfit-of-the-Day Photos**, Dianbing Xi et.al., Paper: [http://arxiv.org/abs/2511.12935](http://arxiv.org/abs/2511.12935)
 - 2025-04-04, **Optimizing 4D Gaussians for Dynamic Scene Video from Single Landscape Images**, In-Hwan Jin et.al., Paper: [http://arxiv.org/abs/2504.05458](http://arxiv.org/abs/2504.05458)

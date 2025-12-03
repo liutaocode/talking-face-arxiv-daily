@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727](http://arxiv.org/abs/2512.02727)|null|
 |**2025-12-01**|**ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark**|Joanne Lin et.al.|[2512.01495](http://arxiv.org/abs/2512.01495)|null|
 |**2025-12-01**|**EvalTalker: Learning to Evaluate Real-Portrait-Driven Multi-Subject Talking Humans**|Yingjie Zhou et.al.|[2512.01340](http://arxiv.org/abs/2512.01340)|null|
 |**2025-11-30**|**TalkingPose: Efficient Face and Gesture Animation with Feedback-guided Diffusion Model**|Alireza Javanmardi et.al.|[2512.00909](http://arxiv.org/abs/2512.00909)|null|
@@ -900,6 +901,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
 |**2025-12-01**|**Know Thyself by Knowing Others: Learning Neuron Identity from Population Context**|Vinam Arora et.al.|[2512.01199](http://arxiv.org/abs/2512.01199)|null|
 |**2025-12-01**|**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer**|Shijun Shi et.al.|[2511.22940](http://arxiv.org/abs/2511.22940)|null|
 |**2025-11-30**|**TalkingPose: Efficient Face and Gesture Animation with Feedback-guided Diffusion Model**|Alireza Javanmardi et.al.|[2512.00909](http://arxiv.org/abs/2512.00909)|null|
