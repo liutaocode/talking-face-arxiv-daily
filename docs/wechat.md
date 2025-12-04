@@ -1023,6 +1023,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-09-25, **Automatic Animation of Hair Blowing in Still Portrait Photos**, Wenpeng Xiao et.al., Paper: [http://arxiv.org/abs/2309.14207](http://arxiv.org/abs/2309.14207)
 - 2024-07-17, **Audio-Synchronized Visual Animation**, Lin Zhang et.al., Paper: [http://arxiv.org/abs/2403.05659](http://arxiv.org/abs/2403.05659)
 - 2025-11-29, **Astro-Animation -- How Artists and Scientists Envision the Universe**, Laurence Arcadias et.al., Paper: [http://arxiv.org/abs/2512.00535](http://arxiv.org/abs/2512.00535)
+- 2025-12-03, **Artificial Microsaccade Compensation: Stable Vision for an Ornithopter**, Levi Burner et.al., Paper: [http://arxiv.org/abs/2512.03995](http://arxiv.org/abs/2512.03995)
 - 2021-10-28, **Application of Time Separation Technique to Enhance C-arm CT Dynamic Liver Perfusion Imaging**, Hana Haseljić et.al., Paper: [http://arxiv.org/abs/2110.14318](http://arxiv.org/abs/2110.14318)
 - 2023-01-27, **Animating Still Images**, Kushagr Batra et.al., Paper: [http://arxiv.org/abs/2209.10497](http://arxiv.org/abs/2209.10497)
 - 2019-08-30, **Animating Arbitrary Objects via Deep Motion Transfer**, Aliaksandr Siarohin et.al., Paper: [http://arxiv.org/abs/1812.08861](http://arxiv.org/abs/1812.08861)

@@ -907,6 +907,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Artificial Microsaccade Compensation: Stable Vision for an Ornithopter**|Levi Burner et.al.|[2512.03995](http://arxiv.org/abs/2512.03995)|null|
 |**2025-12-02**|**PPTArena: A Benchmark for Agentic PowerPoint Editing**|Michael Ofengenden et.al.|[2512.03042](http://arxiv.org/abs/2512.03042)|null|
 |**2025-12-01**|**Know Thyself by Knowing Others: Learning Neuron Identity from Population Context**|Vinam Arora et.al.|[2512.01199](http://arxiv.org/abs/2512.01199)|null|
 |**2025-12-01**|**One-to-All Animation: Alignment-Free Character Animation and Image Pose Transfer**|Shijun Shi et.al.|[2511.22940](http://arxiv.org/abs/2511.22940)|null|
