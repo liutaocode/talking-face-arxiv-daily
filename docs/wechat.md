@@ -368,6 +368,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-05-31, **MegActor: Harness the Power of Raw Video for Vivid Portrait Animation**, Shurong Yang et.al., Paper: [http://arxiv.org/abs/2405.20851](http://arxiv.org/abs/2405.20851), Code: **[https://github.com/megvii-research/megfaceanimate](https://github.com/megvii-research/megfaceanimate)**
 - 2024-08-27, **MegActor- $Σ$ : Unlocking Flexible Mixed-Modal Control in Portrait Animation with Diffusion Transformer**, Shurong Yang et.al., Paper: [http://arxiv.org/abs/2408.14975](http://arxiv.org/abs/2408.14975)
 - 2024-01-30, **Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance**, Qingcheng Zhao et.al., Paper: [http://arxiv.org/abs/2401.15687](http://arxiv.org/abs/2401.15687)
+- 2025-12-04, **Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**, Yigui Feng et.al., Paper: [http://arxiv.org/abs/2512.04728](http://arxiv.org/abs/2512.04728)
 - 2022-12-09, **Masked Lip-Sync Prediction by Audio-Visual Contextual Exploitation in Transformers**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2212.04970](http://arxiv.org/abs/2212.04970)
 - 2023-09-10, **MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment**, Tina Behrouzi et.al., Paper: [http://arxiv.org/abs/2309.05095](http://arxiv.org/abs/2309.05095)
 - 2025-07-28, **Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation**, Dogucan Yaman et.al., Paper: [http://arxiv.org/abs/2507.20953](http://arxiv.org/abs/2507.20953)
@@ -400,6 +401,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-11-10, **LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration**, Tung Vu et.al., Paper: [http://arxiv.org/abs/2511.07552](http://arxiv.org/abs/2511.07552)
 - 2021-09-24, **Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2109.10595](http://arxiv.org/abs/2109.10595)
 - 2025-07-22, **Livatar-1: Real-Time Talking Heads Generation with Tailored Flow Matching**, Haiyang Liu et.al., Paper: [http://arxiv.org/abs/2507.18649](http://arxiv.org/abs/2507.18649)
+- 2025-12-04, **LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**, Zhijian Shu et.al., Paper: [http://arxiv.org/abs/2512.04939](http://arxiv.org/abs/2512.04939)
 - 2024-05-12, **Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation**, Changpeng Cai et.al., Paper: [http://arxiv.org/abs/2405.07257](http://arxiv.org/abs/2405.07257)
 - 2025-11-27, **Lips-Jaw and Tongue-Jaw Articulatory Tradeoff in DYNARTmo**, Bernd J. Kröger et.al., Paper: [http://arxiv.org/abs/2511.22155](http://arxiv.org/abs/2511.22155)
 - 2024-01-28, **Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes**, Weifeng Liu et.al., Paper: [http://arxiv.org/abs/2401.15668](http://arxiv.org/abs/2401.15668), Code: **[https://github.com/aaroncomo/lipfd](https://github.com/aaroncomo/lipfd)**
@@ -936,6 +938,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-11-16, **Sketch2PoseNet: Efficient and Generalized Sketch to 3D Human Pose Prediction**, Li Wang et.al., Paper: [http://arxiv.org/abs/2510.26196](http://arxiv.org/abs/2510.26196)
 - 2022-07-19, **Single Stage Virtual Try-on via Deformable Attention Flows**, Shuai Bai et.al., Paper: [http://arxiv.org/abs/2207.09161](http://arxiv.org/abs/2207.09161)
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
+- 2025-12-04, **ShadowDraw: From Any Object to Shadow-Drawing Compositional Art**, Rundong Luo et.al., Paper: [http://arxiv.org/abs/2512.05110](http://arxiv.org/abs/2512.05110)
 - 2018-01-31, **RAPTOR I: Time-dependent radiative transfer in arbitrary spacetimes**, Thomas Bronzwaer et.al., Paper: [http://arxiv.org/abs/1801.10452](http://arxiv.org/abs/1801.10452)
 - 2021-03-22, **PriorityCut: Occlusion-guided Regularization for Warp-based Image Animation**, Wai Ting Cheung et.al., Paper: [http://arxiv.org/abs/2103.11600](http://arxiv.org/abs/2103.11600)
 - 2023-07-09, **Predictive Coding For Animation-Based Video Compression**, Goluck Konuko et.al., Paper: [http://arxiv.org/abs/2307.04187](http://arxiv.org/abs/2307.04187)
@@ -997,6 +1000,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-05-29, **Evaluating the efectiveness of sonifcation in science education using Edukoi**, Lucrezia Guiotto Nai Fovino et.al., Paper: [http://arxiv.org/abs/2405.18908](http://arxiv.org/abs/2405.18908)
 - 2025-05-24, **EvAnimate: Event-conditioned Image-to-Video Generation for Human Animation**, Qiang Qu et.al., Paper: [http://arxiv.org/abs/2503.18552](http://arxiv.org/abs/2503.18552)
 - 2025-11-14, **EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation**, Zongyang Qiu et.al., Paper: [http://arxiv.org/abs/2511.11002](http://arxiv.org/abs/2511.11002)
+- 2025-12-04, **Efficient Spatially-Variant Convolution via Differentiable Sparse Kernel Complex**, Zhizhen Wu et.al., Paper: [http://arxiv.org/abs/2512.04556](http://arxiv.org/abs/2512.04556)
 - 2025-06-09, **Efficient Long-duration Talking Video Synthesis with Linear Diffusion Transformer under Multimodal Guidance**, Haojie Zhang et.al., Paper: [http://arxiv.org/abs/2411.16748](http://arxiv.org/abs/2411.16748)
 - 2024-07-12, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
 - 2024-05-20, **Dynamic modeling of a sliding ring on an elastic rod with incremental potential formulation**, Weicheng Huang et.al., Paper: [http://arxiv.org/abs/2208.01238](http://arxiv.org/abs/2208.01238)
