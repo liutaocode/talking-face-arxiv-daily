@@ -909,6 +909,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-05**|**SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Consistent Pose Representations**|Wenhao Yan et.al.|[2512.05905](http://arxiv.org/abs/2512.05905)|null|
+|**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593](http://arxiv.org/abs/2512.05593)|null|
 |**2025-12-04**|**ShadowDraw: From Any Object to Shadow-Drawing Compositional Art**|Rundong Luo et.al.|[2512.05110](http://arxiv.org/abs/2512.05110)|null|
 |**2025-12-04**|**Efficient Spatially-Variant Convolution via Differentiable Sparse Kernel Complex**|Zhizhen Wu et.al.|[2512.04556](http://arxiv.org/abs/2512.04556)|null|
 |**2025-12-03**|**Artificial Microsaccade Compensation: Stable Vision for an Ornithopter**|Levi Burner et.al.|[2512.03995](http://arxiv.org/abs/2512.03995)|null|
