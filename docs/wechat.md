@@ -648,6 +648,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-07-17, **EmoFace: Audio-driven Emotional 3D Face Animation**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2407.12501](http://arxiv.org/abs/2407.12501), Code: **[https://github.com/sjtu-lucy/emoface](https://github.com/sjtu-lucy/emoface)**
 - 2024-12-12, **EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2412.08988](http://arxiv.org/abs/2412.08988)
 - 2025-03-14, **EmoDiffusion: Enhancing Emotional 3D Facial Animation with Latent Diffusion Models**, Yixuan Zhang et.al., Paper: [http://arxiv.org/abs/2503.11028](http://arxiv.org/abs/2503.11028)
+- 2025-11-30, **EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2512.05991](http://arxiv.org/abs/2512.05991)
 - 2019-10-09, **EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos**, Haipeng Zeng et.al., Paper: [http://arxiv.org/abs/1907.12918](http://arxiv.org/abs/1907.12918)
 - 2025-08-28, **EmoCAST: Emotional Talking Portrait via Emotive Text Description**, Yiguo Jiang et.al., Paper: [http://arxiv.org/abs/2508.20615](http://arxiv.org/abs/2508.20615)
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
