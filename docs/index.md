@@ -21,12 +21,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**|Madhav Agarwal et.al.|[2512.10939](http://arxiv.org/abs/2512.10939)|null|
+|**2025-12-10**|**EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head**|Chang Liu et.al.|[2512.05991](http://arxiv.org/abs/2512.05991)|null|
 |**2025-12-04**|**LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging**|Zhijian Shu et.al.|[2512.04939](http://arxiv.org/abs/2512.04939)|null|
 |**2025-12-04**|**Measuring the Unspoken: A Disentanglement Model and Benchmark for Psychological Analysis in the Wild**|Yigui Feng et.al.|[2512.04728](http://arxiv.org/abs/2512.04728)|null|
 |**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727](http://arxiv.org/abs/2512.02727)|null|
 |**2025-12-01**|**ELVIS: Enhance Low-Light for Video Instance Segmentation in the Dark**|Joanne Lin et.al.|[2512.01495](http://arxiv.org/abs/2512.01495)|null|
 |**2025-12-01**|**EvalTalker: Learning to Evaluate Real-Portrait-Driven Multi-Subject Talking Humans**|Yingjie Zhou et.al.|[2512.01340](http://arxiv.org/abs/2512.01340)|null|
-|**2025-11-30**|**EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head**|Chang Liu et.al.|[2512.05991](http://arxiv.org/abs/2512.05991)|null|
 |**2025-11-30**|**TalkingPose: Efficient Face and Gesture Animation with Feedback-guided Diffusion Model**|Alireza Javanmardi et.al.|[2512.00909](http://arxiv.org/abs/2512.00909)|null|
 |**2025-11-29**|**MVAD : A Comprehensive Multimodal Video-Audio Dataset for AIGC Detection**|Mengxue Hu et.al.|[2512.00336](http://arxiv.org/abs/2512.00336)|null|
 |**2025-11-28**|**AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement**|Zhizhou Zhong et.al.|[2511.23475](http://arxiv.org/abs/2511.23475)|null|
