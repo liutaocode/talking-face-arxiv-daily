@@ -58,6 +58,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-04-24, **VR Facial Animation for Immersive Telepresence Avatars**, Andre Rochow et.al., Paper: [http://arxiv.org/abs/2304.12051](http://arxiv.org/abs/2304.12051)
 - 2024-12-18, **VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization**, Tao Liu et.al., Paper: [http://arxiv.org/abs/2412.09892](http://arxiv.org/abs/2412.09892)
 - 2023-08-11, **VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2308.04830](http://arxiv.org/abs/2308.04830)
+- 2025-12-16, **VASA-3D: Lifelike Audio-Driven Gaussian Head Avatars from a Single Image**, Sicheng Xu et.al., Paper: [http://arxiv.org/abs/2512.14677](http://arxiv.org/abs/2512.14677)
 - 2024-04-16, **VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time**, Sicheng Xu et.al., Paper: [http://arxiv.org/abs/2404.10667](http://arxiv.org/abs/2404.10667)
 - 2024-11-29, **V2SFlow: Video-to-Speech Generation with Speech Decomposition and Rectified Flow**, Jeongsoo Choi et.al., Paper: [http://arxiv.org/abs/2411.19486](http://arxiv.org/abs/2411.19486)
 - 2012-09-22, **Using multimodal speech production data to evaluate articulatory animation for audiovisual speech synthesis**, Ingmar Steiner et.al., Paper: [http://arxiv.org/abs/1209.4982](http://arxiv.org/abs/1209.4982)
@@ -205,7 +206,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-09-05, **SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing**, Lingyu Xiong et.al., Paper: [http://arxiv.org/abs/2409.03605](http://arxiv.org/abs/2409.03605)
 - 2020-09-02, **Seeing wake words: Audio-visual Keyword Spotting**, Liliane Momeni et.al., Paper: [http://arxiv.org/abs/2009.01225](http://arxiv.org/abs/2009.01225)
 - 2023-03-29, **Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**, Jiadong Wang et.al., Paper: [http://arxiv.org/abs/2303.17480](http://arxiv.org/abs/2303.17480), Code: **[https://github.com/sxjdwang/talklip](https://github.com/sxjdwang/talklip)**
-- 2025-12-15, **Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**, Siyan Chen et.al., Paper: [http://arxiv.org/abs/2512.13507](http://arxiv.org/abs/2512.13507)
+- 2025-12-16, **Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**, Heyi Chen et.al., Paper: [http://arxiv.org/abs/2512.13507](http://arxiv.org/abs/2512.13507)
 - 2025-10-28, **See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement**, Jinting Wang et.al., Paper: [http://arxiv.org/abs/2510.26819](http://arxiv.org/abs/2510.26819)
 - 2024-03-19, **ScanTalk: 3D Talking Heads from Unregistered Scans**, Federico Nocentini et.al., Paper: [http://arxiv.org/abs/2403.10942](http://arxiv.org/abs/2403.10942)
 - 2025-02-17, **SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**, Junxian Ma et.al., Paper: [http://arxiv.org/abs/2502.11515](http://arxiv.org/abs/2502.11515)
@@ -601,6 +602,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2012-03-30, **Face Expression Recognition and Analysis: The State of the Art**, Vinay Bettadapura et.al., Paper: [http://arxiv.org/abs/1203.6722](http://arxiv.org/abs/1203.6722)
 - 2023-04-06, **Face Animation with an Attribute-Guided Diffusion Model**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2304.03199](http://arxiv.org/abs/2304.03199), Code: **[https://github.com/zengbohan0217/fadm](https://github.com/zengbohan0217/fadm)**
 - 2024-05-21, **Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control**, Yue Han et.al., Paper: [http://arxiv.org/abs/2405.12970](http://arxiv.org/abs/2405.12970)
+- 2025-12-16, **FacEDiT: Unified Talking Face Editing and Generation via Facial Motion Infilling**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2512.14056](http://arxiv.org/abs/2512.14056)
 - 2020-05-13, **FaR-GAN for One-Shot Face Reenactment**, Hanxiang Hao et.al., Paper: [http://arxiv.org/abs/2005.06402](http://arxiv.org/abs/2005.06402)
 - 2023-07-08, **FTFDNet: Learning to Detect Talking Face Video Manipulation with Tri-Modality Interaction**, Ganglai Wang et.al., Paper: [http://arxiv.org/abs/2307.03990](http://arxiv.org/abs/2307.03990)
 - 2023-12-09, **FT2TF: First-Person Statement Text-To-Talking Face Generation**, Xingjian Diao et.al., Paper: [http://arxiv.org/abs/2312.05430](http://arxiv.org/abs/2312.05430)
