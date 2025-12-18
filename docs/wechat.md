@@ -132,6 +132,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2019-07-25, **Talking Face Generation by Conditional Recurrent Adversarial Network**, Yang Song et.al., Paper: [http://arxiv.org/abs/1804.04786](http://arxiv.org/abs/1804.04786), Code: **[https://github.com/susanqq/Talking_Face_Generation](https://github.com/susanqq/Talking_Face_Generation)**
 - 2019-04-23, **Talking Face Generation by Adversarially Disentangled Audio-Visual Representation**, Hang Zhou et.al., Paper: [http://arxiv.org/abs/1807.07860](http://arxiv.org/abs/1807.07860)
 - 2025-08-19, **TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis**, Shunian Chen et.al., Paper: [http://arxiv.org/abs/2508.13618](http://arxiv.org/abs/2508.13618)
+- 2025-12-16, **TalkVerse: Democratizing Minute-Long Audio-Driven Video Generation**, Zhenzhi Wang et.al., Paper: [http://arxiv.org/abs/2512.14938](http://arxiv.org/abs/2512.14938)
 - 2024-08-25, **TalkLoRA: Low-Rank Adaptation for Speech-Driven Animation**, Jack Saunders et.al., Paper: [http://arxiv.org/abs/2408.13714](http://arxiv.org/abs/2408.13714)
 - 2023-04-01, **TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles**, Yifeng Ma et.al., Paper: [http://arxiv.org/abs/2304.00334](http://arxiv.org/abs/2304.00334)
 - 2024-03-29, **Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior**, Jaehoon Ko et.al., Paper: [http://arxiv.org/abs/2403.20153](http://arxiv.org/abs/2403.20153), Code: **[https://github.com/KU-CVLAB/Talk3D](https://github.com/KU-CVLAB/Talk3D)**
@@ -571,6 +572,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-04-06, **FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**, Shiyan Liu et.al., Paper: [http://arxiv.org/abs/2504.04427](http://arxiv.org/abs/2504.04427)
 - 2024-03-12, **FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06375](http://arxiv.org/abs/2403.06375)
 - 2025-05-02, **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2505.01263](http://arxiv.org/abs/2505.01263)
+- 2025-12-17, **FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision**, Tobias Kirschstein et.al., Paper: [http://arxiv.org/abs/2512.15599](http://arxiv.org/abs/2512.15599)
 - 2025-07-02, **FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2507.01390](http://arxiv.org/abs/2507.01390)
 - 2021-10-12, **Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**, Haichao Zhang et.al., Paper: [http://arxiv.org/abs/2110.04708](http://arxiv.org/abs/2110.04708)
 - 2022-10-06, **Finding Directions in GAN's Latent Space for Neural Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2202.00046](http://arxiv.org/abs/2202.00046), Code: **[https://github.com/stelabou/stylegan_directions_face_reenactment](https://github.com/stelabou/stylegan_directions_face_reenactment)**
@@ -740,6 +742,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-08-21, **Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis**, Tong Sha et.al., Paper: [http://arxiv.org/abs/2109.02081](http://arxiv.org/abs/2109.02081)
 - 2020-08-02, **Deep Multi-modality Soft-decoding of Very Low Bit-rate Face Videos**, Yanhui Guo et.al., Paper: [http://arxiv.org/abs/2008.01652](http://arxiv.org/abs/2008.01652)
 - 2018-12-22, **Deep Audio-Visual Speech Recognition**, Triantafyllos Afouras et.al., Paper: [http://arxiv.org/abs/1809.02108](http://arxiv.org/abs/1809.02108)
+- 2025-12-17, **DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations**, Yuxiang Shi et.al., Paper: [http://arxiv.org/abs/2512.15524](http://arxiv.org/abs/2512.15524)
 - 2019-07-24, **Data-Driven Physical Face Inversion**, Yeara Kozlov et.al., Paper: [http://arxiv.org/abs/1907.10402](http://arxiv.org/abs/1907.10402)
 - 2023-01-23, **Data standardization for robust lip sync**, Chun Wang et.al., Paper: [http://arxiv.org/abs/2202.06198](http://arxiv.org/abs/2202.06198)
 - 2020-05-11, **Dancing to the Partisan Beat: A First Analysis of Political Communication on TikTok**, Juan Carlos Medina Serrano et.al., Paper: [http://arxiv.org/abs/2004.05478](http://arxiv.org/abs/2004.05478), Code: **[https://github.com/JuanCarlosCSE/TikTok](https://github.com/JuanCarlosCSE/TikTok)**
