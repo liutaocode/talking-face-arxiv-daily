@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation**|Shihang Li et.al.|[2512.17331](http://arxiv.org/abs/2512.17331)|null|
+|**2025-12-19**|**InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing**|Zhedong Zhang et.al.|[2512.17154](http://arxiv.org/abs/2512.17154)|null|
 |**2025-12-18**|**FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**|Shuyuan Tu et.al.|[2512.16900](http://arxiv.org/abs/2512.16900)|null|
 |**2025-12-18**|**Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation**|Kaiwen Jiang et.al.|[2512.16893](http://arxiv.org/abs/2512.16893)|null|
 |**2025-12-17**|**FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision**|Tobias Kirschstein et.al.|[2512.15599](http://arxiv.org/abs/2512.15599)|null|

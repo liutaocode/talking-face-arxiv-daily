@@ -144,6 +144,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-10-14, **TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2410.10696](http://arxiv.org/abs/2410.10696)
 - 2023-11-08, **Synthetic Speaking Children -- Why We Need Them and How to Make Them**, Muhammad Ali Farooq et.al., Paper: [http://arxiv.org/abs/2311.06307](http://arxiv.org/abs/2311.06307)
 - 2023-03-24, **Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement**, Siddarth Ravichandran et.al., Paper: [http://arxiv.org/abs/2209.01320](http://arxiv.org/abs/2209.01320)
+- 2025-12-19, **SynergyWarpNet: Attention-Guided Cooperative Warping for Neural Portrait Animation**, Shihang Li et.al., Paper: [http://arxiv.org/abs/2512.17331](http://arxiv.org/abs/2512.17331)
 - 2024-12-01, **Synergizing Motion and Appearance: Multi-Scale Compensatory Codebooks for Talking Head Video Generation**, Shuling Zhao et.al., Paper: [http://arxiv.org/abs/2412.00719](http://arxiv.org/abs/2412.00719)
 - 2025-09-24, **SynchroRaMa : Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding**, Phyo Thet Yee et.al., Paper: [http://arxiv.org/abs/2509.19965](http://arxiv.org/abs/2509.19965)
 - 2022-11-03, **SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2211.00924](http://arxiv.org/abs/2211.00924)
@@ -483,6 +484,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-10-12, **Intuitive Facial Animation Editing Based On A Generative RNN Framework**, Eloïse Berson et.al., Paper: [http://arxiv.org/abs/2010.05655](http://arxiv.org/abs/2010.05655)
 - 2023-07-05, **Interactive Conversational Head Generation**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2307.02090](http://arxiv.org/abs/2307.02090)
 - 2021-10-16, **Intelligent Video Editing: Incorporating Modern Talking Face Generation Algorithms in a Video Editor**, Anchit Gupta et.al., Paper: [http://arxiv.org/abs/2110.08580](http://arxiv.org/abs/2110.08580)
+- 2025-12-19, **InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing**, Zhedong Zhang et.al., Paper: [http://arxiv.org/abs/2512.17154](http://arxiv.org/abs/2512.17154)
 - 2024-05-24, **InstructAvatar: Text-Guided Emotion and Motion Control for Avatar Generation**, Yuchi Wang et.al., Paper: [http://arxiv.org/abs/2405.15758](http://arxiv.org/abs/2405.15758), Code: **[https://github.com/wangyuchi369/InstructAvatar](https://github.com/wangyuchi369/InstructAvatar)**
 - 2023-06-05, **Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2306.02903](http://arxiv.org/abs/2306.02903), Code: **[https://github.com/lsx0101/instruct-video2avatar](https://github.com/lsx0101/instruct-video2avatar)**
 - 2023-08-16, **Instruct-NeuralTalker: Editing Audio-Driven Talking Radiance Fields with Instructions**, Yuqi Sun et.al., Paper: [http://arxiv.org/abs/2306.10813](http://arxiv.org/abs/2306.10813)
