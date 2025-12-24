@@ -141,6 +141,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-04-13, **THQA: A Perceptual Quality Assessment Database for Talking Heads**, Yingjie Zhou et.al., Paper: [http://arxiv.org/abs/2404.09003](http://arxiv.org/abs/2404.09003), Code: **[https://github.com/zyj-2000/thqa](https://github.com/zyj-2000/thqa)**
 - 2023-11-28, **THInImg: Cross-modal Steganography for Presenting Talking Heads in Images**, Lin Zhao et.al., Paper: [http://arxiv.org/abs/2311.17177](http://arxiv.org/abs/2311.17177)
 - 2025-11-07, **THEval. Evaluation Framework for Talking Head Video Generation**, Nabyl Quignon et.al., Paper: [http://arxiv.org/abs/2511.04520](http://arxiv.org/abs/2511.04520)
+- 2025-12-23, **TAVID: Text-Driven Audio-Visual Interactive Dialogue Generation**, Ji-Hoon Kim et.al., Paper: [http://arxiv.org/abs/2512.20296](http://arxiv.org/abs/2512.20296)
 - 2024-10-14, **TALK-Act: Enhance Textural-Awareness for 2D Speaking Avatar Reenactment with Diffusion Model**, Jiazhi Guan et.al., Paper: [http://arxiv.org/abs/2410.10696](http://arxiv.org/abs/2410.10696)
 - 2023-11-08, **Synthetic Speaking Children -- Why We Need Them and How to Make Them**, Muhammad Ali Farooq et.al., Paper: [http://arxiv.org/abs/2311.06307](http://arxiv.org/abs/2311.06307)
 - 2023-03-24, **Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement**, Siddarth Ravichandran et.al., Paper: [http://arxiv.org/abs/2209.01320](http://arxiv.org/abs/2209.01320)
@@ -579,6 +580,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-05-02, **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2505.01263](http://arxiv.org/abs/2505.01263)
 - 2025-12-17, **FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision**, Tobias Kirschstein et.al., Paper: [http://arxiv.org/abs/2512.15599](http://arxiv.org/abs/2512.15599)
 - 2025-12-18, **FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2512.16900](http://arxiv.org/abs/2512.16900)
+- 2025-12-23, **FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**, Andreas Zinonos et.al., Paper: [http://arxiv.org/abs/2512.20033](http://arxiv.org/abs/2512.20033)
 - 2025-07-02, **FixTalk: Taming Identity Leakage for High-Quality Talking Head Generation in Extreme Cases**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2507.01390](http://arxiv.org/abs/2507.01390)
 - 2021-10-12, **Fine-grained Identity Preserving Landmark Synthesis for Face Reenactment**, Haichao Zhang et.al., Paper: [http://arxiv.org/abs/2110.04708](http://arxiv.org/abs/2110.04708)
 - 2022-10-06, **Finding Directions in GAN's Latent Space for Neural Face Reenactment**, Stella Bounareli et.al., Paper: [http://arxiv.org/abs/2202.00046](http://arxiv.org/abs/2202.00046), Code: **[https://github.com/stelabou/stylegan_directions_face_reenactment](https://github.com/stelabou/stylegan_directions_face_reenactment)**
@@ -1024,6 +1026,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-10-20, **FrameBridge: Improving Image-to-Video Generation with Bridge Models**, Yuji Wang et.al., Paper: [http://arxiv.org/abs/2410.15371](http://arxiv.org/abs/2410.15371)
 - 2024-03-13, **Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts**, Yue Ma et.al., Paper: [http://arxiv.org/abs/2403.08268](http://arxiv.org/abs/2403.08268)
 - 2020-10-01, **First Order Motion Model for Image Animation**, Aliaksandr Siarohin et.al., Paper: [http://arxiv.org/abs/2003.00196](http://arxiv.org/abs/2003.00196)
+- 2025-12-23, **Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models**, Zhenhao Li et.al., Paper: [http://arxiv.org/abs/2512.20000](http://arxiv.org/abs/2512.20000)
 - 2025-08-01, **FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait**, Taekyung Ki et.al., Paper: [http://arxiv.org/abs/2412.01064](http://arxiv.org/abs/2412.01064)
 - 2025-01-30, **Every Image Listens, Every Image Dances: Music-Driven Image Animation**, Zhikang Dong et.al., Paper: [http://arxiv.org/abs/2501.18801](http://arxiv.org/abs/2501.18801)
 - 2024-05-29, **Evaluating the efectiveness of sonifcation in science education using Edukoi**, Lucrezia Guiotto Nai Fovino et.al., Paper: [http://arxiv.org/abs/2405.18908](http://arxiv.org/abs/2405.18908)
