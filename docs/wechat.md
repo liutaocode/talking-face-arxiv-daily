@@ -397,11 +397,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-05-29, **MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**, Siyuan Wang et.al., Paper: [http://arxiv.org/abs/2505.23120](http://arxiv.org/abs/2505.23120)
 - 2023-12-13, **MMFace4D: A Large-Scale Multi-Modal 4D Face Dataset for Audio-Driven 3D Face Animation**, Haozhe Wu et.al., Paper: [http://arxiv.org/abs/2303.09797](http://arxiv.org/abs/2303.09797)
 - 2024-01-31, **MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis**, Wenhao Guan et.al., Paper: [http://arxiv.org/abs/2312.10687](http://arxiv.org/abs/2312.10687)
+- 2026-01-04, **MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**, Chunyu Qiang et.al., Paper: [http://arxiv.org/abs/2601.01568](http://arxiv.org/abs/2601.01568)
 - 2024-09-23, **MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning**, Yue Han et.al., Paper: [http://arxiv.org/abs/2409.15179](http://arxiv.org/abs/2409.15179)
 - 2024-04-03, **MI-NeRF: Learning a Single Face NeRF from Multiple Identities**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2403.19920](http://arxiv.org/abs/2403.19920)
 - 2024-12-05, **MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation**, Longtao Zheng et.al., Paper: [http://arxiv.org/abs/2412.04448](http://arxiv.org/abs/2412.04448)
 - 2025-08-14, **MEDTalk: Multimodal Controlled 3D Facial Animation with Dynamic Emotions by Disentangled Embedding**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2507.06071](http://arxiv.org/abs/2507.06071)
 - 2023-03-22, **MARLIN: Masked Autoencoder for facial video Representation LearnINg**, Zhixi Cai et.al., Paper: [http://arxiv.org/abs/2211.06627](http://arxiv.org/abs/2211.06627), Code: **[https://github.com/ControlNet/MARLIN](https://github.com/ControlNet/MARLIN)**
+- 2026-01-05, **MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement**, Lei Zhu et.al., Paper: [http://arxiv.org/abs/2601.01749](http://arxiv.org/abs/2601.01749)
 - 2025-10-26, **MAGIC-Talk: Motion-aware Audio-Driven Talking Face Generation with Customizable Identity Control**, Fatemeh Nazarieh et.al., Paper: [http://arxiv.org/abs/2510.22810](http://arxiv.org/abs/2510.22810)
 - 2025-12-20, **MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation**, Kaixing Yang et.al., Paper: [http://arxiv.org/abs/2512.18181](http://arxiv.org/abs/2512.18181)
 - 2025-08-14, **M2DAO-Talker: Harmonizing Multi-granular Motion Decoupling and Alternating Optimization for Talking-head Generation**, Kui Jiang et.al., Paper: [http://arxiv.org/abs/2507.08307](http://arxiv.org/abs/2507.08307)
@@ -531,6 +533,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-03-26, **High-Accuracy Facial Depth Models derived from 3D Synthetic Data**, Faisal Khan et.al., Paper: [http://arxiv.org/abs/2003.06211](http://arxiv.org/abs/2003.06211)
 - 2023-07-19, **Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline**, Zhigang Chang et.al., Paper: [http://arxiv.org/abs/2307.09821](http://arxiv.org/abs/2307.09821)
 - 2019-05-09, **Hierarchical Cross-Modal Talking Face Generationwith Dynamic Pixel-Wise Loss**, Lele Chen et.al., Paper: [http://arxiv.org/abs/1905.03820](http://arxiv.org/abs/1905.03820), Code: **[https://github.com/lelechen63/ATVGnet](https://github.com/lelechen63/ATVGnet)**
+- 2026-01-05, **HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures**, Yating Wang et.al., Paper: [http://arxiv.org/abs/2601.02103](http://arxiv.org/abs/2601.02103)
 - 2021-08-23, **HeadGAN: One-shot Neural Head Synthesis and Editing**, Michail Christos Doukas et.al., Paper: [http://arxiv.org/abs/2012.08261](http://arxiv.org/abs/2012.08261)
 - 2020-05-22, **Head2Head: Video-based Neural Head Synthesis**, Mohammad Rami Koujan et.al., Paper: [http://arxiv.org/abs/2005.10954](http://arxiv.org/abs/2005.10954)
 - 2024-06-16, **Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation**, Mingwang Xu et.al., Paper: [http://arxiv.org/abs/2406.08801](http://arxiv.org/abs/2406.08801)
@@ -686,6 +689,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-10-12, **Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation**, Yuan Gan et.al., Paper: [http://arxiv.org/abs/2309.04946](http://arxiv.org/abs/2309.04946), Code: **[https://github.com/yuangan/eat_code](https://github.com/yuangan/eat_code)**
 - 2025-07-05, **EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**, Rang Meng et.al., Paper: [http://arxiv.org/abs/2507.03905](http://arxiv.org/abs/2507.03905)
 - 2024-07-12, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
+- 2026-01-05, **ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting**, Chuhang Ma et.al., Paper: [http://arxiv.org/abs/2601.01847](http://arxiv.org/abs/2601.01847)
 - 2024-11-25, **ESARM: 3D Emotional Speech-to-Animation via Reward Model from Automatically-Ranked Demonstrations**, Xulong Zhang et.al., Paper: [http://arxiv.org/abs/2411.13089](http://arxiv.org/abs/2411.13089)
 - 2024-09-11, **EMOdiffhead: Continuously Emotional Control in Talking Head Generation via Diffusion**, Jian Zhang et.al., Paper: [http://arxiv.org/abs/2409.07255](http://arxiv.org/abs/2409.07255)
 - 2024-04-29, **EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars**, Nikita Drobyshev et.al., Paper: [http://arxiv.org/abs/2404.19110](http://arxiv.org/abs/2404.19110)
