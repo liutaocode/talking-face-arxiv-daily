@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.01.07
+### Automatically Updated on 2026.01.09
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**REFA: Real-time Egocentric Facial Animations for Virtual Reality**|Qiang Zhang et.al.|[2601.03507](http://arxiv.org/abs/2601.03507)|null|
 |**2026-01-05**|**HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures**|Yating Wang et.al.|[2601.02103](http://arxiv.org/abs/2601.02103)|null|
 |**2026-01-05**|**ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting**|Chuhang Ma et.al.|[2601.01847](http://arxiv.org/abs/2601.01847)|null|
 |**2026-01-05**|**MANGO:Natural Multi-speaker 3D Talking Head Generation via 2D-Lifted Enhancement**|Lei Zhu et.al.|[2601.01749](http://arxiv.org/abs/2601.01749)|null|
