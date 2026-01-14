@@ -656,6 +656,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2021-03-03, **Estimating Uniqueness of I-Vector Representation of Human Voice**, Erkam Sinan Tandogan et.al., Paper: [http://arxiv.org/abs/2008.11985](http://arxiv.org/abs/2008.11985)
 - 2024-07-01, **Enhancing Speech-Driven 3D Facial Animation with Audio-Visual Guidance from Lip Reading Expert**, Han EunGi et.al., Paper: [http://arxiv.org/abs/2407.01034](http://arxiv.org/abs/2407.01034)
 - 2017-12-07, **End-to-end Learning for 3D Facial Animation from Raw Waveforms of Speech**, Hai X. Pham et.al., Paper: [http://arxiv.org/abs/1710.00920](http://arxiv.org/abs/1710.00920)
+- 2026-01-13, **End-to-End Video Character Replacement without Structural Guidance**, Zhengbo Xu et.al., Paper: [http://arxiv.org/abs/2601.08587](http://arxiv.org/abs/2601.08587)
 - 2018-07-19, **End-to-End Speech-Driven Facial Animation with Temporal GANs**, Konstantinos Vougioukas et.al., Paper: [http://arxiv.org/abs/1805.09313](http://arxiv.org/abs/1805.09313)
 - 2021-03-19, **End-to-End Lip Synchronisation Based on Pattern Classification**, You Jin Kim et.al., Paper: [http://arxiv.org/abs/2005.08606](http://arxiv.org/abs/2005.08606)
 - 2022-03-30, **End to End Lip Synchronization with a Temporal AutoEncoder**, Yoav Shalev et.al., Paper: [http://arxiv.org/abs/2203.16224](http://arxiv.org/abs/2203.16224), Code: **[https://github.com/itsyoavshalev/end-to-end-lip-synchronization-with-a-temporal-autoencoder](https://github.com/itsyoavshalev/end-to-end-lip-synchronization-with-a-temporal-autoencoder)**
@@ -760,6 +761,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2018-05-29, **Deep Video Portraits**, Hyeongwoo Kim et.al., Paper: [http://arxiv.org/abs/1805.11714](http://arxiv.org/abs/1805.11714)
 - 2023-08-21, **Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis**, Tong Sha et.al., Paper: [http://arxiv.org/abs/2109.02081](http://arxiv.org/abs/2109.02081)
 - 2020-08-02, **Deep Multi-modality Soft-decoding of Very Low Bit-rate Face Videos**, Yanhui Guo et.al., Paper: [http://arxiv.org/abs/2008.01652](http://arxiv.org/abs/2008.01652)
+- 2026-01-13, **Deep Learning Based Facial Retargeting Using Local Patches**, Yeonsoo Choi et.al., Paper: [http://arxiv.org/abs/2601.08429](http://arxiv.org/abs/2601.08429)
 - 2018-12-22, **Deep Audio-Visual Speech Recognition**, Triantafyllos Afouras et.al., Paper: [http://arxiv.org/abs/1809.02108](http://arxiv.org/abs/1809.02108)
 - 2025-12-17, **DeX-Portrait: Disentangled and Expressive Portrait Animation via Explicit and Latent Motion Representations**, Yuxiang Shi et.al., Paper: [http://arxiv.org/abs/2512.15524](http://arxiv.org/abs/2512.15524)
 - 2019-07-24, **Data-Driven Physical Face Inversion**, Yeara Kozlov et.al., Paper: [http://arxiv.org/abs/1907.10402](http://arxiv.org/abs/1907.10402)
