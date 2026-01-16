@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**RSATalker: Realistic Socially-Aware Talking Head Generation for Multi-Turn Conversation**|Peng Chen et.al.|[2601.10606](http://arxiv.org/abs/2601.10606)|null|
+|**2026-01-15**|**EditEmoTalk: Controllable Speech-Driven 3D Facial Animation with Continuous Expression Editing**|Diqiong Jiang et.al.|[2601.10000](http://arxiv.org/abs/2601.10000)|null|
 |**2026-01-14**|**MoCha:End-to-End Video Character Replacement without Structural Guidance**|Zhengbo Xu et.al.|[2601.08587](http://arxiv.org/abs/2601.08587)|null|
 |**2026-01-13**|**Deep Learning Based Facial Retargeting Using Local Patches**|Yeonsoo Choi et.al.|[2601.08429](http://arxiv.org/abs/2601.08429)|null|
 |**2026-01-08**|**MM-Sonate: Multimodal Controllable Audio-Video Generation with Zero-Shot Voice Cloning**|Chunyu Qiang et.al.|[2601.01568](http://arxiv.org/abs/2601.01568)|null|
