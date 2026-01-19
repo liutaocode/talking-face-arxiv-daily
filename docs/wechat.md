@@ -1071,6 +1071,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-01-14, **Continuous odor profile monitoring to study olfactory navigation in small animals**, Kevin S. Chen et.al., Paper: [http://arxiv.org/abs/2301.05905](http://arxiv.org/abs/2301.05905)
 - 2024-01-17, **Continuous Piecewise-Affine Based Motion Model for Image Animation**, Hexiang Wang et.al., Paper: [http://arxiv.org/abs/2401.09146](http://arxiv.org/abs/2401.09146)
 - 2025-08-10, **Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers**, Xin Ma et.al., Paper: [http://arxiv.org/abs/2508.07246](http://arxiv.org/abs/2508.07246)
+- 2026-01-16, **CoDance: An Unbind-Rebind Paradigm for Robust Multi-Subject Animation**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2601.11096](http://arxiv.org/abs/2601.11096)
 - 2024-07-23, **Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models**, Xin Ma et.al., Paper: [http://arxiv.org/abs/2407.15642](http://arxiv.org/abs/2407.15642)
 - 2024-06-01, **Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance**, Shenhao Zhu et.al., Paper: [http://arxiv.org/abs/2403.14781](http://arxiv.org/abs/2403.14781)
 - 2025-11-11, **Beyond the Pixels: VLM-based Evaluation of Identity Preservation in Reference-Guided Synthesis**, Aditi Singhania et.al., Paper: [http://arxiv.org/abs/2511.08087](http://arxiv.org/abs/2511.08087)
