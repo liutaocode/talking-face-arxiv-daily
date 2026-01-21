@@ -327,6 +327,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-09-28, **OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2309.16148](http://arxiv.org/abs/2309.16148)
 - 2023-02-16, **OPT: One-shot Pose-Controllable Talking Head Generation**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2302.08197](http://arxiv.org/abs/2302.08197)
 - 2023-07-19, **OPHAvatars: One-shot Photo-realistic Head Avatars**, Shaoxu Li et.al., Paper: [http://arxiv.org/abs/2307.09153](http://arxiv.org/abs/2307.09153), Code: **[https://github.com/lsx0101/ophavatars](https://github.com/lsx0101/ophavatars)**
+- 2026-01-14, **Now You See Me, Now You Don't: A Unified Framework for Expression Consistent Anonymization in Talking Head Videos**, Anil Egin et.al., Paper: [http://arxiv.org/abs/2601.11635](http://arxiv.org/abs/2601.11635)
 - 2021-03-20, **Not made for each other- Audio-Visual Dissonance-based Deepfake Detection and Localization**, Komal Chugh et.al., Paper: [http://arxiv.org/abs/2005.14405](http://arxiv.org/abs/2005.14405), Code: **[https://github.com/abhinavdhall/deepfake](https://github.com/abhinavdhall/deepfake)**
 - 2023-01-20, **Neural Volumetric Blendshapes: Computationally Efficient Physics-Based Facial Blendshapes**, Nicolas Wagner et.al., Paper: [http://arxiv.org/abs/2212.14784](http://arxiv.org/abs/2212.14784)
 - 2020-07-29, **Neural Voice Puppetry: Audio-driven Facial Reenactment**, Justus Thies et.al., Paper: [http://arxiv.org/abs/1912.05566](http://arxiv.org/abs/1912.05566), Code: **[https://github.com/miu200521358/NeuralVoicePuppetryMMD](https://github.com/miu200521358/NeuralVoicePuppetryMMD)**
@@ -528,6 +529,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-06-10, **HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2506.08797](http://arxiv.org/abs/2506.08797)
 - 2025-03-25, **HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**, Zunnan Xu et.al., Paper: [http://arxiv.org/abs/2503.18860](http://arxiv.org/abs/2503.18860)
 - 2025-08-18, **Human Feedback Driven Dynamic Speech Emotion Recognition**, Ilya Fedorov et.al., Paper: [http://arxiv.org/abs/2508.14920](http://arxiv.org/abs/2508.14920)
+- 2026-01-20, **HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**, Yuhua Jin et.al., Paper: [http://arxiv.org/abs/2601.13801](http://arxiv.org/abs/2601.13801)
 - 2024-08-10, **High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2408.05416](http://arxiv.org/abs/2408.05416)
 - 2023-05-31, **High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02572](http://arxiv.org/abs/2305.02572)
 - 2023-03-04, **High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors**, Yunpeng Bai et.al., Paper: [http://arxiv.org/abs/2211.15064](http://arxiv.org/abs/2211.15064)
@@ -554,6 +556,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2018-04-23, **Generating Talking Face Landmarks from Speech**, Sefik Emre Eskimez et.al., Paper: [http://arxiv.org/abs/1803.09803](http://arxiv.org/abs/1803.09803)
 - 2024-12-26, **Generating Editable Head Avatars with 3D Gaussian GANs**, Guohao Li et.al., Paper: [http://arxiv.org/abs/2412.19149](http://arxiv.org/abs/2412.19149), Code: **[https://github.com/liguohao96/egg3d](https://github.com/liguohao96/egg3d)**
 - 2023-07-04, **Generating Animatable 3D Cartoon Faces from Single Portraits**, Chuanyu Pan et.al., Paper: [http://arxiv.org/abs/2307.01468](http://arxiv.org/abs/2307.01468)
+- 2026-01-19, **Generalizable and Animatable 3D Full-Head Gaussian Avatar from a Single Image**, Shuling Zhao et.al., Paper: [http://arxiv.org/abs/2601.12770](http://arxiv.org/abs/2601.12770)
 - 2023-01-31, **GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2301.13430](http://arxiv.org/abs/2301.13430)
 - 2023-05-01, **GeneFace++: Generalized and Stable Real-Time Audio-Driven 3D Talking Face Generation**, Zhenhui Ye et.al., Paper: [http://arxiv.org/abs/2305.00787](http://arxiv.org/abs/2305.00787)
 - 2025-05-03, **GenSync: A Generalized Talking Head Framework for Audio-driven Multi-Subject Lip-Sync using 3D Gaussian Splatting**, Anushka Agarwal et.al., Paper: [http://arxiv.org/abs/2505.01928](http://arxiv.org/abs/2505.01928)
@@ -649,6 +652,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-04, **Expressive Speech-driven Facial Animation with controllable emotions**, Yutong Chen et.al., Paper: [http://arxiv.org/abs/2301.02008](http://arxiv.org/abs/2301.02008), Code: **[https://github.com/on1262/facialanimation](https://github.com/on1262/facialanimation)**
 - 2015-11-20, **ExpressionBot: An Emotive Lifelike Robotic Face for Face-to-Face Communication**, Ali Mollahosseini et.al., Paper: [http://arxiv.org/abs/1511.06502](http://arxiv.org/abs/1511.06502)
 - 2024-01-18, **Exposing Lip-syncing Deepfakes from Mouth Inconsistencies**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2401.10113](http://arxiv.org/abs/2401.10113)
+- 2026-01-19, **Exploring Talking Head Models With Adjacent Frame Prior for Speech-Preserving Facial Expression Manipulation**, Zhenxuan Lu et.al., Paper: [http://arxiv.org/abs/2601.12876](http://arxiv.org/abs/2601.12876)
 - 2024-04-01, **Exploring Phonetic Context-Aware Lip-Sync For Talking Face Generation**, Se Jin Park et.al., Paper: [http://arxiv.org/abs/2305.19556](http://arxiv.org/abs/2305.19556)
 - 2025-04-08, **Exploiting Temporal Audio-Visual Correlation Embedding for Audio-Driven One-Shot Talking Head Animation**, Zhihua Xu et.al., Paper: [http://arxiv.org/abs/2504.05746](http://arxiv.org/abs/2504.05746)
 - 2023-09-11, **ExpCLIP: Bridging Text and Facial Expressions via Semantic Alignment**, Yicheng Zhong et.al., Paper: [http://arxiv.org/abs/2308.14448](http://arxiv.org/abs/2308.14448)
