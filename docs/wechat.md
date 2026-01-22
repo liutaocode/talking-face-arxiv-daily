@@ -579,6 +579,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-03-14, **GAIA: Zero-shot Talking Avatar Generation**, Tianyu He et.al., Paper: [http://arxiv.org/abs/2311.15230](http://arxiv.org/abs/2311.15230)
 - 2024-03-02, **G4G:A Generic Framework for High Fidelity Talking Face Generation with Fine-grained Intra-modal Alignment**, Juan Zhang et.al., Paper: [http://arxiv.org/abs/2402.18122](http://arxiv.org/abs/2402.18122)
 - 2024-08-23, **G3FA: Geometry-guided GAN for Face Animation**, Alireza Javanmardi et.al., Paper: [http://arxiv.org/abs/2408.13049](http://arxiv.org/abs/2408.13049)
+- 2026-01-21, **FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**, Jiaxuan Liu et.al., Paper: [http://arxiv.org/abs/2601.14777](http://arxiv.org/abs/2601.14777)
 - 2023-08-30, **From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications**, Shreyank N Gowda et.al., Paper: [http://arxiv.org/abs/2308.16041](http://arxiv.org/abs/2308.16041)
 - 2025-12-31, **From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing**, Xu He et.al., Paper: [http://arxiv.org/abs/2512.25066](http://arxiv.org/abs/2512.25066)
 - 2025-03-21, **From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech**, Ji-Hoon Kim et.al., Paper: [http://arxiv.org/abs/2503.16956](http://arxiv.org/abs/2503.16956)
