@@ -182,6 +182,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-09-26, **StableDub: Taming Diffusion Prior for Generalized and Efficient Visual Dubbing**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2509.21887](http://arxiv.org/abs/2509.21887)
 - 2025-09-22, **Stable Video-Driven Portraits**, Mallikarjun B. R. et.al., Paper: [http://arxiv.org/abs/2509.17476](http://arxiv.org/abs/2509.17476)
 - 2024-09-26, **Stable Video Portraits**, Mirela Ostrek et.al., Paper: [http://arxiv.org/abs/2409.18083](http://arxiv.org/abs/2409.18083)
+- 2026-01-26, **Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**, Tong Shi et.al., Paper: [http://arxiv.org/abs/2601.18633](http://arxiv.org/abs/2601.18633)
 - 2025-04-14, **SpinMeRound: Consistent Multi-View Identity Generation Using Diffusion Models**, Stathis Galanakis et.al., Paper: [http://arxiv.org/abs/2504.10716](http://arxiv.org/abs/2504.10716)
 - 2024-04-08, **SphereHead: Stable 3D Full-head Synthesis with Spherical Tri-plane Representation**, Heyuan Li et.al., Paper: [http://arxiv.org/abs/2404.05680](http://arxiv.org/abs/2404.05680)
 - 2021-07-10, **Speech2Video: Cross-Modal Distillation for Speech to Video Generation**, Shijing Si et.al., Paper: [http://arxiv.org/abs/2107.04806](http://arxiv.org/abs/2107.04806)
@@ -197,6 +198,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-12-15, **Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2512.13495](http://arxiv.org/abs/2512.13495)
 - 2024-11-25, **Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**, Xiaozhong Ji et.al., Paper: [http://arxiv.org/abs/2411.16331](http://arxiv.org/abs/2411.16331)
 - 2021-08-06, **SofGAN: A Portrait Image Generator with Dynamic Styling**, Anpei Chen et.al., Paper: [http://arxiv.org/abs/2007.03780](http://arxiv.org/abs/2007.03780), Code: **[https://github.com/apchenstu/sofgan](https://github.com/apchenstu/sofgan)**
+- 2026-01-24, **SkyReels-V3 Technique Report**, Debang Li et.al., Paper: [http://arxiv.org/abs/2601.17323](http://arxiv.org/abs/2601.17323)
 - 2025-06-01, **SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers**, Zhengcong Fei et.al., Paper: [http://arxiv.org/abs/2506.00830](http://arxiv.org/abs/2506.00830)
 - 2025-02-15, **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers**, Di Qiu et.al., Paper: [http://arxiv.org/abs/2502.10841](http://arxiv.org/abs/2502.10841), Code: **[https://github.com/SkyworkAI/SkyReels-A1](https://github.com/SkyworkAI/SkyReels-A1)**
 - 2021-04-07, **Single Source One Shot Reenactment using Weighted motion From Paired Feature Points**, Soumya Tripathy et.al., Paper: [http://arxiv.org/abs/2104.03117](http://arxiv.org/abs/2104.03117)
