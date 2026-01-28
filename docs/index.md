@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Uncertainty-Aware 3D Emotional Talking Face Synthesis with Emotion Prior Distillation**|Nanhan Shen et.al.|[2601.19112](http://arxiv.org/abs/2601.19112)|null|
+|**2026-01-26**|**Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**|Yuhui Zhang et.al.|[2601.18849](http://arxiv.org/abs/2601.18849)|null|
 |**2026-01-26**|**Splat-Portrait: Generalizing Talking Heads with Gaussian Splatting**|Tong Shi et.al.|[2601.18633](http://arxiv.org/abs/2601.18633)|null|
 |**2026-01-24**|**SkyReels-V3 Technique Report**|Debang Li et.al.|[2601.17323](http://arxiv.org/abs/2601.17323)|null|
 |**2026-01-21**|**FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**|Jiaxuan Liu et.al.|[2601.14777](http://arxiv.org/abs/2601.14777)|null|

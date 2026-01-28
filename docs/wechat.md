@@ -75,6 +75,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-12-26, **UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control**, Wenzhang Sun et.al., Paper: [http://arxiv.org/abs/2412.19860](http://arxiv.org/abs/2412.19860)
 - 2025-11-05, **UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**, Guozhen Zhang et.al., Paper: [http://arxiv.org/abs/2511.03334](http://arxiv.org/abs/2511.03334)
 - 2025-11-17, **Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**, Junyi Ma et.al., Paper: [http://arxiv.org/abs/2511.12878](http://arxiv.org/abs/2511.12878)
+- 2026-01-27, **Uncertainty-Aware 3D Emotional Talking Face Synthesis with Emotion Prior Distillation**, Nanhan Shen et.al., Paper: [http://arxiv.org/abs/2601.19112](http://arxiv.org/abs/2601.19112)
 - 2022-04-03, **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text**, Pulkit Tandon et.al., Paper: [http://arxiv.org/abs/2106.14014](http://arxiv.org/abs/2106.14014), Code: **[https://github.com/tpulkit/txt2vid](https://github.com/tpulkit/txt2vid)**
 - 2025-02-28, **Two-Stream Spatial-Temporal Transformer Framework for Person Identification via Natural Conversational Keypoints**, Masoumeh Chapariniya et.al., Paper: [http://arxiv.org/abs/2502.20803](http://arxiv.org/abs/2502.20803)
 - 2022-04-06, **Transformer-S2A: Robust and Efficient Speech-to-Animation**, Liyang Chen et.al., Paper: [http://arxiv.org/abs/2111.09771](http://arxiv.org/abs/2111.09771)
@@ -875,6 +876,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-04-26, **Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2504.18810](http://arxiv.org/abs/2504.18810)
 - 2022-01-16, **Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels**, Zipeng Ye et.al., Paper: [http://arxiv.org/abs/2201.05986](http://arxiv.org/abs/2201.05986)
 - 2023-04-18, **Audio-Driven Talking Face Generation with Diverse yet Realistic Facial Animations**, Rongliang Wu et.al., Paper: [http://arxiv.org/abs/2304.08945](http://arxiv.org/abs/2304.08945)
+- 2026-01-26, **Audio-Driven Talking Face Generation with Blink Embedding and Hash Grid Landmarks Encoding**, Yuhui Zhang et.al., Paper: [http://arxiv.org/abs/2601.18849](http://arxiv.org/abs/2601.18849)
 - 2021-05-20, **Audio-Driven Emotional Video Portraits**, Xinya Ji et.al., Paper: [http://arxiv.org/abs/2104.07452](http://arxiv.org/abs/2104.07452)
 - 2023-06-20, **Audio-Driven 3D Facial Animation from In-the-Wild Videos**, Liying Lu et.al., Paper: [http://arxiv.org/abs/2306.11541](http://arxiv.org/abs/2306.11541)
 - 2020-08-11, **Audio- and Gaze-driven Facial Animation of Codec Avatars**, Alexander Richard et.al., Paper: [http://arxiv.org/abs/2008.05023](http://arxiv.org/abs/2008.05023)
