@@ -25,6 +25,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
+|**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|
+|**2026-01-30**|**LPIPS-AttnWav2Lip: Generic Audio-Driven lip synchronization for Talking Head Generation in the Wild**|Zhipeng Chen et.al.|[2602.00189](http://arxiv.org/abs/2602.00189)|null|
 |**2026-01-30**|**MIRRORTALK: Forging Personalized Avatars Via Disentangled Style and Hierarchical Motion Control**|Renjie Lu et.al.|[2601.22501](http://arxiv.org/abs/2601.22501)|null|
 |**2026-01-29**|**JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion**|Anthony Chen et.al.|[2601.22143](http://arxiv.org/abs/2601.22143)|null|
 |**2026-01-29**|**EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**|John Flynn et.al.|[2601.22127](http://arxiv.org/abs/2601.22127)|null|

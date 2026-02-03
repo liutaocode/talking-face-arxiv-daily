@@ -392,6 +392,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-09-10, **MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment**, Tina Behrouzi et.al., Paper: [http://arxiv.org/abs/2309.05095](http://arxiv.org/abs/2309.05095)
 - 2025-07-28, **Mask-Free Audio-driven Talking Face Generation for Enhanced Visual Quality and Identity Preservation**, Dogucan Yaman et.al., Paper: [http://arxiv.org/abs/2507.20953](http://arxiv.org/abs/2507.20953)
 - 2019-11-19, **MarioNETte: Few-shot Face Reenactment Preserving Identity of Unseen Targets**, Sungjoo Ha et.al., Paper: [http://arxiv.org/abs/1911.08139](http://arxiv.org/abs/1911.08139)
+- 2026-02-02, **Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**, Youliang Zhang et.al., Paper: [http://arxiv.org/abs/2602.01538](http://arxiv.org/abs/2602.01538)
 - 2021-02-25, **MakeItTalk: Speaker-Aware Talking-Head Animation**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2004.12992](http://arxiv.org/abs/2004.12992)
 - 2024-03-25, **Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2403.16510](http://arxiv.org/abs/2403.16510), Code: **[https://github.com/ictmcg/make-your-anchor](https://github.com/ictmcg/make-your-anchor)**
 - 2025-01-15, **Make-A-Character 2: Animatable 3D Character Generation From a Single Image**, Lin Liu et.al., Paper: [http://arxiv.org/abs/2501.07870](http://arxiv.org/abs/2501.07870)
@@ -465,6 +466,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-10-01, **LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details**, Jian Yang et.al., Paper: [http://arxiv.org/abs/2410.00990](http://arxiv.org/abs/2410.00990)
 - 2025-10-23, **LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation**, Xin Lu et.al., Paper: [http://arxiv.org/abs/2510.21864](http://arxiv.org/abs/2510.21864)
 - 2023-05-17, **LPMM: Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model**, Kwangho Lee et.al., Paper: [http://arxiv.org/abs/2305.10456](http://arxiv.org/abs/2305.10456)
+- 2026-01-30, **LPIPS-AttnWav2Lip: Generic Audio-Driven lip synchronization for Talking Head Generation in the Wild**, Zhipeng Chen et.al., Paper: [http://arxiv.org/abs/2602.00189](http://arxiv.org/abs/2602.00189)
 - 2025-08-13, **LIA-X: Interpretable Latent Portrait Animator**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2508.09959](http://arxiv.org/abs/2508.09959)
 - 2021-04-07, **LI-Net: Large-Pose Identity-Preserving Face Reenactment Network**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2104.02850](http://arxiv.org/abs/2104.02850)
 - 2024-11-14, **LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2411.09268](http://arxiv.org/abs/2411.09268)
@@ -483,6 +485,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-11, **Jump Cut Smoothing for Talking Heads**, Xiaojuan Wang et.al., Paper: [http://arxiv.org/abs/2401.04718](http://arxiv.org/abs/2401.04718)
 - 2024-11-20, **JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation**, Xuyang Cao et.al., Paper: [http://arxiv.org/abs/2411.09209](http://arxiv.org/abs/2411.09209), Code: **[https://github.com/jdh-algo/JoyVASA](https://github.com/jdh-algo/JoyVASA)**
 - 2025-01-03, **JoyGen: Audio-Driven 3D Depth-Aware Talking-Face Video Editing**, Qili Wang et.al., Paper: [http://arxiv.org/abs/2501.01798](http://arxiv.org/abs/2501.01798), Code: **[https://github.com/JOY-MM/JoyGen](https://github.com/JOY-MM/JoyGen)**
+- 2026-01-31, **JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**, Ruikui Wang et.al., Paper: [http://arxiv.org/abs/2602.00702](http://arxiv.org/abs/2602.00702)
 - 2025-12-12, **JoyAvatar: Real-time and Infinite Audio-Driven Avatar Generation with Autoregressive Diffusion**, Chaochao Li et.al., Paper: [http://arxiv.org/abs/2512.11423](http://arxiv.org/abs/2512.11423)
 - 2024-10-21, **Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions**, Malte Prinzler et.al., Paper: [http://arxiv.org/abs/2410.16395](http://arxiv.org/abs/2410.16395)
 - 2025-01-15, **Joint Learning of Depth and Appearance for Portrait Image Animation**, Xinya Ji et.al., Paper: [http://arxiv.org/abs/2501.08649](http://arxiv.org/abs/2501.08649)
