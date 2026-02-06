@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**A $^2$ -LLM: An End-to-end Conversational Audio Avatar Large Language Model**|Xiaolin Hu et.al.|[2602.04913](http://arxiv.org/abs/2602.04913)|null|
 |**2026-02-03**|**Asymmetric Hierarchical Anchoring for Audio-Visual Joint Representation: Resolving Information Allocation Ambiguity for Robust Cross-Modal Generalization**|Bixing Wu et.al.|[2602.03570](http://arxiv.org/abs/2602.03570)|null|
 |**2026-02-02**|**Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars**|Youliang Zhang et.al.|[2602.01538](http://arxiv.org/abs/2602.01538)|null|
 |**2026-01-31**|**JoyAvatar: Unlocking Highly Expressive Avatars via Harmonized Text-Audio Conditioning**|Ruikui Wang et.al.|[2602.00702](http://arxiv.org/abs/2602.00702)|null|

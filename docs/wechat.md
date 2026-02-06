@@ -932,6 +932,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-11-27, **AI killed the video star. Audio-driven diffusion model for expressive talking head generation**, Baptiste Chopin et.al., Paper: [http://arxiv.org/abs/2511.22488](http://arxiv.org/abs/2511.22488)
 - 2023-12-18, **AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis**, Dongze Li et.al., Paper: [http://arxiv.org/abs/2312.10921](http://arxiv.org/abs/2312.10921)
 - 2021-08-19, **AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis**, Yudong Guo et.al., Paper: [http://arxiv.org/abs/2103.11078](http://arxiv.org/abs/2103.11078), Code: **[https://github.com/YudongGuo/AD-NeRF](https://github.com/YudongGuo/AD-NeRF)**
+- 2026-02-04, **A $^2$ -LLM: An End-to-end Conversational Audio Avatar Large Language Model**, Xiaolin Hu et.al., Paper: [http://arxiv.org/abs/2602.04913](http://arxiv.org/abs/2602.04913)
 - 2019-07-23, **A system for efficient 3D printed stop-motion face animation**, Rinat Abdrashitov et.al., Paper: [http://arxiv.org/abs/1907.10163](http://arxiv.org/abs/1907.10163)
 - 2025-11-22, **A superpersuasive autonomous policy debating system**, Allen Roush et.al., Paper: [http://arxiv.org/abs/2511.17854](http://arxiv.org/abs/2511.17854)
 - 2023-04-28, **A Unified Compression Framework for Efficient Speech-Driven Talking-Face Generation**, Bo-Kyeong Kim et.al., Paper: [http://arxiv.org/abs/2304.00471](http://arxiv.org/abs/2304.00471)
