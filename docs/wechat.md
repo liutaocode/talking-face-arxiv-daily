@@ -198,7 +198,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-04, **Speaker dependent acoustic-to-articulatory inversion using real-time MRI of the vocal tract**, Tamás Gábor Csapó et.al., Paper: [http://arxiv.org/abs/2008.02098](http://arxiv.org/abs/2008.02098), Code: **[https://github.com/BME-SmartLab/speech2mri](https://github.com/BME-SmartLab/speech2mri)**
 - 2020-06-20, **Speaker Independent and Multilingual/Mixlingual Speech-Driven Talking Head Generation Using Phonetic Posteriorgrams**, Huirong Huang et.al., Paper: [http://arxiv.org/abs/2006.11610](http://arxiv.org/abs/2006.11610)
 - 2022-10-13, **Sparse in Space and Time: Audio-visual Synchronisation with Trainable Selectors**, Vladimir Iashin et.al., Paper: [http://arxiv.org/abs/2210.07055](http://arxiv.org/abs/2210.07055), Code: **[https://github.com/v-iashin/sparsesync](https://github.com/v-iashin/sparsesync)**
-- 2026-02-10, **SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads**, Tan Yu et.al., Paper: [http://arxiv.org/abs/2602.07449](http://arxiv.org/abs/2602.07449)
+- 2026-02-11, **SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time Streaming Talking Heads**, Tan Yu et.al., Paper: [http://arxiv.org/abs/2602.07449](http://arxiv.org/abs/2602.07449)
 - 2025-12-15, **Soul: Breathe Life into Digital Human for High-fidelity Long-term Multimodal Animation**, Jiangning Zhang et.al., Paper: [http://arxiv.org/abs/2512.13495](http://arxiv.org/abs/2512.13495)
 - 2024-11-25, **Sonic: Shifting Focus to Global Audio Perception in Portrait Animation**, Xiaozhong Ji et.al., Paper: [http://arxiv.org/abs/2411.16331](http://arxiv.org/abs/2411.16331)
 - 2021-08-06, **SofGAN: A Portrait Image Generator with Dynamic Styling**, Anpei Chen et.al., Paper: [http://arxiv.org/abs/2007.03780](http://arxiv.org/abs/2007.03780), Code: **[https://github.com/apchenstu/sofgan](https://github.com/apchenstu/sofgan)**
@@ -966,6 +966,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-04-06, **4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**, Wei Chen et.al., Paper: [http://arxiv.org/abs/2304.02814](http://arxiv.org/abs/2304.02814)
 - 2025-09-30, **3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation**, Balamurugan Thambiraja et.al., Paper: [http://arxiv.org/abs/2509.26233](http://arxiv.org/abs/2509.26233)
 - 2023-12-01, **3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing**, Balamurugan Thambiraja et.al., Paper: [http://arxiv.org/abs/2312.00870](http://arxiv.org/abs/2312.00870)
+- 2026-02-11, **3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**, Zhongju Wang et.al., Paper: [http://arxiv.org/abs/2602.10516](http://arxiv.org/abs/2602.10516)
 - 2024-09-17, **3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**, Xuanmeng Sha et.al., Paper: [http://arxiv.org/abs/2409.10848](http://arxiv.org/abs/2409.10848)
 - 2021-04-25, **3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head**, Qianyun Wang et.al., Paper: [http://arxiv.org/abs/2104.12051](http://arxiv.org/abs/2104.12051)
 - 2023-11-05, **3D-Aware Talking-Head Video Motion Transfer**, Haomiao Ni et.al., Paper: [http://arxiv.org/abs/2311.02549](http://arxiv.org/abs/2311.02549)
