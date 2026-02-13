@@ -966,7 +966,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-04-06, **4D Agnostic Real-Time Facial Animation Pipeline for Desktop Scenarios**, Wei Chen et.al., Paper: [http://arxiv.org/abs/2304.02814](http://arxiv.org/abs/2304.02814)
 - 2025-09-30, **3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation**, Balamurugan Thambiraja et.al., Paper: [http://arxiv.org/abs/2509.26233](http://arxiv.org/abs/2509.26233)
 - 2023-12-01, **3DiFACE: Diffusion-based Speech-driven 3D Facial Animation and Editing**, Balamurugan Thambiraja et.al., Paper: [http://arxiv.org/abs/2312.00870](http://arxiv.org/abs/2312.00870)
-- 2026-02-11, **3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**, Zhongju Wang et.al., Paper: [http://arxiv.org/abs/2602.10516](http://arxiv.org/abs/2602.10516)
+- 2026-02-12, **3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**, Zhongju Wang et.al., Paper: [http://arxiv.org/abs/2602.10516](http://arxiv.org/abs/2602.10516)
 - 2024-09-17, **3DFacePolicy: Speech-Driven 3D Facial Animation with Diffusion Policy**, Xuanmeng Sha et.al., Paper: [http://arxiv.org/abs/2409.10848](http://arxiv.org/abs/2409.10848)
 - 2021-04-25, **3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head**, Qianyun Wang et.al., Paper: [http://arxiv.org/abs/2104.12051](http://arxiv.org/abs/2104.12051)
 - 2023-11-05, **3D-Aware Talking-Head Video Motion Transfer**, Haomiao Ni et.al., Paper: [http://arxiv.org/abs/2311.02549](http://arxiv.org/abs/2311.02549)
