@@ -347,6 +347,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-23, **NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis**, Chongke Bi et.al., Paper: [http://arxiv.org/abs/2401.12568](http://arxiv.org/abs/2401.12568)
 - 2025-02-20, **NeRF-3DTalker: Neural Radiance Field with 3D Prior Aided Audio Disentanglement for Talking Head Synthesis**, Xiaoxing Liu et.al., Paper: [http://arxiv.org/abs/2502.14178](http://arxiv.org/abs/2502.14178)
 - 2025-07-22, **Navigating Large-Pose Challenge for High-Fidelity Face Reenactment with Video Diffusion Model**, Mingtao Guo et.al., Paper: [http://arxiv.org/abs/2507.16341](http://arxiv.org/abs/2507.16341)
+- 2026-02-20, **Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**, Aashish Chandra et.al., Paper: [http://arxiv.org/abs/2602.18618](http://arxiv.org/abs/2602.18618)
 - 2025-06-03, **NTIRE 2025 XGC Quality Assessment Challenge: Methods and Results**, Xiaohong Liu et.al., Paper: [http://arxiv.org/abs/2506.02875](http://arxiv.org/abs/2506.02875)
 - 2023-06-12, **NPVForensics: Jointing Non-critical Phonemes and Visemes for Deepfake Detection**, Yu Chen et.al., Paper: [http://arxiv.org/abs/2306.06885](http://arxiv.org/abs/2306.06885)
 - 2024-06-17, **NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**, Niu Guanchen et.al., Paper: [http://arxiv.org/abs/2406.11259](http://arxiv.org/abs/2406.11259)

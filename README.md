@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space**|Aashish Chandra et.al.|[2602.18618](http://arxiv.org/abs/2602.18618)|null|
 |**2026-02-14**|**EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**|Rang Meng et.al.|[2602.13669](http://arxiv.org/abs/2602.13669)|null|
 |**2026-02-13**|**VineetVC: Adaptive Video Conferencing Under Severe Bandwidth Constraints Using Audio-Driven Talking-Head Reconstruction**|Vineet Kumar Rakesh et.al.|[2602.12758](http://arxiv.org/abs/2602.12758)|null|
 |**2026-02-12**|**3DXTalker: Unifying Identity, Lip Sync, Emotion, and Spatial Dynamics in Expressive 3D Talking Avatars**|Zhongju Wang et.al.|[2602.10516](http://arxiv.org/abs/2602.10516)|null|
