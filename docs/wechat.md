@@ -70,6 +70,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-09-25, **Unlocking Financial Insights: An advanced Multimodal Summarization with Multimodal Output Framework for Financial Advisory Videos**, Sarmistha Das et.al., Paper: [http://arxiv.org/abs/2509.20961](http://arxiv.org/abs/2509.20961)
 - 2025-03-17, **Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait**, Chaolong Yang et.al., Paper: [http://arxiv.org/abs/2503.12963](http://arxiv.org/abs/2503.12963), Code: **[https://github.com/chaolongy/kdtalker](https://github.com/chaolongy/kdtalker)**
 - 2024-07-17, **Universal Facial Encoding of Codec Avatars from VR Headsets**, Shaojie Bai et.al., Paper: [http://arxiv.org/abs/2407.13038](http://arxiv.org/abs/2407.13038)
+- 2026-03-02, **UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**, Hebeizi Li et.al., Paper: [http://arxiv.org/abs/2603.01418](http://arxiv.org/abs/2603.01418)
 - 2024-08-01, **UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**, Xiangyu Fan et.al., Paper: [http://arxiv.org/abs/2408.00762](http://arxiv.org/abs/2408.00762)
 - 2025-08-07, **UniTalker: Conversational Speech-Visual Synthesis**, Yifan Hu et.al., Paper: [http://arxiv.org/abs/2508.04585](http://arxiv.org/abs/2508.04585)
 - 2025-03-20, **UniSync: A Unified Framework for Audio-Visual Synchronization**, Tao Feng et.al., Paper: [http://arxiv.org/abs/2503.16357](http://arxiv.org/abs/2503.16357)
@@ -608,6 +609,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-03-28, **Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance**, Haijie Yang et.al., Paper: [http://arxiv.org/abs/2503.22225](http://arxiv.org/abs/2503.22225)
 - 2025-04-06, **FluentLip: A Phonemes-Based Two-stage Approach for Audio-Driven Lip Synthesis with Optical Flow Consistency**, Shiyan Liu et.al., Paper: [http://arxiv.org/abs/2504.04427](http://arxiv.org/abs/2504.04427)
 - 2024-03-12, **FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06375](http://arxiv.org/abs/2403.06375)
+- 2026-02-25, **FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation**, Weiting Tan et.al., Paper: [http://arxiv.org/abs/2603.00159](http://arxiv.org/abs/2603.00159)
 - 2025-05-02, **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2505.01263](http://arxiv.org/abs/2505.01263)
 - 2025-12-17, **FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision**, Tobias Kirschstein et.al., Paper: [http://arxiv.org/abs/2512.15599](http://arxiv.org/abs/2512.15599)
 - 2025-12-18, **FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2512.16900](http://arxiv.org/abs/2512.16900)
@@ -715,7 +717,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-10-12, **Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation**, Yuan Gan et.al., Paper: [http://arxiv.org/abs/2309.04946](http://arxiv.org/abs/2309.04946), Code: **[https://github.com/yuangan/eat_code](https://github.com/yuangan/eat_code)**
 - 2026-01-29, **EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers**, John Flynn et.al., Paper: [http://arxiv.org/abs/2601.22127](http://arxiv.org/abs/2601.22127)
 - 2026-01-15, **EditEmoTalk: Controllable Speech-Driven 3D Facial Animation with Continuous Expression Editing**, Diqiong Jiang et.al., Paper: [http://arxiv.org/abs/2601.10000](http://arxiv.org/abs/2601.10000)
-- 2026-02-14, **EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**, Rang Meng et.al., Paper: [http://arxiv.org/abs/2602.13669](http://arxiv.org/abs/2602.13669)
+- 2026-03-02, **EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**, Rang Meng et.al., Paper: [http://arxiv.org/abs/2602.13669](http://arxiv.org/abs/2602.13669)
 - 2025-07-05, **EchoMimicV3: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation**, Rang Meng et.al., Paper: [http://arxiv.org/abs/2507.03905](http://arxiv.org/abs/2507.03905)
 - 2024-07-12, **EchoMimic: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditions**, Zhiyuan Chen et.al., Paper: [http://arxiv.org/abs/2407.08136](http://arxiv.org/abs/2407.08136)
 - 2026-01-05, **ESGaussianFace: Emotional and Stylized Audio-Driven Facial Animation via 3D Gaussian Splatting**, Chuhang Ma et.al., Paper: [http://arxiv.org/abs/2601.01847](http://arxiv.org/abs/2601.01847)
