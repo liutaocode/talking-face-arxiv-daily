@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-04**|**UniSync: Towards Generalizable and High-Fidelity Lip Synchronization for Challenging Scenarios**|Ruidi Fan et.al.|[2603.03882](http://arxiv.org/abs/2603.03882)|null|
 |**2026-03-02**|**UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**|Hebeizi Li et.al.|[2603.01418](http://arxiv.org/abs/2603.01418)|null|
 |**2026-03-02**|**EchoTorrent: Towards Swift, Sustained, and Streaming Multi-Modal Video Generation**|Rang Meng et.al.|[2602.13669](http://arxiv.org/abs/2602.13669)|null|
 |**2026-02-25**|**FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation**|Weiting Tan et.al.|[2603.00159](http://arxiv.org/abs/2603.00159)|null|

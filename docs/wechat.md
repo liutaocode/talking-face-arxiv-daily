@@ -73,6 +73,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2026-03-02, **UniTalking: A Unified Audio-Video Framework for Talking Portrait Generation**, Hebeizi Li et.al., Paper: [http://arxiv.org/abs/2603.01418](http://arxiv.org/abs/2603.01418)
 - 2024-08-01, **UniTalker: Scaling up Audio-Driven 3D Facial Animation through A Unified Model**, Xiangyu Fan et.al., Paper: [http://arxiv.org/abs/2408.00762](http://arxiv.org/abs/2408.00762)
 - 2025-08-07, **UniTalker: Conversational Speech-Visual Synthesis**, Yifan Hu et.al., Paper: [http://arxiv.org/abs/2508.04585](http://arxiv.org/abs/2508.04585)
+- 2026-03-04, **UniSync: Towards Generalizable and High-Fidelity Lip Synchronization for Challenging Scenarios**, Ruidi Fan et.al., Paper: [http://arxiv.org/abs/2603.03882](http://arxiv.org/abs/2603.03882)
 - 2025-03-20, **UniSync: A Unified Framework for Audio-Visual Synchronization**, Tao Feng et.al., Paper: [http://arxiv.org/abs/2503.16357](http://arxiv.org/abs/2503.16357)
 - 2021-08-12, **UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing**, Meng Cao et.al., Paper: [http://arxiv.org/abs/2108.05650](http://arxiv.org/abs/2108.05650)
 - 2024-12-26, **UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control**, Wenzhang Sun et.al., Paper: [http://arxiv.org/abs/2412.19860](http://arxiv.org/abs/2412.19860)
