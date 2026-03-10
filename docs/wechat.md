@@ -129,6 +129,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-01-17, **TalkingEyes: Pluralistic Speech-Driven 3D Eye Gaze Animation**, Yixiang Zhuang et.al., Paper: [http://arxiv.org/abs/2501.09921](http://arxiv.org/abs/2501.09921)
 - 2020-07-16, **Talking-head Generation with Rhythmic Head Motion**, Lele Chen et.al., Paper: [http://arxiv.org/abs/2007.08547](http://arxiv.org/abs/2007.08547), Code: **[https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion](https://github.com/lelechen63/Talking-head-Generation-with-Rhythmic-Head-Motion)**
 - 2020-03-05, **Talking-Heads Attention**, Noam Shazeer et.al., Paper: [http://arxiv.org/abs/2003.02436](http://arxiv.org/abs/2003.02436), Code: **[https://github.com/zygmuntz/hyperband](https://github.com/zygmuntz/hyperband)**
+- 2026-03-09, **Talking Together: Synthesizing Co-Located 3D Conversations from Audio**, Mengyi Shan et.al., Paper: [http://arxiv.org/abs/2603.08674](http://arxiv.org/abs/2603.08674)
 - 2024-06-13, **Talking Heads: Understanding Inter-layer Communication in Transformer Language Models**, Jack Merullo et.al., Paper: [http://arxiv.org/abs/2406.09519](http://arxiv.org/abs/2406.09519)
 - 2023-11-30, **Talking Head(?) Anime from a Single Image 4: Improved Model and Its Distillation**, Pramook Khungurn et.al., Paper: [http://arxiv.org/abs/2311.17409](http://arxiv.org/abs/2311.17409)
 - 2022-09-09, **Talking Head from Speech Audio using a Pre-trained Image Generator**, Mohammed M. Alghamdi et.al., Paper: [http://arxiv.org/abs/2209.04252](http://arxiv.org/abs/2209.04252)
@@ -713,6 +714,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2019-10-09, **EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos**, Haipeng Zeng et.al., Paper: [http://arxiv.org/abs/1907.12918](http://arxiv.org/abs/1907.12918)
 - 2025-08-28, **EmoCAST: Emotional Talking Portrait via Emotive Text Description**, Yiguo Jiang et.al., Paper: [http://arxiv.org/abs/2508.20615](http://arxiv.org/abs/2508.20615)
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
+- 2026-03-08, **EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation**, Arpita Saggar et.al., Paper: [http://arxiv.org/abs/2603.07604](http://arxiv.org/abs/2603.07604)
 - 2021-07-07, **Egocentric Videoconferencing**, Mohamed Elgharib et.al., Paper: [http://arxiv.org/abs/2107.03109](http://arxiv.org/abs/2107.03109)
 - 2022-03-16, **Efficient conditioned face animation using frontally-viewed embedding**, Maxime Oquab et.al., Paper: [http://arxiv.org/abs/2203.08765](http://arxiv.org/abs/2203.08765)
 - 2025-12-29, **Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face**, Rui-qing Sun et.al., Paper: [http://arxiv.org/abs/2512.21019](http://arxiv.org/abs/2512.21019)
@@ -858,6 +860,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-17, **CEM-Net: Cross-Emotion Memory Network for Emotional Talking Face Generation**, Kangyi Wu et.al., Paper: [http://arxiv.org/abs/2508.12368](http://arxiv.org/abs/2508.12368)
 - 2024-02-21, **Bring Your Own Character: A Holistic Solution for Automatic Facial Animation Generation of Customized Characters**, Zechen Bai et.al., Paper: [http://arxiv.org/abs/2402.13724](http://arxiv.org/abs/2402.13724), Code: **[https://github.com/showlab/byoc](https://github.com/showlab/byoc)**
 - 2023-10-31, **Breathing Life into Faces: Speech-driven 3D Facial Animation with Natural Head Pose and Detailed Shape**, Wei Zhao et.al., Paper: [http://arxiv.org/abs/2310.20240](http://arxiv.org/abs/2310.20240)
+- 2026-03-09, **Bootstrapping Audiovisual Speech Recognition in Zero-AV-Resource Scenarios with Synthetic Visual Data**, Pol Buitrago et.al., Paper: [http://arxiv.org/abs/2603.08249](http://arxiv.org/abs/2603.08249)
 - 2025-11-18, **Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection**, Xiaolin Wang et.al., Paper: [http://arxiv.org/abs/2511.14371](http://arxiv.org/abs/2511.14371)
 - 2025-11-24, **Blinking Beyond EAR: A Stable Eyelid Angle Metric for Driver Drowsiness Detection and Data Augmentation**, Mathis Wolter et.al., Paper: [http://arxiv.org/abs/2511.19519](http://arxiv.org/abs/2511.19519)
 - 2025-09-10, **Bitrate-Controlled Diffusion for Disentangling Motion and Content in Video**, Xiao Li et.al., Paper: [http://arxiv.org/abs/2509.08376](http://arxiv.org/abs/2509.08376)
