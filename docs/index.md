@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.03.10
+### Automatically Updated on 2026.03.11
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**OmniEdit: A Training-free framework for Lip Synchronization and Audio-Visual Editing**|Lixiang Lin et.al.|[2603.09084](http://arxiv.org/abs/2603.09084)|null|
 |**2026-03-09**|**Talking Together: Synthesizing Co-Located 3D Conversations from Audio**|Mengyi Shan et.al.|[2603.08674](http://arxiv.org/abs/2603.08674)|null|
 |**2026-03-09**|**Bootstrapping Audiovisual Speech Recognition in Zero-AV-Resource Scenarios with Synthetic Visual Data**|Pol Buitrago et.al.|[2603.08249](http://arxiv.org/abs/2603.08249)|null|
 |**2026-03-08**|**EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation**|Arpita Saggar et.al.|[2603.07604](http://arxiv.org/abs/2603.07604)|null|
