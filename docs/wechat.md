@@ -711,6 +711,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-01-16, **EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model**, Bingyuan Zhang et.al., Paper: [http://arxiv.org/abs/2401.08049](http://arxiv.org/abs/2401.08049)
 - 2023-08-25, **EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2303.11089](http://arxiv.org/abs/2303.11089), Code: **[https://github.com/psyai-net/EmoTalk_release](https://github.com/psyai-net/EmoTalk_release)**
 - 2024-08-01, **EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head**, Qianyun He et.al., Paper: [http://arxiv.org/abs/2408.00297](http://arxiv.org/abs/2408.00297)
+- 2026-03-22, **EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**, Haolan Xu et.al., Paper: [http://arxiv.org/abs/2603.21332](http://arxiv.org/abs/2603.21332)
 - 2024-02-02, **EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2402.01422](http://arxiv.org/abs/2402.01422)
 - 2025-04-02, **EmoHead: Emotional Talking Head via Manipulating Semantic Expression Parameters**, Xuli Shen et.al., Paper: [http://arxiv.org/abs/2503.19416](http://arxiv.org/abs/2503.19416)
 - 2024-08-21, **EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention**, Yihong Lin et.al., Paper: [http://arxiv.org/abs/2408.11518](http://arxiv.org/abs/2408.11518)
