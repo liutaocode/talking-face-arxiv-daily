@@ -670,6 +670,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-09-21, **FNeVR: Neural Volume Rendering for Face Animation**, Bohan Zeng et.al., Paper: [http://arxiv.org/abs/2209.10340](http://arxiv.org/abs/2209.10340), Code: **[https://github.com/zengbohan0217/FNeVR](https://github.com/zengbohan0217/FNeVR)**
 - 2019-11-21, **FLNet: Landmark Driven Fetching and Learning Network for Faithful Talking Facial Animation Synthesis**, Kuangxiao Gu et.al., Paper: [http://arxiv.org/abs/1911.09224](http://arxiv.org/abs/1911.09224)
 - 2025-02-26, **FLAP: Fully-controllable Audio-driven Portrait Video Generation through 3D head conditioned diffusion mode**, Lingzhou Mu et.al., Paper: [http://arxiv.org/abs/2502.19455](http://arxiv.org/abs/2502.19455)
+- 2026-03-24, **FG-Portrait: 3D Flow Guided Editable Portrait Animation**, Yating Xu et.al., Paper: [http://arxiv.org/abs/2603.23381](http://arxiv.org/abs/2603.23381)
 - 2019-04-02, **FEAFA: A Well-Annotated Dataset for Facial Expression Analysis and 3D Facial Animation**, Yanfu Yan et.al., Paper: [http://arxiv.org/abs/1904.01509](http://arxiv.org/abs/1904.01509)
 - 2021-11-04, **FEAFA+: An Extended Well-Annotated Dataset for Facial Expression Analysis and 3D Facial Animation**, Wei Gan et.al., Paper: [http://arxiv.org/abs/2111.02751](http://arxiv.org/abs/2111.02751)
 - 2024-08-18, **FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model**, Ziyu Yao et.al., Paper: [http://arxiv.org/abs/2408.09384](http://arxiv.org/abs/2408.09384)
