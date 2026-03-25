@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.03.24
+### Automatically Updated on 2026.03.25
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**InterDyad: Interactive Dyadic Speech-to-Video Generation by Querying Intermediate Visual Guidance**|Dongwei Pan et.al.|[2603.23132](http://arxiv.org/abs/2603.23132)|null|
 |**2026-03-22**|**EmoTaG: Emotion-Aware Talking Head Synthesis on Gaussian Splatting with Few-Shot Personalization**|Haolan Xu et.al.|[2603.21332](http://arxiv.org/abs/2603.21332)|null|
 |**2026-03-20**|**PerformRecast: Expression and Head Pose Disentanglement for Portrait Video Editing**|Jiadong Liang et.al.|[2603.19731](http://arxiv.org/abs/2603.19731)|null|
 |**2026-03-20**|**UniBioTransfer: A Unified Framework for Multiple Biometrics Transfer**|Caiyi Sun et.al.|[2603.19637](http://arxiv.org/abs/2603.19637)|null|
