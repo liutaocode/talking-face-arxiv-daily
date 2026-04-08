@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.04.07
+### Automatically Updated on 2026.04.08
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -1004,6 +1004,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-02-25**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
 |**2026-02-11**|**MotionWeaver: Holistic 4D-Anchored Framework for Multi-Humanoid Image Animation**|Xirui Hu et.al.|[2602.13326](http://arxiv.org/abs/2602.13326)|null|
 |**2026-01-29**|**DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning**|Mingshuang Luo et.al.|[2601.21716](http://arxiv.org/abs/2601.21716)|null|

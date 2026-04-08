@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.04.07
+> Updated on 2026.04.08
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -1004,7 +1004,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1014,6 +1014,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-05-28, **VividPose: Advancing Stable Video Diffusion for Realistic Human Image Animation**, Qilin Wang et.al., Paper: [http://arxiv.org/abs/2405.18156](http://arxiv.org/abs/2405.18156)
 - 2025-11-04, **Video Text Preservation with Synthetic Text-Rich Videos**, Ziyang Liu et.al., Paper: [http://arxiv.org/abs/2511.05573](http://arxiv.org/abs/2511.05573)
 - 2025-03-10, **VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs**, Moayed Haji Ali et.al., Paper: [http://arxiv.org/abs/2304.06020](http://arxiv.org/abs/2304.06020)
+- 2026-04-06, **Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**, Hyunsoo Cha et.al., Paper: [http://arxiv.org/abs/2604.04934](http://arxiv.org/abs/2604.04934)
 - 2025-04-01, **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer**, Xinyu Liu et.al., Paper: [http://arxiv.org/abs/2502.05979](http://arxiv.org/abs/2502.05979)
 - 2015-03-16, **Use of Effective Audio in E-learning Courseware**, Kisor Ray et.al., Paper: [http://arxiv.org/abs/1503.04837](http://arxiv.org/abs/1503.04837)
 - 2024-06-03, **UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation**, Xiang Wang et.al., Paper: [http://arxiv.org/abs/2406.01188](http://arxiv.org/abs/2406.01188)
@@ -1161,7 +1162,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260408>back to top</a>)</p>
 
 Notes: 
 
