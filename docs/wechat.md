@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.04.20
+> Updated on 2026.04.21
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -382,6 +382,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-08, **MotionSwap**, Om Patil et.al., Paper: [http://arxiv.org/abs/2508.06430](http://arxiv.org/abs/2508.06430)
 - 2025-11-20, **Motion Transfer-Enhanced StyleGAN for Generating Diverse Macaque Facial Expressions**, Takuya Igaue et.al., Paper: [http://arxiv.org/abs/2511.16711](http://arxiv.org/abs/2511.16711)
 - 2025-04-01, **Monocular and Generalizable Gaussian Talking Head Animation**, Shengjie Gong et.al., Paper: [http://arxiv.org/abs/2504.00665](http://arxiv.org/abs/2504.00665)
+- 2026-04-18, **Modeling Biomechanical Constraint Violations for Language-Agnostic Lip-Sync Deepfake Detection**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2604.16808](http://arxiv.org/abs/2604.16808)
 - 2025-07-15, **Model See Model Do: Speech-Driven Facial Animation with Style Control**, Yifang Pan et.al., Paper: [http://arxiv.org/abs/2505.01319](http://arxiv.org/abs/2505.01319)
 - 2020-05-27, **Modality Dropout for Improved Performance-driven Talking Faces**, Ahmed Hussen Abdelaziz et.al., Paper: [http://arxiv.org/abs/2005.13616](http://arxiv.org/abs/2005.13616)
 - 2024-07-08, **MobilePortrait: Real-Time One-Shot Neural Head Avatars on Mobile Devices**, Jianwen Jiang et.al., Paper: [http://arxiv.org/abs/2407.05712](http://arxiv.org/abs/2407.05712)
@@ -734,6 +735,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-12-10, **EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2512.05991](http://arxiv.org/abs/2512.05991)
 - 2019-10-09, **EmoCo: Visual Analysis of Emotion Coherence in Presentation Videos**, Haipeng Zeng et.al., Paper: [http://arxiv.org/abs/1907.12918](http://arxiv.org/abs/1907.12918)
 - 2025-08-28, **EmoCAST: Emotional Talking Portrait via Emotive Text Description**, Yiguo Jiang et.al., Paper: [http://arxiv.org/abs/2508.20615](http://arxiv.org/abs/2508.20615)
+- 2026-04-19, **EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**, Yu Zhang et.al., Paper: [http://arxiv.org/abs/2604.17211](http://arxiv.org/abs/2604.17211)
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
 - 2026-03-08, **EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation**, Arpita Saggar et.al., Paper: [http://arxiv.org/abs/2603.07604](http://arxiv.org/abs/2603.07604)
 - 2021-07-07, **Egocentric Videoconferencing**, Mohamed Elgharib et.al., Paper: [http://arxiv.org/abs/2107.03109](http://arxiv.org/abs/2107.03109)
@@ -1017,7 +1019,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1175,7 +1177,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 Notes: 
 
