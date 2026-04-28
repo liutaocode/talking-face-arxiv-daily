@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.04.27
+### Automatically Updated on 2026.04.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,12 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**Talking Slide Avatars: Open-Source Multimodal Communication Approach for Teaching**|Xinxing Wu et.al.|[2604.23703](http://arxiv.org/abs/2604.23703)|null|
+|**2026-04-26**|**Personalizing Causal Audio-Driven Facial Motion via Dynamic Multi-modal Retrieval**|Xuangeng Chu et.al.|[2604.23692](http://arxiv.org/abs/2604.23692)|null|
+|**2026-04-26**|**Do Protective Perturbations Really Protect Portrait Privacy under Real-world Image Transformations?**|Ruiqing Sun et.al.|[2604.23688](http://arxiv.org/abs/2604.23688)|null|
+|**2026-04-26**|**Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling**|Zhen Ye et.al.|[2604.23586](http://arxiv.org/abs/2604.23586)|null|
+|**2026-04-25**|**EAD-Net: Emotion-Aware Talking Head Generation with Spatial Refinement and Temporal Coherence**|Yahui Li et.al.|[2604.23325](http://arxiv.org/abs/2604.23325)|null|
+|**2026-04-25**|**Micro-Expression-Aware Avatar Fingerprinting via Inter-Frame Feature Differencing**|Masoumeh Chapariniya et.al.|[2604.23247](http://arxiv.org/abs/2604.23247)|null|
 |**2026-04-22**|**Learning Spatial-Temporal Coherent Correlations for Speech-Preserving Facial Expression Manipulation**|Tianshui Chen et.al.|[2604.20226](http://arxiv.org/abs/2604.20226)|null|
 |**2026-04-21**|**PortraitDirector: A Hierarchical Disentanglement Framework for Controllable and Real-time Facial Reenactment**|Chaonan Ji et.al.|[2604.19129](http://arxiv.org/abs/2604.19129)|null|
 |**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|null|
@@ -1021,6 +1027,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-26**|**PhysLayer: Language-Guided Layered Animation with Depth-Aware Physics**|Tianyidan Xie et.al.|[2604.23574](http://arxiv.org/abs/2604.23574)|null|
 |**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-02-25**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
 |**2026-02-11**|**MotionWeaver: Holistic 4D-Anchored Framework for Multi-Humanoid Image Animation**|Xirui Hu et.al.|[2602.13326](http://arxiv.org/abs/2602.13326)|null|
