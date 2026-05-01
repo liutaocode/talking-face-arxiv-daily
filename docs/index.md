@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.04.30
+### Automatically Updated on 2026.05.01
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Generate Your Talking Avatar from Video Reference**|Zujin Guo et.al.|[2604.27918](http://arxiv.org/abs/2604.27918)|null|
+|**2026-04-30**|**D-Rex : Diffusion Rendering for Relightable Expressive Avatars**|Timo Teufel et.al.|[2604.27871](http://arxiv.org/abs/2604.27871)|null|
 |**2026-04-26**|**Talking Slide Avatars: Open-Source Multimodal Communication Approach for Teaching**|Xinxing Wu et.al.|[2604.23703](http://arxiv.org/abs/2604.23703)|null|
 |**2026-04-26**|**Personalizing Causal Audio-Driven Facial Motion via Dynamic Multi-modal Retrieval**|Xuangeng Chu et.al.|[2604.23692](http://arxiv.org/abs/2604.23692)|null|
 |**2026-04-26**|**Do Protective Perturbations Really Protect Portrait Privacy under Real-world Image Transformations?**|Ruiqing Sun et.al.|[2604.23688](http://arxiv.org/abs/2604.23688)|null|
