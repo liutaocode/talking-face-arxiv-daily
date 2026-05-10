@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.05.07
+### Automatically Updated on 2026.05.10
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**SuperFace: Preference-Aligned Facial Expression Estimation Beyond Pseudo Supervision**|Zejian Kang et.al.|[2605.06179](http://arxiv.org/abs/2605.06179)|null|
 |**2026-05-05**|**Enhancing Self-Supervised Talking Head Forgery Detection via a Training-Free Dual-System Framework**|Ke Liu et.al.|[2605.03390](http://arxiv.org/abs/2605.03390)|null|
 |**2026-05-02**|**Omni-Fake: Benchmarking Unified Multimodal Social Media Deepfake Detection**|Tianxiao Li et.al.|[2605.01638](http://arxiv.org/abs/2605.01638)|null|
 |**2026-05-01**|**AsymK-Talker: Real-Time and Long-Horizon Talking Head Generation via Asymmetric Kernel Distillation**|Yuxin Lu et.al.|[2605.02948](http://arxiv.org/abs/2605.02948)|null|
@@ -1032,6 +1033,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency**|Thong Nguyen et.al.|[2605.06280](http://arxiv.org/abs/2605.06280)|null|
 |**2026-05-04**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-04-26**|**PhysLayer: Language-Guided Layered Animation with Depth-Aware Physics**|Tianyidan Xie et.al.|[2604.23574](http://arxiv.org/abs/2604.23574)|null|
 |**2026-02-25**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
