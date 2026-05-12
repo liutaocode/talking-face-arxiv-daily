@@ -1042,6 +1042,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-11**|**Improving Human Image Animation via Semantic Representation Alignment**|Chang Liu et.al.|[2605.10523](http://arxiv.org/abs/2605.10523)|null|
 |**2026-05-11**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
 |**2026-05-08**|**Implicit Preference Alignment for Human Image Animation**|Yuanzhi Wang et.al.|[2605.07545](http://arxiv.org/abs/2605.07545)|null|
 |**2026-05-08**|**Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency**|Thong Nguyen et.al.|[2605.06280](http://arxiv.org/abs/2605.06280)|null|

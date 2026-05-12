@@ -1119,6 +1119,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-01-15, **Joint Learning of Depth and Appearance for Portrait Image Animation**, Xinya Ji et.al., Paper: [http://arxiv.org/abs/2501.08649](http://arxiv.org/abs/2501.08649)
 - 2025-11-20, **Integrating Deep Learning and Spatial Statistics in Marine Ecosystem Monitoring**, Gian Mario Sangiovanni et.al., Paper: [http://arxiv.org/abs/2511.16447](http://arxiv.org/abs/2511.16447)
 - 2021-10-26, **Incremental Learning for Animal Pose Estimation using RBF k-DPP**, Gaurav Kumar Nayak et.al., Paper: [http://arxiv.org/abs/2110.13598](http://arxiv.org/abs/2110.13598)
+- 2026-05-11, **Improving Human Image Animation via Semantic Representation Alignment**, Chang Liu et.al., Paper: [http://arxiv.org/abs/2605.10523](http://arxiv.org/abs/2605.10523)
 - 2022-10-05, **Implicit Warping for Animation with Image Sets**, Arun Mallya et.al., Paper: [http://arxiv.org/abs/2210.01794](http://arxiv.org/abs/2210.01794)
 - 2026-05-08, **Implicit Preference Alignment for Human Image Animation**, Yuanzhi Wang et.al., Paper: [http://arxiv.org/abs/2605.07545](http://arxiv.org/abs/2605.07545)
 - 2022-03-29, **Image Animation with Perturbed Masks**, Yoav Shalev et.al., Paper: [http://arxiv.org/abs/2011.06922](http://arxiv.org/abs/2011.06922)
