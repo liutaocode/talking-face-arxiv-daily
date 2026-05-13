@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.05.12
+### Automatically Updated on 2026.05.13
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**The Deepfakes We Missed: We Built Detectors for a Threat That Didn't Arrive**|Shaina Raza et.al.|[2605.12075](http://arxiv.org/abs/2605.12075)|null|
 |**2026-05-11**|**SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis**|Peng Jia et.al.|[2605.09956](http://arxiv.org/abs/2605.09956)|null|
 |**2026-05-11**|**AsymTalker: Identity-Consistent Long-Term Talking Head Generation via Asymmetric Distillation**|Yuxin Lu et.al.|[2605.02948](http://arxiv.org/abs/2605.02948)|null|
 |**2026-05-08**|**MoCoTalk: Multi-Conditional Diffusion with Adaptive Router for Controllable Talking Head Generation**|Xinyan Ye et.al.|[2605.08050](http://arxiv.org/abs/2605.08050)|null|
@@ -1036,10 +1037,10 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-12**|**Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency**|Thong Nguyen et.al.|[2605.06280](http://arxiv.org/abs/2605.06280)|null|
 |**2026-05-11**|**Improving Human Image Animation via Semantic Representation Alignment**|Chang Liu et.al.|[2605.10523](http://arxiv.org/abs/2605.10523)|null|
 |**2026-05-11**|**MultiAnimate: Pose-Guided Image Animation Made Extensible**|Yingcheng Hu et.al.|[2602.21581](http://arxiv.org/abs/2602.21581)|null|
 |**2026-05-08**|**Implicit Preference Alignment for Human Image Animation**|Yuanzhi Wang et.al.|[2605.07545](http://arxiv.org/abs/2605.07545)|null|
-|**2026-05-08**|**Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency**|Thong Nguyen et.al.|[2605.06280](http://arxiv.org/abs/2605.06280)|null|
 |**2026-05-04**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934](http://arxiv.org/abs/2604.04934)|null|
 |**2026-04-26**|**PhysLayer: Language-Guided Layered Animation with Depth-Aware Physics**|Tianyidan Xie et.al.|[2604.23574](http://arxiv.org/abs/2604.23574)|null|
 |**2026-02-11**|**MotionWeaver: Holistic 4D-Anchored Framework for Multi-Humanoid Image Animation**|Xirui Hu et.al.|[2602.13326](http://arxiv.org/abs/2602.13326)|null|
