@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.05.14
+### Automatically Updated on 2026.05.15
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**|Xiaoyu Zhan et.al.|[2605.14731](http://arxiv.org/abs/2605.14731)|null|
 |**2026-05-12**|**The Deepfakes We Missed: We Built Detectors for a Threat That Didn't Arrive**|Shaina Raza et.al.|[2605.12075](http://arxiv.org/abs/2605.12075)|null|
 |**2026-05-11**|**SDTalk: Structured Facial Priors and Dual-Branch Motion Fields for Generalizable Gaussian Talking Head Synthesis**|Peng Jia et.al.|[2605.09956](http://arxiv.org/abs/2605.09956)|null|
 |**2026-05-11**|**AsymTalker: Identity-Consistent Long-Term Talking Head Generation via Asymmetric Distillation**|Yuxin Lu et.al.|[2605.02948](http://arxiv.org/abs/2605.02948)|null|
