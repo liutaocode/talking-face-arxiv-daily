@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.05.18
+> Updated on 2026.05.19
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -579,6 +579,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-03-25, **HunyuanPortrait: Implicit Condition Control for Enhanced Portrait Animation**, Zunnan Xu et.al., Paper: [http://arxiv.org/abs/2503.18860](http://arxiv.org/abs/2503.18860)
 - 2025-08-18, **Human Feedback Driven Dynamic Speech Emotion Recognition**, Ilya Fedorov et.al., Paper: [http://arxiv.org/abs/2508.14920](http://arxiv.org/abs/2508.14920)
 - 2026-01-20, **HoverAI: An Embodied Aerial Agent for Natural Human-Drone Interaction**, Yuhua Jin et.al., Paper: [http://arxiv.org/abs/2601.13801](http://arxiv.org/abs/2601.13801)
+- 2026-05-16, **HighSync: High-Quality Lip Synchronization via Latent Diffusion Models**, Saeed Firouzi Daghigh et.al., Paper: [http://arxiv.org/abs/2605.16918](http://arxiv.org/abs/2605.16918)
 - 2024-08-10, **High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model**, Weizhi Zhong et.al., Paper: [http://arxiv.org/abs/2408.05416](http://arxiv.org/abs/2408.05416)
 - 2023-05-31, **High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning**, Chao Xu et.al., Paper: [http://arxiv.org/abs/2305.02572](http://arxiv.org/abs/2305.02572)
 - 2023-03-04, **High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors**, Yunpeng Bai et.al., Paper: [http://arxiv.org/abs/2211.15064](http://arxiv.org/abs/2211.15064)
@@ -1038,7 +1039,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1200,7 +1201,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260519>back to top</a>)</p>
 
 Notes: 
 
