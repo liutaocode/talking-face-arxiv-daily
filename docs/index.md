@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.06.09
+### Automatically Updated on 2026.06.10
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization**|Paul Hyunbin Cho et.al.|[2606.11180](http://arxiv.org/abs/2606.11180)|null|
+|**2026-06-09**|**Deploying Speech-Driven 3D Facial Animation in Unreal Engine for Production-Ready Digital Humans**|Alessandro Busacchi et.al.|[2606.10753](http://arxiv.org/abs/2606.10753)|null|
 |**2026-06-06**|**Wispy to Voluminous: Prior-free Multi-view Capture of Strand-level Facial Hair**|Jaeseong Lee et.al.|[2606.08041](http://arxiv.org/abs/2606.08041)|null|
 |**2026-06-04**|**Resonant Minds: Closed-Loop Social Avatars with Theory of Mind**|Jianxu Shangguan et.al.|[2606.05896](http://arxiv.org/abs/2606.05896)|null|
 |**2026-06-03**|**Mamba-Enhanced Implicit Motion Learning for Audio-Driven Portrait Animation**|Xuan Wei et.al.|[2606.03402](http://arxiv.org/abs/2606.03402)|null|
