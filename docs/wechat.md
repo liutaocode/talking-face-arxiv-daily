@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.06.14
+> Updated on 2026.06.15
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -940,6 +940,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-11-17, **B2F: End-to-End Body-to-Face Motion Generation with Style Reference**, Bokyung Jang et.al., Paper: [http://arxiv.org/abs/2511.13988](http://arxiv.org/abs/2511.13988)
 - 2025-09-15, **AvatarSync: Rethinking Talking-Head Animation through Autoregressive Perspective**, Yuchen Deng et.al., Paper: [http://arxiv.org/abs/2509.12052](http://arxiv.org/abs/2509.12052)
 - 2026-03-18, **AvatarForcing: One-Step Streaming Talking Avatars via Local-Future Sliding-Window Denoising**, Liyuan Cui et.al., Paper: [http://arxiv.org/abs/2603.14331](http://arxiv.org/abs/2603.14331)
+- 2026-06-11, **Avatar V: Scaling Video-Reference Avatar Video Generation**, Benjamin Liang et.al., Paper: [http://arxiv.org/abs/2606.13872](http://arxiv.org/abs/2606.13872)
 - 2026-01-02, **Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation**, Taekyung Ki et.al., Paper: [http://arxiv.org/abs/2601.00664](http://arxiv.org/abs/2601.00664)
 - 2023-09-12, **Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos**, Ekta Prashnani et.al., Paper: [http://arxiv.org/abs/2305.03713](http://arxiv.org/abs/2305.03713)
 - 2023-04-17, **Autoregressive GAN for Semantic Unconditional Head Motion Generation**, Louis Airale et.al., Paper: [http://arxiv.org/abs/2211.00987](http://arxiv.org/abs/2211.00987), Code: **[https://github.com/louisbearing/unconditionalheadmotion](https://github.com/louisbearing/unconditionalheadmotion)**
@@ -1058,7 +1059,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1222,7 +1223,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260615>back to top</a>)</p>
 
 Notes: 
 
