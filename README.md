@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**LoCC: Detection and Localization of Lip-Syncing Deepfakes via Counterfactual Frame Consistency**|Soumyya Kanti Datta et.al.|[2606.22772](http://arxiv.org/abs/2606.22772)|null|
 |**2026-06-15**|**ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion**|Hyung Kyu Kim et.al.|[2606.16327](http://arxiv.org/abs/2606.16327)|null|
 |**2026-06-14**|**EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units**|Tingting Chen et.al.|[2606.15848](http://arxiv.org/abs/2606.15848)|null|
 |**2026-06-11**|**Avatar V: Scaling Video-Reference Avatar Video Generation**|Benjamin Liang et.al.|[2606.13872](http://arxiv.org/abs/2606.13872)|null|

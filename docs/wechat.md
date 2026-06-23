@@ -468,6 +468,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-02-13, **Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model**, Fei Shen et.al., Paper: [http://arxiv.org/abs/2502.09533](http://arxiv.org/abs/2502.09533)
 - 2024-11-29, **LokiTalk: Learning Fine-Grained and Generalizable Correspondences to Enhance NeRF-based Talking Head Synthesis**, Tianqi Li et.al., Paper: [http://arxiv.org/abs/2411.19525](http://arxiv.org/abs/2411.19525)
 - 2026-05-22, **Loki: Representation over Architecture for Diffusion-Based Portrait Animation**, Pouyan Navard et.al., Paper: [http://arxiv.org/abs/2605.24176](http://arxiv.org/abs/2605.24176)
+- 2026-06-22, **LoCC: Detection and Localization of Lip-Syncing Deepfakes via Counterfactual Frame Consistency**, Soumyya Kanti Datta et.al., Paper: [http://arxiv.org/abs/2606.22772](http://arxiv.org/abs/2606.22772)
 - 2024-07-03, **LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control**, Jianzhu Guo et.al., Paper: [http://arxiv.org/abs/2407.03168](http://arxiv.org/abs/2407.03168), Code: **[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**
 - 2025-11-10, **LiveNeRF: Efficient Face Replacement Through Neural Radiance Fields Integration**, Tung Vu et.al., Paper: [http://arxiv.org/abs/2511.07552](http://arxiv.org/abs/2511.07552)
 - 2021-09-24, **Live Speech Portraits: Real-Time Photorealistic Talking-Head Animation**, Yuanxun Lu et.al., Paper: [http://arxiv.org/abs/2109.10595](http://arxiv.org/abs/2109.10595)
