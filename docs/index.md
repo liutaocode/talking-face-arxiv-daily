@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.06.29
+### Automatically Updated on 2026.06.30
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
+|**2026-06-26**|**KM-Speaker: Keypoint-Based Style Control for High-Quality Speech-Driven 3D Facial Animation and Dialogue Localization**|Arthur Josi et.al.|[2606.28568](http://arxiv.org/abs/2606.28568)|null|
 |**2026-06-26**|**MindFlow: Harmonizing Cognitive Semantics and Acoustic Dynamics for Facial Animation Generation in Dyadic Conversations**|Hejia Chen et.al.|[2606.27779](http://arxiv.org/abs/2606.27779)|null|
 |**2026-06-22**|**LoCC: Detection and Localization of Lip-Syncing Deepfakes via Counterfactual Frame Consistency**|Soumyya Kanti Datta et.al.|[2606.22772](http://arxiv.org/abs/2606.22772)|null|
 |**2026-06-15**|**ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion**|Hyung Kyu Kim et.al.|[2606.16327](http://arxiv.org/abs/2606.16327)|null|
