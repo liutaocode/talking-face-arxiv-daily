@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.07.01
+> Updated on 2026.07.02
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -635,6 +635,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-04-25, **GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting**, Kyusun Cho et.al., Paper: [http://arxiv.org/abs/2404.16012](http://arxiv.org/abs/2404.16012), Code: **[https://github.com/ku-cvlab/gaussiantalker](https://github.com/ku-cvlab/gaussiantalker)**
 - 2024-09-18, **GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**, Kartik Teotia et.al., Paper: [http://arxiv.org/abs/2409.11951](http://arxiv.org/abs/2409.11951)
 - 2025-12-11, **GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2512.10939](http://arxiv.org/abs/2512.10939)
+- 2026-07-01, **GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**, Haijie Yang et.al., Paper: [http://arxiv.org/abs/2607.00959](http://arxiv.org/abs/2607.00959)
 - 2023-12-19, **Gaussian3Diff: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing**, Yushi Lan et.al., Paper: [http://arxiv.org/abs/2312.03763](http://arxiv.org/abs/2312.03763)
 - 2016-10-28, **Galaxy gas as obscurer: II. Separating the galaxy-scale and nuclear obscurers of Active Galactic Nuclei**, Johannes Buchner et.al., Paper: [http://arxiv.org/abs/1610.09380](http://arxiv.org/abs/1610.09380), Code: **[https://github.com/JohannesBuchner/LightRayRider](https://github.com/JohannesBuchner/LightRayRider)**
 - 2023-12-12, **GSmoothFace: Generalized Smooth Talking Face Generation via Fine Grained 3D Face Guidance**, Haiming Zhang et.al., Paper: [http://arxiv.org/abs/2312.07385](http://arxiv.org/abs/2312.07385)
@@ -1067,7 +1068,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1228,11 +1229,11 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2018-06-24, **A Design of FPGA Based Small Animal PET Real Time Digital Signal Processing and Correction Logic**, Jiaming Lu et.al., Paper: [http://arxiv.org/abs/1806.09117](http://arxiv.org/abs/1806.09117)
 - 2025-10-29, **4-Doodle: Text to 3D Sketches that Move!**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2510.25319](http://arxiv.org/abs/2510.25319)
 - 2018-10-09, **3D model silhouette-based tracking in depth images for puppet suit dynamic video-mapping**, Guillaume Caron et.al., Paper: [http://arxiv.org/abs/1810.03956](http://arxiv.org/abs/1810.03956)
-- 2026-06-29, **3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**, Deyin Liu et.al., Paper: [http://arxiv.org/abs/2606.30514](http://arxiv.org/abs/2606.30514)
+- 2026-07-01, **3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**, Deyin Liu et.al., Paper: [http://arxiv.org/abs/2606.30514](http://arxiv.org/abs/2606.30514)
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260702>back to top</a>)</p>
 
 Notes: 
 

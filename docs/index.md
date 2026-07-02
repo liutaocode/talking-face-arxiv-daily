@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.07.01
+### Automatically Updated on 2026.07.02
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-01**|**GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**|Haijie Yang et.al.|[2607.00959](http://arxiv.org/abs/2607.00959)|null|
 |**2026-06-30**|**Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation**|Baiqin Wang et.al.|[2606.31088](http://arxiv.org/abs/2606.31088)|null|
 |**2026-06-29**|**SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation**|Juncheng Ma et.al.|[2606.30849](http://arxiv.org/abs/2606.30849)|null|
 |**2026-06-29**|**FacePlex: Full-Duplex Joint Speech-Facial Motion Generation for Conversational Avatars**|Habin Lim et.al.|[2606.30145](http://arxiv.org/abs/2606.30145)|null|
@@ -1067,7 +1068,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-29**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
+|**2026-07-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903](http://arxiv.org/abs/2606.06903)|null|
 |**2026-06-05**|**FreeAnimate: Training-Free Human Image Animation with Preview-Guided Denoising**|Yuan Zeng et.al.|[2606.06885](http://arxiv.org/abs/2606.06885)|null|
 |**2026-05-29**|**Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency**|Thong Nguyen et.al.|[2605.06280](http://arxiv.org/abs/2605.06280)|null|
