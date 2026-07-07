@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.07.06
+### Automatically Updated on 2026.07.07
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-05**|**ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog**|Lingao Xiao et.al.|[2607.04438](http://arxiv.org/abs/2607.04438)|null|
+|**2026-07-03**|**See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition**|Jingjing Hu et.al.|[2607.02912](http://arxiv.org/abs/2607.02912)|null|
+|**2026-07-02**|**Conversational Human Audio-visual Talking Dialogue Generation**|Junhao Song et.al.|[2607.02799](http://arxiv.org/abs/2607.02799)|null|
 |**2026-07-01**|**GaussianEmoTalker: Real-Time Emotional Talking Head Synthesis with Audio-Driven and Blendshape-Based 3D Gaussian Splatting**|Haijie Yang et.al.|[2607.00959](http://arxiv.org/abs/2607.00959)|null|
 |**2026-06-30**|**Towards Flexible, Natural, Efficient Interaction for Conversational Talking Face Generation**|Baiqin Wang et.al.|[2606.31088](http://arxiv.org/abs/2606.31088)|null|
 |**2026-06-29**|**SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation**|Juncheng Ma et.al.|[2606.30849](http://arxiv.org/abs/2606.30849)|null|

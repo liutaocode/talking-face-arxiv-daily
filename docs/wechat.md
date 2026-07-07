@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.07.06
+> Updated on 2026.07.07
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -240,6 +240,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-03-29, **Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert**, Jiadong Wang et.al., Paper: [http://arxiv.org/abs/2303.17480](http://arxiv.org/abs/2303.17480), Code: **[https://github.com/sxjdwang/talklip](https://github.com/sxjdwang/talklip)**
 - 2025-12-16, **Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model**, Heyi Chen et.al., Paper: [http://arxiv.org/abs/2512.13507](http://arxiv.org/abs/2512.13507)
 - 2025-10-28, **See the Speaker: Crafting High-Resolution Talking Faces from Speech with Prior Guidance and Region Refinement**, Jinting Wang et.al., Paper: [http://arxiv.org/abs/2510.26819](http://arxiv.org/abs/2510.26819)
+- 2026-07-03, **See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition**, Jingjing Hu et.al., Paper: [http://arxiv.org/abs/2607.02912](http://arxiv.org/abs/2607.02912)
 - 2024-03-19, **ScanTalk: 3D Talking Heads from Unregistered Scans**, Federico Nocentini et.al., Paper: [http://arxiv.org/abs/2403.10942](http://arxiv.org/abs/2403.10942)
 - 2025-02-17, **SayAnything: Audio-Driven Lip Synchronization with Conditional Video Diffusion**, Junxian Ma et.al., Paper: [http://arxiv.org/abs/2502.11515](http://arxiv.org/abs/2502.11515)
 - 2024-03-13, **Say Anything with Any Style**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06363](http://arxiv.org/abs/2403.06363)
@@ -265,6 +266,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-07-20, **Responsive Listening Head Generation: A Benchmark Dataset and Baseline**, Mohan Zhou et.al., Paper: [http://arxiv.org/abs/2112.13548](http://arxiv.org/abs/2112.13548)
 - 2026-06-04, **Resonant Minds: Closed-Loop Social Avatars with Theory of Mind**, Jianxu Shangguan et.al., Paper: [http://arxiv.org/abs/2606.05896](http://arxiv.org/abs/2606.05896)
 - 2024-02-26, **Resolution-Agnostic Neural Compression for High-Fidelity Portrait Video Conferencing via Implicit Radiance Fields**, Yifei Li et.al., Paper: [http://arxiv.org/abs/2402.16599](http://arxiv.org/abs/2402.16599)
+- 2026-07-05, **ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog**, Lingao Xiao et.al., Paper: [http://arxiv.org/abs/2607.04438](http://arxiv.org/abs/2607.04438)
 - 2025-11-08, **Reperio-rPPG: Relational Temporal Graph Neural Networks for Periodicity Learning in Remote Physiological Measurement**, Ba-Thinh Nguyen et.al., Paper: [http://arxiv.org/abs/2511.05946](http://arxiv.org/abs/2511.05946)
 - 2023-05-22, **RenderMe-360: A Large Digital Asset Library and Benchmarks Towards High-fidelity Head Avatars**, Dongwei Pan et.al., Paper: [http://arxiv.org/abs/2305.13353](http://arxiv.org/abs/2305.13353), Code: **[https://github.com/renderme-360/renderme-360](https://github.com/renderme-360/renderme-360)**
 - 2025-03-09, **Removing Averaging: Personalized Lip-Sync Driven Characters Based on Identity Adapter**, Yanyu Zhu et.al., Paper: [http://arxiv.org/abs/2503.06397](http://arxiv.org/abs/2503.06397)
@@ -895,6 +897,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2026-04-09, **Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video**, Chanhyuk Choi et.al., Paper: [http://arxiv.org/abs/2604.07786](http://arxiv.org/abs/2604.07786)
 - 2023-10-17, **CorrTalk: Correlation Between Hierarchical Speech and Facial Activity Variances for 3D Animation**, Zhaojie Chu et.al., Paper: [http://arxiv.org/abs/2310.11295](http://arxiv.org/abs/2310.11295)
 - 2025-11-28, **CoordSpeaker: Exploiting Gesture Captioning for Coordinated Caption-Empowered Co-Speech Gesture Generation**, Fengyi Fang et.al., Paper: [http://arxiv.org/abs/2511.22863](http://arxiv.org/abs/2511.22863)
+- 2026-07-02, **Conversational Human Audio-visual Talking Dialogue Generation**, Junhao Song et.al., Paper: [http://arxiv.org/abs/2607.02799](http://arxiv.org/abs/2607.02799)
 - 2024-06-05, **Controllable Talking Face Generation by Implicit Facial Keypoints Editing**, Dong Zhao et.al., Paper: [http://arxiv.org/abs/2406.02880](http://arxiv.org/abs/2406.02880)
 - 2023-04-27, **Controllable One-Shot Face Video Synthesis With Semantic Aware Prior**, Kangning Liu et.al., Paper: [http://arxiv.org/abs/2304.14471](http://arxiv.org/abs/2304.14471)
 - 2025-04-14, **Controllable Expressive 3D Facial Animation via Diffusion in a Unified Multimodal Space**, Kangwei Liu et.al., Paper: [http://arxiv.org/abs/2506.10007](http://arxiv.org/abs/2506.10007)
@@ -1068,7 +1071,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1233,7 +1236,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260706>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260707>back to top</a>)</p>
 
 Notes: 
 
