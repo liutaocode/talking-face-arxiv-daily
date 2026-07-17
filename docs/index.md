@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.07.16
+### Automatically Updated on 2026.07.17
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,8 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**PolyInterview: An LLM-based Platform for Immersive Mock Interview Practice with Comprehensive Multimodal Assessment**|Zhiyuan Wen et.al.|[2607.10310](http://arxiv.org/abs/2607.10310)|null|
 |**2026-07-11**|**Learn2Chat: Rethinking Dyadic Talking Heads via Interaction-Modulated Monologic Priors**|Zikai Huang et.al.|[2607.10313](http://arxiv.org/abs/2607.10313)|null|
-|**2026-07-11**|**PolyInterview: An LLM-based Platform for Immersive Mock Interview Practice with Comprehensive Multimodal Assessment**|Zhiyuan Wen et.al.|[2607.10310](http://arxiv.org/abs/2607.10310)|null|
 |**2026-07-05**|**ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog**|Lingao Xiao et.al.|[2607.04438](http://arxiv.org/abs/2607.04438)|null|
 |**2026-07-03**|**See the Emotion: A Facial Emoji Proxy Modeling for EEG Emotion Recognition**|Jingjing Hu et.al.|[2607.02912](http://arxiv.org/abs/2607.02912)|null|
 |**2026-07-02**|**Conversational Human Audio-visual Talking Dialogue Generation**|Junhao Song et.al.|[2607.02799](http://arxiv.org/abs/2607.02799)|null|
