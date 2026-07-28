@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**ViDS: Video Diffusion Shader using 3D Face Tracking**|Wenbo Ji et.al.|[2607.24124](http://arxiv.org/abs/2607.24124)|null|
+|**2026-07-26**|**STEER: Steerable Dyadic Head Avatars**|Kartik Teotia et.al.|[2607.23840](http://arxiv.org/abs/2607.23840)|null|
 |**2026-07-26**|**GRAPE: Graduated Routing for Articulated Portrait mesh Estimation**|Yunfei Liu et.al.|[2607.23657](http://arxiv.org/abs/2607.23657)|null|
 |**2026-07-24**|**ID-V2V: Identity-Preserving Video Restylization**|Yuancheng Xu et.al.|[2607.22830](http://arxiv.org/abs/2607.22830)|null|
 |**2026-07-24**|**An AI-Driven Virtual Patient for Breaking Bad News: An Expert Formative Study on Facial Expression Intensity**|Steffen Hauck et.al.|[2607.22118](http://arxiv.org/abs/2607.22118)|null|
