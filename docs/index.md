@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.07.27
+### Automatically Updated on 2026.07.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-26**|**GRAPE: Graduated Routing for Articulated Portrait mesh Estimation**|Yunfei Liu et.al.|[2607.23657](http://arxiv.org/abs/2607.23657)|null|
+|**2026-07-24**|**ID-V2V: Identity-Preserving Video Restylization**|Yuancheng Xu et.al.|[2607.22830](http://arxiv.org/abs/2607.22830)|null|
 |**2026-07-24**|**An AI-Driven Virtual Patient for Breaking Bad News: An Expert Formative Study on Facial Expression Intensity**|Steffen Hauck et.al.|[2607.22118](http://arxiv.org/abs/2607.22118)|null|
 |**2026-07-23**|**Physiological Signals as a Forensic Modality for Talking-Face Deepfake Detection**|Othmane Harraq et.al.|[2607.21776](http://arxiv.org/abs/2607.21776)|null|
 |**2026-07-22**|**ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program**|Mengtian Li et.al.|[2607.19947](http://arxiv.org/abs/2607.19947)|null|
