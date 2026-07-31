@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.07.30
+### Automatically Updated on 2026.07.31
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate**|Zheyuan Zhang et.al.|[2607.28144](http://arxiv.org/abs/2607.28144)|null|
+|**2026-07-30**|**TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment**|MD Wahiduzzaman Khan et.al.|[2607.28039](http://arxiv.org/abs/2607.28039)|null|
 |**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742](http://arxiv.org/abs/2607.26742)|null|
 |**2026-07-27**|**ViDS: Video Diffusion Shader using 3D Face Tracking**|Wenbo Ji et.al.|[2607.24124](http://arxiv.org/abs/2607.24124)|null|
 |**2026-07-26**|**STEER: Steerable Dyadic Head Avatars**|Kartik Teotia et.al.|[2607.23840](http://arxiv.org/abs/2607.23840)|null|
