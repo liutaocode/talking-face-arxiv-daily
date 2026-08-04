@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.08.03
+### Automatically Updated on 2026.08.04
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,8 +21,10 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-01**|**Geometry-guided Emotion Modulation for Controllable and Photorealistic Emotional Talking Face Generation**|Chenggong Hu et.al.|[2608.00663](http://arxiv.org/abs/2608.00663)|null|
 |**2026-07-30**|**ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate**|Zheyuan Zhang et.al.|[2607.28144](http://arxiv.org/abs/2607.28144)|null|
 |**2026-07-30**|**TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment**|MD Wahiduzzaman Khan et.al.|[2607.28039](http://arxiv.org/abs/2607.28039)|null|
+|**2026-07-29**|**LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation**|Rongxiang Zhang et.al.|[2608.00079](http://arxiv.org/abs/2608.00079)|null|
 |**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742](http://arxiv.org/abs/2607.26742)|null|
 |**2026-07-27**|**ViDS: Video Diffusion Shader using 3D Face Tracking**|Wenbo Ji et.al.|[2607.24124](http://arxiv.org/abs/2607.24124)|null|
 |**2026-07-26**|**STEER: Steerable Dyadic Head Avatars**|Kartik Teotia et.al.|[2607.23840](http://arxiv.org/abs/2607.23840)|null|
@@ -1083,9 +1085,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-07-15**|**MultiAnimate: A Unified Framework for Controllable Multi-Character Animation**|Zhongyi Zhang et.al.|[2607.13415](http://arxiv.org/abs/2607.13415)|null|
 |**2026-07-12**|**Eulerian Motion Guidance: Robust Image Animation via Bidirectional Geometric Consistency**|Thong Nguyen et.al.|[2605.06280](http://arxiv.org/abs/2605.06280)|null|
-|**2026-07-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
 |**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903](http://arxiv.org/abs/2606.06903)|null|
 |**2026-06-05**|**FreeAnimate: Training-Free Human Image Animation with Preview-Guided Denoising**|Yuan Zeng et.al.|[2606.06885](http://arxiv.org/abs/2606.06885)|null|
 |**2026-05-11**|**Improving Human Image Animation via Semantic Representation Alignment**|Chang Liu et.al.|[2605.10523](http://arxiv.org/abs/2605.10523)|null|

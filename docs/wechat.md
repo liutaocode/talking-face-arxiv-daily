@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.08.03
+> Updated on 2026.08.04
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -519,6 +519,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2018-07-26, **Learnable PINs: Cross-Modal Embeddings for Person Identity**, Arsha Nagrani et.al., Paper: [http://arxiv.org/abs/1805.00833](http://arxiv.org/abs/1805.00833)
 - 2024-04-22, **Learn2Talk: 3D Talking Face Learns from 2D Talking Face**, Yixiang Zhuang et.al., Paper: [http://arxiv.org/abs/2404.12888](http://arxiv.org/abs/2404.12888)
 - 2026-07-11, **Learn2Chat: Rethinking Dyadic Talking Heads via Interaction-Modulated Monologic Priors**, Zikai Huang et.al., Paper: [http://arxiv.org/abs/2607.10313](http://arxiv.org/abs/2607.10313)
+- 2026-07-29, **LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation**, Rongxiang Zhang et.al., Paper: [http://arxiv.org/abs/2608.00079](http://arxiv.org/abs/2608.00079)
 - 2024-03-22, **LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example**, Soyeon Yoon et.al., Paper: [http://arxiv.org/abs/2403.15227](http://arxiv.org/abs/2403.15227), Code: **[https://github.com/kwanyun/LeGO_code](https://github.com/kwanyun/LeGO_code)**
 - 2023-08-30, **Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models**, Antoni Bigata Casademunt et.al., Paper: [http://arxiv.org/abs/2305.08854](http://arxiv.org/abs/2305.08854), Code: **[https://github.com/antonibigata/Laughing-Matters](https://github.com/antonibigata/Laughing-Matters)**
 - 2023-11-02, **LaughTalk: Expressive 3D Talking Head Generation with Laughter**, Kim Sung-Bin et.al., Paper: [http://arxiv.org/abs/2311.00994](http://arxiv.org/abs/2311.00994)
@@ -629,6 +630,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-04-07, **GvT: A Graph-based Vision Transformer with Talking-Heads Utilizing Sparsity, Trained from Scratch on Small Datasets**, Dongjing Shan et.al., Paper: [http://arxiv.org/abs/2404.04924](http://arxiv.org/abs/2404.04924)
 - 2024-12-13, **GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression**, Ziqi Zhou et.al., Paper: [http://arxiv.org/abs/2412.09296](http://arxiv.org/abs/2412.09296), Code: **[https://github.com/Jia1018/GoHD](https://github.com/Jia1018/GoHD)**
 - 2023-10-08, **GestSync: Determining who is speaking without a talking head**, Sindhu B Hegde et.al., Paper: [http://arxiv.org/abs/2310.05304](http://arxiv.org/abs/2310.05304), Code: **[https://github.com/Sindhu-Hegde/gestsync](https://github.com/Sindhu-Hegde/gestsync)**
+- 2026-08-01, **Geometry-guided Emotion Modulation for Controllable and Photorealistic Emotional Talking Face Generation**, Chenggong Hu et.al., Paper: [http://arxiv.org/abs/2608.00663](http://arxiv.org/abs/2608.00663)
 - 2024-10-14, **Generative Human Video Compression with Multi-granularity Temporal Trajectory Factorization**, Shanzhi Yin et.al., Paper: [http://arxiv.org/abs/2410.10171](http://arxiv.org/abs/2410.10171)
 - 2018-03-28, **Generative Adversarial Talking Head: Bringing Portraits to Life with a Weakly Supervised Neural Network**, Hai X. Pham et.al., Paper: [http://arxiv.org/abs/1803.07716](http://arxiv.org/abs/1803.07716)
 - 2025-04-27, **Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions**, Mohammad Mahdi Abootorabi et.al., Paper: [http://arxiv.org/abs/2504.19056](http://arxiv.org/abs/2504.19056)
@@ -1083,7 +1085,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1245,11 +1247,11 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2018-06-24, **A Design of FPGA Based Small Animal PET Real Time Digital Signal Processing and Correction Logic**, Jiaming Lu et.al., Paper: [http://arxiv.org/abs/1806.09117](http://arxiv.org/abs/1806.09117)
 - 2025-10-29, **4-Doodle: Text to 3D Sketches that Move!**, Hao Chen et.al., Paper: [http://arxiv.org/abs/2510.25319](http://arxiv.org/abs/2510.25319)
 - 2018-10-09, **3D model silhouette-based tracking in depth images for puppet suit dynamic video-mapping**, Guillaume Caron et.al., Paper: [http://arxiv.org/abs/1810.03956](http://arxiv.org/abs/1810.03956)
-- 2026-07-01, **3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**, Deyin Liu et.al., Paper: [http://arxiv.org/abs/2606.30514](http://arxiv.org/abs/2606.30514)
+- 2026-08-01, **3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**, Deyin Liu et.al., Paper: [http://arxiv.org/abs/2606.30514](http://arxiv.org/abs/2606.30514)
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260803>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260804>back to top</a>)</p>
 
 Notes: 
 
