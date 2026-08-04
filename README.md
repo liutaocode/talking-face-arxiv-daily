@@ -25,6 +25,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-03**|**Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**|Haijie Yang et.al.|[2608.01978](http://arxiv.org/abs/2608.01978)|null|
+|**2026-08-03**|**ETHead: Generating Expressive 3D Facial Animation and Head Movement from Speech**|Jiu-Cheng Xie et.al.|[2608.01605](http://arxiv.org/abs/2608.01605)|null|
 |**2026-08-01**|**Geometry-guided Emotion Modulation for Controllable and Photorealistic Emotional Talking Face Generation**|Chenggong Hu et.al.|[2608.00663](http://arxiv.org/abs/2608.00663)|null|
 |**2026-07-30**|**ReGenVC: End-to-End Real-Time Generative Video Coding at Ultra-Low Bitrate**|Zheyuan Zhang et.al.|[2607.28144](http://arxiv.org/abs/2607.28144)|null|
 |**2026-07-30**|**TongueReenact: Geometry-Anchored Tongue Synthesis for Face Reenactment**|MD Wahiduzzaman Khan et.al.|[2607.28039](http://arxiv.org/abs/2607.28039)|null|
