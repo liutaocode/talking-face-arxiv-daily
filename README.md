@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.08.17
+### Automatically Updated on 2026.08.18
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -25,7 +25,12 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**SingDance: Compositional Zero-Shot Singing-and-Dancing Video Generation with Role-Aware Audio Conditioning**|Tao Feng et.al.|[2608.16220](http://arxiv.org/abs/2608.16220)|null|
+|**2026-08-17**|**AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model**|Kwan Yun et.al.|[2608.16143](http://arxiv.org/abs/2608.16143)|null|
+|**2026-08-15**|**FMReward: Aligning and Evaluating Audio-Driven 3D Facial Animation with Human Preferences**|Sijing Wu et.al.|[2608.15296](http://arxiv.org/abs/2608.15296)|null|
+|**2026-08-15**|**CETalk: Continuous Valence-Arousal Control for Audio-Driven 3D Talking Head Generation**|Peng Jia et.al.|[2608.15110](http://arxiv.org/abs/2608.15110)|null|
 |**2026-08-13**|**UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos**|Yuxuan Zhang et.al.|[2608.11752](http://arxiv.org/abs/2608.11752)|null|
+|**2026-08-10**|**Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis**|Chaolong Yang et.al.|[2608.14700](http://arxiv.org/abs/2608.14700)|null|
 |**2026-08-07**|**Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection**|Xuechao Zou et.al.|[2608.06865](http://arxiv.org/abs/2608.06865)|null|
 |**2026-08-07**|**Vorch-Streamer: Extending Human Audio-Visual Generation to Real-Time Long-Form Streaming**|Menglin Han et.al.|[2608.05663](http://arxiv.org/abs/2608.05663)|null|
 |**2026-08-05**|**PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads**|Ao Fu et.al.|[2608.05218](http://arxiv.org/abs/2608.05218)|null|
@@ -1094,7 +1099,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1264,7 +1269,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260818>back to top</a>)</p>
 
 Notes: 
 
