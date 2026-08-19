@@ -831,6 +831,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2018-08-19, **Dynamic Temporal Alignment of Speech to Lips**, Tavi Halperin et.al., Paper: [http://arxiv.org/abs/1808.06250](http://arxiv.org/abs/1808.06250), Code: **[https://github.com/tavihalperin/AV-sync](https://github.com/tavihalperin/AV-sync)**
 - 2022-04-13, **Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions**, Zipeng Ye et.al., Paper: [http://arxiv.org/abs/2204.06180](http://arxiv.org/abs/2204.06180)
 - 2020-10-05, **Dynamic Facial Asset and Rig Generation from a Single Scan**, Jiaman Li et.al., Paper: [http://arxiv.org/abs/2010.00560](http://arxiv.org/abs/2010.00560)
+- 2026-08-18, **DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation**, Yubo Huang et.al., Paper: [http://arxiv.org/abs/2608.17707](http://arxiv.org/abs/2608.17707)
 - 2025-12-30, **DyStream: Streaming Dyadic Talking Heads Generation via Flow Matching-based Autoregressive Model**, Bohong Chen et.al., Paper: [http://arxiv.org/abs/2512.24408](http://arxiv.org/abs/2512.24408)
 - 2025-09-04, **Durian: Dual Reference-guided Portrait Animation with Attribute Transfer**, Hyunsoo Cha et.al., Paper: [http://arxiv.org/abs/2509.04434](http://arxiv.org/abs/2509.04434)
 - 2022-12-23, **Dubbing in Practice: A Large Scale Study of Human Localization With Insights for Automatic Dubbing**, William Brannon et.al., Paper: [http://arxiv.org/abs/2212.12137](http://arxiv.org/abs/2212.12137)
