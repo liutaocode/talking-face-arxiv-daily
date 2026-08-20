@@ -25,6 +25,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-19**|**EfficientSync: Real-Time Lip Synchronization via Deformation-Based Reference Texture Mixing**|Fa-Ting Hong et.al.|[2608.18832](http://arxiv.org/abs/2608.18832)|null|
 |**2026-08-18**|**DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation**|Yubo Huang et.al.|[2608.17707](http://arxiv.org/abs/2608.17707)|null|
 |**2026-08-17**|**SingDance: Compositional Zero-Shot Singing-and-Dancing Video Generation with Role-Aware Audio Conditioning**|Tao Feng et.al.|[2608.16220](http://arxiv.org/abs/2608.16220)|null|
 |**2026-08-17**|**AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model**|Kwan Yun et.al.|[2608.16143](http://arxiv.org/abs/2608.16143)|null|

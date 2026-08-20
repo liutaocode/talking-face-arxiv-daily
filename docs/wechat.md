@@ -802,6 +802,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-04-29, **Embedded Representation Learning Network for Animating Styled Video Portrait**, Tianyong Wang et.al., Paper: [http://arxiv.org/abs/2404.19038](http://arxiv.org/abs/2404.19038)
 - 2026-03-08, **EmbedTalk: Triplane-Free Talking Head Synthesis using Embedding-Driven Gaussian Deformation**, Arpita Saggar et.al., Paper: [http://arxiv.org/abs/2603.07604](http://arxiv.org/abs/2603.07604)
 - 2021-07-07, **Egocentric Videoconferencing**, Mohamed Elgharib et.al., Paper: [http://arxiv.org/abs/2107.03109](http://arxiv.org/abs/2107.03109)
+- 2026-08-19, **EfficientSync: Real-Time Lip Synchronization via Deformation-Based Reference Texture Mixing**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2608.18832](http://arxiv.org/abs/2608.18832)
 - 2022-03-16, **Efficient conditioned face animation using frontally-viewed embedding**, Maxime Oquab et.al., Paper: [http://arxiv.org/abs/2203.08765](http://arxiv.org/abs/2203.08765)
 - 2025-12-29, **Efficient and Robust Video Defense Framework against 3D-field Personalized Talking Face**, Rui-qing Sun et.al., Paper: [http://arxiv.org/abs/2512.21019](http://arxiv.org/abs/2512.21019)
 - 2023-08-24, **Efficient Region-Aware Neural Radiance Fields for High-Fidelity Talking Portrait Synthesis**, Jiahe Li et.al., Paper: [http://arxiv.org/abs/2307.09323](http://arxiv.org/abs/2307.09323), Code: **[https://github.com/fictionarry/er-nerf](https://github.com/fictionarry/er-nerf)**
