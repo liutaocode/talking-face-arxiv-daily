@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.09.09
+### Automatically Updated on 2026.09.10
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Decoupled Self-Forcing Distillation for Streaming Talking Head Generation**|Yanru An et.al.|[2609.10317](http://arxiv.org/abs/2609.10317)|null|
 |**2026-09-05**|**TBDub: Production-Oriented Visual Dubbing**|Bihan Li et.al.|[2609.06144](http://arxiv.org/abs/2609.06144)|null|
 |**2026-08-31**|**Audio-Driven Adversarial Defense for 3D Talking Face Generation with totally Visual Fidelity Preservation**|Rui-Qing Sun et.al.|[2608.30951](http://arxiv.org/abs/2608.30951)|null|
 |**2026-08-23**|**Multiple View Neural Regression of a Facial Shape Model**|Xiang Li et.al.|[2608.22655](http://arxiv.org/abs/2608.22655)|null|
