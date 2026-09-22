@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.09.21
+> Updated on 2026.09.22
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -548,7 +548,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-13, **LIA-X: Interpretable Latent Portrait Animator**, Yaohui Wang et.al., Paper: [http://arxiv.org/abs/2508.09959](http://arxiv.org/abs/2508.09959)
 - 2021-04-07, **LI-Net: Large-Pose Identity-Preserving Face Reenactment Network**, Jin Liu et.al., Paper: [http://arxiv.org/abs/2104.02850](http://arxiv.org/abs/2104.02850)
 - 2024-11-14, **LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space**, Guanwen Feng et.al., Paper: [http://arxiv.org/abs/2411.09268](http://arxiv.org/abs/2411.09268)
-- 2026-09-17, **KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark**, Hyunjung Chung et.al., Paper: [http://arxiv.org/abs/2609.19840](http://arxiv.org/abs/2609.19840)
+- 2026-09-20, **KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark**, Hyunjung Chung et.al., Paper: [http://arxiv.org/abs/2609.19840](http://arxiv.org/abs/2609.19840)
 - 2021-08-23, **KoDF: A Large-scale Korean DeepFake Detection Dataset**, Patrick Kwon et.al., Paper: [http://arxiv.org/abs/2103.10094](http://arxiv.org/abs/2103.10094)
 - 2025-12-29, **Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation**, Steven Xiao et.al., Paper: [http://arxiv.org/abs/2512.21734](http://arxiv.org/abs/2512.21734)
 - 2025-12-15, **KlingAvatar 2.0 Technical Report**, Kling Team et.al., Paper: [http://arxiv.org/abs/2512.13313](http://arxiv.org/abs/2512.13313)
@@ -633,6 +633,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2023-07-19, **Hierarchical Semantic Perceptual Listener Head Video Generation: A High-performance Pipeline**, Zhigang Chang et.al., Paper: [http://arxiv.org/abs/2307.09821](http://arxiv.org/abs/2307.09821)
 - 2019-05-09, **Hierarchical Cross-Modal Talking Face Generationwith Dynamic Pixel-Wise Loss**, Lele Chen et.al., Paper: [http://arxiv.org/abs/1905.03820](http://arxiv.org/abs/1905.03820), Code: **[https://github.com/lelechen63/ATVGnet](https://github.com/lelechen63/ATVGnet)**
 - 2026-04-17, **Hierarchical Codec Diffusion for Video-to-Speech Generation**, Jiaxin Ye et.al., Paper: [http://arxiv.org/abs/2604.15923](http://arxiv.org/abs/2604.15923)
+- 2026-09-07, **Hi-Singers: A Comprehensive High-Quality Dataset for Expressive Audio-Driven Singing Head Synthesis**, Yichi Zhang et.al., Paper: [http://arxiv.org/abs/2609.22264](http://arxiv.org/abs/2609.22264)
 - 2026-01-05, **HeadLighter: Disentangling Illumination in Generative 3D Gaussian Heads via Lightstage Captures**, Yating Wang et.al., Paper: [http://arxiv.org/abs/2601.02103](http://arxiv.org/abs/2601.02103)
 - 2021-08-23, **HeadGAN: One-shot Neural Head Synthesis and Editing**, Michail Christos Doukas et.al., Paper: [http://arxiv.org/abs/2012.08261](http://arxiv.org/abs/2012.08261)
 - 2020-05-22, **Head2Head: Video-based Neural Head Synthesis**, Mohammad Rami Koujan et.al., Paper: [http://arxiv.org/abs/2005.10954](http://arxiv.org/abs/2005.10954)
@@ -946,6 +947,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-10-07, **Compressing Video Calls using Synthetic Talking Heads**, Madhav Agarwal et.al., Paper: [http://arxiv.org/abs/2210.03692](http://arxiv.org/abs/2210.03692)
 - 2025-06-17, **Compressed Video Super-Resolution based on Hierarchical Encoding**, Yuxuan Jiang et.al., Paper: [http://arxiv.org/abs/2506.14381](http://arxiv.org/abs/2506.14381)
 - 2024-07-04, **Compressed Skinning for Facial Blendshapes**, Ladislav Kavan et.al., Paper: [http://arxiv.org/abs/2406.11597](http://arxiv.org/abs/2406.11597)
+- 2026-09-13, **Complementary rPPG-Derived and Lip-Region Frequency Cues for Talking-Face Deepfake Detection**, Othmane Harraq et.al., Paper: [http://arxiv.org/abs/2609.22284](http://arxiv.org/abs/2609.22284)
 - 2025-09-24, **Comparative Study of Subjective Video Quality Assessment Test Methods in Crowdsourcing for Varied Use Cases**, Babak Naderi et.al., Paper: [http://arxiv.org/abs/2509.20118](http://arxiv.org/abs/2509.20118)
 - 2024-11-20, **Comparative Analysis of Audio Feature Extraction for Real-Time Talking Portrait Synthesis**, Pegah Salehi et.al., Paper: [http://arxiv.org/abs/2411.13209](http://arxiv.org/abs/2411.13209), Code: **[https://github.com/pegahs1993/whisper-afe-talkingheadsgen](https://github.com/pegahs1993/whisper-afe-talkingheadsgen)**
 - 2026-05-27, **CogPortrait: Fine-Grained Eye-Region Control in Portrait Animation via Hierarchical Agent Planning**, He Feng et.al., Paper: [http://arxiv.org/abs/2605.28056](http://arxiv.org/abs/2605.28056)
@@ -1060,6 +1062,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-12-22, **ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars**, Ziqiao Peng et.al., Paper: [http://arxiv.org/abs/2512.19546](http://arxiv.org/abs/2512.19546)
 - 2021-09-20, **Accurate, Interpretable, and Fast Animation: An Iterative, Sparse, and Nonconvex Approach**, Stevo Rackovic et.al., Paper: [http://arxiv.org/abs/2109.08356](http://arxiv.org/abs/2109.08356)
 - 2023-03-27, **Accurate and Interpretable Solution of the Inverse Rig for Realistic Blendshape Models with Quadratic Corrective Terms**, Stevo Racković et.al., Paper: [http://arxiv.org/abs/2302.04843](http://arxiv.org/abs/2302.04843)
+- 2026-09-19, **AVTR-1: Open Stack for Real-Time Interactive Avatars**, Artem Kravtsov et.al., Paper: [http://arxiv.org/abs/2609.22913](http://arxiv.org/abs/2609.22913)
 - 2024-02-25, **AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**, Yasheng Sun et.al., Paper: [http://arxiv.org/abs/2402.16124](http://arxiv.org/abs/2402.16124)
 - 2025-02-18, **AV-Flow: Transforming Text to Audio-Visual Human-like Interactions**, Aggelina Chatziagapi et.al., Paper: [http://arxiv.org/abs/2502.13133](http://arxiv.org/abs/2502.13133)
 - 2026-02-10, **AUHead: Realistic Emotional Talking Head Generation via Action Units Control**, Jiayi Lyu et.al., Paper: [http://arxiv.org/abs/2602.09534](http://arxiv.org/abs/2602.09534)
@@ -1109,7 +1112,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1277,7 +1280,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 Notes: 
 

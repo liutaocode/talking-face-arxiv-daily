@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.09.21
+### Automatically Updated on 2026.09.22
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -25,9 +25,12 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-17**|**KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark**|Hyunjung Chung et.al.|[2609.19840](http://arxiv.org/abs/2609.19840)|null|
+|**2026-09-20**|**KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark**|Hyunjung Chung et.al.|[2609.19840](http://arxiv.org/abs/2609.19840)|null|
+|**2026-09-19**|**AVTR-1: Open Stack for Real-Time Interactive Avatars**|Artem Kravtsov et.al.|[2609.22913](http://arxiv.org/abs/2609.22913)|null|
 |**2026-09-16**|**VibeAvatar: Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis**|Qilin Wang et.al.|[2609.18632](http://arxiv.org/abs/2609.18632)|null|
+|**2026-09-13**|**Complementary rPPG-Derived and Lip-Region Frequency Cues for Talking-Face Deepfake Detection**|Othmane Harraq et.al.|[2609.22284](http://arxiv.org/abs/2609.22284)|null|
 |**2026-09-09**|**Decoupled Self-Forcing Distillation for Streaming Talking Head Generation**|Yanru An et.al.|[2609.10317](http://arxiv.org/abs/2609.10317)|null|
+|**2026-09-07**|**Hi-Singers: A Comprehensive High-Quality Dataset for Expressive Audio-Driven Singing Head Synthesis**|Yichi Zhang et.al.|[2609.22264](http://arxiv.org/abs/2609.22264)|null|
 |**2026-09-05**|**TBDub: Production-Oriented Visual Dubbing**|Bihan Li et.al.|[2609.06144](http://arxiv.org/abs/2609.06144)|null|
 |**2026-08-31**|**Audio-Driven Adversarial Defense for 3D Talking Face Generation with totally Visual Fidelity Preservation**|Rui-Qing Sun et.al.|[2608.30951](http://arxiv.org/abs/2608.30951)|null|
 |**2026-08-23**|**Multiple View Neural Regression of a Facial Shape Model**|Xiang Li et.al.|[2608.22655](http://arxiv.org/abs/2608.22655)|null|
@@ -1109,7 +1112,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2012-01-19**|**Progress in animation of an EMA-controlled tongue model for acoustic-visual speech synthesis**|Ingmar Steiner et.al.|[1201.4080](http://arxiv.org/abs/1201.4080)|null|
 |**2010-03-01**|**Re-verification of a Lip Synchronization Protocol using Robust Reachability**|Piotr Kordy et.al.|[1003.0431](http://arxiv.org/abs/1003.0431)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1280,7 +1283,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 |**2013-01-25**|**Measurements of Martian Dust Devil Winds with HiRISE**|David S. Choi et.al.|[1301.6130](http://arxiv.org/abs/1301.6130)|null|
 |**2010-01-04**|**Tutoring System for Dance Learning**|Rajkumar Kannan et.al.|[1001.0440](http://arxiv.org/abs/1001.0440)|null|
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 Notes: 
 
