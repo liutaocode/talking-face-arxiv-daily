@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.09.22
+### Automatically Updated on 2026.09.23
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Not Quite My Tempo: Voice Activity-aware Speech Synthesis for Lip-Synchronous Dubbing**|Alejandro Pérez-González-de-Martos et.al.|[2609.26486](http://arxiv.org/abs/2609.26486)|null|
 |**2026-09-20**|**KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark**|Hyunjung Chung et.al.|[2609.19840](http://arxiv.org/abs/2609.19840)|null|
 |**2026-09-19**|**AVTR-1: Open Stack for Real-Time Interactive Avatars**|Artem Kravtsov et.al.|[2609.22913](http://arxiv.org/abs/2609.22913)|null|
 |**2026-09-16**|**VibeAvatar: Aligning Phonetic Kinematics and Human Aesthetics for High-Fidelity Talking Avatar Synthesis**|Qilin Wang et.al.|[2609.18632](http://arxiv.org/abs/2609.18632)|null|
