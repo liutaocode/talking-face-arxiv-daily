@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.09.27
+### Automatically Updated on 2026.09.28
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Where and When to Force: Routed Forcing for Streaming Avatars**|Zihan Su et.al.|[2609.30963](http://arxiv.org/abs/2609.30963)|null|
+|**2026-09-24**|**Seeing Speech: Learning Visible Articulatory Dynamics for Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2609.30517](http://arxiv.org/abs/2609.30517)|null|
 |**2026-09-24**|**ComplexSync: High-Fidelity and Real-Time Lip Sync in Complex Scenarios**|Jiaran Cai et.al.|[2609.29225](http://arxiv.org/abs/2609.29225)|null|
 |**2026-09-24**|**Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond**|Yiqian Yang et.al.|[2609.27650](http://arxiv.org/abs/2609.27650)|null|
 |**2026-09-23**|**"What I See is What I Hear": Deepfake Detection Across Diverse Hearing Abilities**|Magdalena Pasternak et.al.|[2609.28659](http://arxiv.org/abs/2609.28659)|null|
