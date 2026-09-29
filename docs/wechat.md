@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.09.28
+> Updated on 2026.09.29
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -88,6 +88,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-12-26, **UniAvatar: Taming Lifelike Audio-Driven Talking Head Generation with Comprehensive Motion and Lighting Control**, Wenzhang Sun et.al., Paper: [http://arxiv.org/abs/2412.19860](http://arxiv.org/abs/2412.19860)
 - 2025-11-05, **UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal Interactions**, Guozhen Zhang et.al., Paper: [http://arxiv.org/abs/2511.03334](http://arxiv.org/abs/2511.03334)
 - 2025-11-17, **Uni-Hand: Universal Hand Motion Forecasting in Egocentric Views**, Junyi Ma et.al., Paper: [http://arxiv.org/abs/2511.12878](http://arxiv.org/abs/2511.12878)
+- 2026-09-28, **Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**, Jihoo Jung et.al., Paper: [http://arxiv.org/abs/2609.34223](http://arxiv.org/abs/2609.34223)
 - 2026-01-27, **Uncertainty-Aware 3D Emotional Talking Face Synthesis with Emotion Prior Distillation**, Nanhan Shen et.al., Paper: [http://arxiv.org/abs/2601.19112](http://arxiv.org/abs/2601.19112)
 - 2026-05-14, **UMo: Unified Sparse Motion Modeling for Real-Time Co-Speech Avatars**, Xiaoyu Zhan et.al., Paper: [http://arxiv.org/abs/2605.14731](http://arxiv.org/abs/2605.14731)
 - 2022-04-03, **Txt2Vid: Ultra-Low Bitrate Compression of Talking-Head Videos via Text**, Pulkit Tandon et.al., Paper: [http://arxiv.org/abs/2106.14014](http://arxiv.org/abs/2106.14014), Code: **[https://github.com/tpulkit/txt2vid](https://github.com/tpulkit/txt2vid)**
@@ -603,6 +604,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-27, **Improving Generalization in Deepfake Detection with Face Foundation Models and Metric Learning**, Stelios Mylonas et.al., Paper: [http://arxiv.org/abs/2508.19730](http://arxiv.org/abs/2508.19730)
 - 2023-03-09, **Improving Few-Shot Learning for Talking Face System with TTS Data Augmentation**, Qi Chen et.al., Paper: [http://arxiv.org/abs/2303.05322](http://arxiv.org/abs/2303.05322), Code: **[https://github.com/moon0316/t2a](https://github.com/moon0316/t2a)**
 - 2016-05-22, **Improving Facial Analysis and Performance Driven Animation through Disentangling Identity and Expression**, David Rim et.al., Paper: [http://arxiv.org/abs/1512.08212](http://arxiv.org/abs/1512.08212)
+- 2026-09-25, **Improving Audiovisual Speech Recognition through Synthetic Visual Data Augmentation**, Pol Buitrago et.al., Paper: [http://arxiv.org/abs/2609.31961](http://arxiv.org/abs/2609.31961)
 - 2024-01-26, **Implicit Neural Representation for Physics-driven Actuated Soft Bodies**, Lingchen Yang et.al., Paper: [http://arxiv.org/abs/2401.14861](http://arxiv.org/abs/2401.14861)
 - 2023-04-21, **Implicit Neural Head Synthesis via Controllable Local Deformation Fields**, Chuhan Chen et.al., Paper: [http://arxiv.org/abs/2304.11113](http://arxiv.org/abs/2304.11113)
 - 2023-08-18, **Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation**, Fa-Ting Hong et.al., Paper: [http://arxiv.org/abs/2307.09906](http://arxiv.org/abs/2307.09906), Code: **[https://github.com/harlanhong/iccv2023-mcnet](https://github.com/harlanhong/iccv2023-mcnet)**
@@ -700,6 +702,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2024-03-12, **FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization**, Shuai Tan et.al., Paper: [http://arxiv.org/abs/2403.06375](http://arxiv.org/abs/2403.06375)
 - 2026-02-25, **FlowPortrait: Reinforcement Learning for Audio-Driven Portrait Video Generation**, Weiting Tan et.al., Paper: [http://arxiv.org/abs/2603.00159](http://arxiv.org/abs/2603.00159)
 - 2025-05-02, **FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**, Gaoxiang Cong et.al., Paper: [http://arxiv.org/abs/2505.01263](http://arxiv.org/abs/2505.01263)
+- 2026-09-28, **FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning**, Ziyao Huang et.al., Paper: [http://arxiv.org/abs/2609.35728](http://arxiv.org/abs/2609.35728)
 - 2025-12-17, **FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision**, Tobias Kirschstein et.al., Paper: [http://arxiv.org/abs/2512.15599](http://arxiv.org/abs/2512.15599)
 - 2025-12-18, **FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction**, Shuyuan Tu et.al., Paper: [http://arxiv.org/abs/2512.16900](http://arxiv.org/abs/2512.16900)
 - 2025-12-23, **FlashLips: 100-FPS Mask-Free Latent Lip-Sync using Reconstruction Instead of Diffusion or GANs**, Andreas Zinonos et.al., Paper: [http://arxiv.org/abs/2512.20033](http://arxiv.org/abs/2512.20033)
@@ -1118,7 +1121,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1286,7 +1289,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 Notes: 
 

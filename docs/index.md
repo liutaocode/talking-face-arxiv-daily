@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.09.28
+### Automatically Updated on 2026.09.29
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning**|Ziyao Huang et.al.|[2609.35728](http://arxiv.org/abs/2609.35728)|null|
+|**2026-09-28**|**Uncovering Ordinal-Matching Bias in Audio-Visual LLMs**|Jihoo Jung et.al.|[2609.34223](http://arxiv.org/abs/2609.34223)|null|
+|**2026-09-25**|**Improving Audiovisual Speech Recognition through Synthetic Visual Data Augmentation**|Pol Buitrago et.al.|[2609.31961](http://arxiv.org/abs/2609.31961)|null|
 |**2026-09-25**|**Where and When to Force: Routed Forcing for Streaming Avatars**|Zihan Su et.al.|[2609.30963](http://arxiv.org/abs/2609.30963)|null|
 |**2026-09-24**|**Seeing Speech: Learning Visible Articulatory Dynamics for Speech-Driven 3D Facial Animation**|Hyung Kyu Kim et.al.|[2609.30517](http://arxiv.org/abs/2609.30517)|null|
 |**2026-09-24**|**ComplexSync: High-Fidelity and Real-Time Lip Sync in Complex Scenarios**|Jiaran Cai et.al.|[2609.29225](http://arxiv.org/abs/2609.29225)|null|
