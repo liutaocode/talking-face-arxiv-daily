@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.10.14
+> Updated on 2026.10.15
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -573,6 +573,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-05-01, **KeySync: A Robust Approach for Leakage-free Lip Synchronization in High Resolution**, Antoni Bigata et.al., Paper: [http://arxiv.org/abs/2505.00497](http://arxiv.org/abs/2505.00497)
 - 2025-03-03, **KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation**, Antoni Bigata et.al., Paper: [http://arxiv.org/abs/2503.01715](http://arxiv.org/abs/2503.01715)
 - 2017-07-30, **Kernel Projection of Latent Structures Regression for Facial Animation Retargeting**, Christos Ouzounis et.al., Paper: [http://arxiv.org/abs/1707.09629](http://arxiv.org/abs/1707.09629)
+- 2026-10-13, **Kandinsky S2V 1.0: Audio-Driven Avatar Video Generation**, Nikolay Semenov et.al., Paper: [http://arxiv.org/abs/2610.19290](http://arxiv.org/abs/2610.19290)
 - 2026-10-04, **Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation**, Team Kandinsky et.al., Paper: [http://arxiv.org/abs/2610.05608](http://arxiv.org/abs/2610.05608)
 - 2025-09-24, **KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation**, Tianle Lyu et.al., Paper: [http://arxiv.org/abs/2509.20128](http://arxiv.org/abs/2509.20128)
 - 2024-09-02, **KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding**, Zhihao Xu et.al., Paper: [http://arxiv.org/abs/2409.01113](http://arxiv.org/abs/2409.01113), Code: **[https://github.com/ffxzh/kmtalk](https://github.com/ffxzh/kmtalk)**
@@ -1143,7 +1144,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1312,7 +1313,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
 
 Notes: 
 
