@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.10.15
+### Automatically Updated on 2026.10.16
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -1144,6 +1144,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
 |**2026-10-13**|**WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation**|Sangeyl Lee et.al.|[2609.36937](http://arxiv.org/abs/2609.36937)|null|
 |**2026-08-27**|**EditaLive! Unified Character Video Editing for Live Streaming**|Zhiyuan Li et.al.|[2608.27123](http://arxiv.org/abs/2608.27123)|null|
 |**2026-08-08**|**Wan-Animate-2: Pushing the Application Boundaries of Character Animation**|Guangyuan Wang et.al.|[2608.06009](http://arxiv.org/abs/2608.06009)|null|
