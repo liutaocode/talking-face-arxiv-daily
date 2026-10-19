@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.10.18
+### Automatically Updated on 2026.10.19
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**LiveSync: Iterative Self-Training for Lip-Sync Generation**|Huaishao Luo et.al.|[2610.23558](http://arxiv.org/abs/2610.23558)|null|
+|**2026-10-15**|**JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents**|Junseok Ahn et.al.|[2610.22499](http://arxiv.org/abs/2610.22499)|null|
 |**2026-10-13**|**Kandinsky S2V 1.0: Audio-Driven Avatar Video Generation**|Nikolay Semenov et.al.|[2610.19290](http://arxiv.org/abs/2610.19290)|null|
 |**2026-10-13**|**Physics-Aware Deepfake Detection via Distance-Speech Consistency**|Kyeongrae Kim et.al.|[2610.18485](http://arxiv.org/abs/2610.18485)|null|
 |**2026-10-13**|**CrossPortrait: Cross-Species Portrait Animation via Adversarial Motion Alignment**|Gezhong Pan et.al.|[2610.17532](http://arxiv.org/abs/2610.17532)|null|
