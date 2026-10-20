@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.10.19
+### Automatically Updated on 2026.10.20
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,11 +21,13 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**CrossPortrait: Cross-Species Portrait Animation via Adversarial Motion Alignment**|Gezhong Pan et.al.|[2610.17532](http://arxiv.org/abs/2610.17532)|null|
+|**2026-10-18**|**CASE: Complementary Articulation-Aware Speech Encoder to Enhance Speech-Driven 3D Facial Animation**|Jaehong Myung et.al.|[2610.25342](http://arxiv.org/abs/2610.25342)|null|
+|**2026-10-18**|**VoxDub: A Bilingual Lip-Synchronized Audio-Visual Dataset for Automatic Video Dubbing**|Kaidi Wang et.al.|[2610.25259](http://arxiv.org/abs/2610.25259)|null|
 |**2026-10-16**|**LiveSync: Iterative Self-Training for Lip-Sync Generation**|Huaishao Luo et.al.|[2610.23558](http://arxiv.org/abs/2610.23558)|null|
 |**2026-10-15**|**JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents**|Junseok Ahn et.al.|[2610.22499](http://arxiv.org/abs/2610.22499)|null|
 |**2026-10-13**|**Kandinsky S2V 1.0: Audio-Driven Avatar Video Generation**|Nikolay Semenov et.al.|[2610.19290](http://arxiv.org/abs/2610.19290)|null|
 |**2026-10-13**|**Physics-Aware Deepfake Detection via Distance-Speech Consistency**|Kyeongrae Kim et.al.|[2610.18485](http://arxiv.org/abs/2610.18485)|null|
-|**2026-10-13**|**CrossPortrait: Cross-Species Portrait Animation via Adversarial Motion Alignment**|Gezhong Pan et.al.|[2610.17532](http://arxiv.org/abs/2610.17532)|null|
 |**2026-10-10**|**CatPortrait: Taming Video Generative Models for Portrait Animation via In-context Conditioning**|Ziqi Ni et.al.|[2610.14957](http://arxiv.org/abs/2610.14957)|null|
 |**2026-10-09**|**RoboFake: Are Deepfake Detectors Ready for Humanoid Face Robots?**|Hao Chen et.al.|[2610.14269](http://arxiv.org/abs/2610.14269)|null|
 |**2026-10-09**|**Talk, Render, Act: Integrating Social Gesture and Digital Face with Synchronized Speech for Conversational Humanoid Robot**|Jin Jiang et.al.|[2610.06153](http://arxiv.org/abs/2610.06153)|null|
@@ -1146,8 +1148,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation**|Sangeyl Lee et.al.|[2609.36937](http://arxiv.org/abs/2609.36937)|null|
 |**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
-|**2026-10-13**|**WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation**|Sangeyl Lee et.al.|[2609.36937](http://arxiv.org/abs/2609.36937)|null|
 |**2026-08-27**|**EditaLive! Unified Character Video Editing for Live Streaming**|Zhiyuan Li et.al.|[2608.27123](http://arxiv.org/abs/2608.27123)|null|
 |**2026-08-08**|**Wan-Animate-2: Pushing the Application Boundaries of Character Animation**|Guangyuan Wang et.al.|[2608.06009](http://arxiv.org/abs/2608.06009)|null|
 |**2026-08-01**|**3D Scene-Adaptive Trajectory-Controllable Human Image Animation with Camera Movement**|Deyin Liu et.al.|[2606.30514](http://arxiv.org/abs/2606.30514)|null|
