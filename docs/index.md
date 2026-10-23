@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.10.22
+### Automatically Updated on 2026.10.23
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,9 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**Lip-Focused Audio-Visual Consistency Detects Speech Content Manipulation beyond Coarse Synchronization**|Jian Zong et.al.|[2610.30872](http://arxiv.org/abs/2610.30872)|null|
+|**2026-10-22**|**GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis**|Henglei Lv et.al.|[2610.30619](http://arxiv.org/abs/2610.30619)|null|
+|**2026-10-21**|**HeyGen Voice: Scene-Aware Voice Cloning for Talking Videos**|Pavel Andreev et.al.|[2610.30470](http://arxiv.org/abs/2610.30470)|null|
 |**2026-10-19**|**CrossPortrait: Cross-Species Portrait Animation via Adversarial Motion Alignment**|Gezhong Pan et.al.|[2610.17532](http://arxiv.org/abs/2610.17532)|null|
 |**2026-10-19**|**RoboFake: Are Deepfake Detectors Ready for Humanoid Face Robots?**|Hao Chen et.al.|[2610.14269](http://arxiv.org/abs/2610.14269)|null|
 |**2026-10-18**|**CASE: Complementary Articulation-Aware Speech Encoder to Enhance Speech-Driven 3D Facial Animation**|Jaehong Myung et.al.|[2610.25342](http://arxiv.org/abs/2610.25342)|null|
