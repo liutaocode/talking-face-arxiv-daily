@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.10.29
+### Automatically Updated on 2026.10.30
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**PicturePerfect: Diffusion-based Same-identity Facial Replacement**|Manik Dhingra et.al.|[2610.39344](http://arxiv.org/abs/2610.39344)|null|
 |**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](http://arxiv.org/abs/2610.33413)|null|
 |**2026-10-22**|**AudioLift: Audio-Driven Single Image to Full-Head Gaussian Avatar via Multi-view Video Generation**|Zhuoyuan Jiang et.al.|[2610.31747](http://arxiv.org/abs/2610.31747)|null|
 |**2026-10-22**|**Lip-Focused Audio-Visual Consistency Detects Speech Content Manipulation beyond Coarse Synchronization**|Jian Zong et.al.|[2610.30872](http://arxiv.org/abs/2610.30872)|null|
