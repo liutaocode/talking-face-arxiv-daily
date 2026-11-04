@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.11.03
+### Automatically Updated on 2026.11.04
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,8 +21,8 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**TaoMate-FVSR: Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
 |**2026-11-02**|**VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing**|Yexin Liu et.al.|[2611.03404](http://arxiv.org/abs/2611.03404)|null|
-|**2026-11-02**|**TaoMate-FVSR:Audio-Guided Facial Video Restoration**|Xinyang Li et.al.|[2611.03393](http://arxiv.org/abs/2611.03393)|null|
 |**2026-10-30**|**VC-1K: A Diverse Video Test Set for Real-Time Communication**|Yu-Chen Sun et.al.|[2611.00192](http://arxiv.org/abs/2611.00192)|null|
 |**2026-10-29**|**PicturePerfect: Diffusion-based Same-identity Facial Replacement**|Manik Dhingra et.al.|[2610.39344](http://arxiv.org/abs/2610.39344)|null|
 |**2026-10-24**|**AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos**|Yuesheng Huang et.al.|[2610.33413](http://arxiv.org/abs/2610.33413)|null|
