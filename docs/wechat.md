@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-> Updated on 2026.11.10
+> Updated on 2026.11.11
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -327,6 +327,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2025-08-07, **RAP: Real-time Audio-driven Portrait Animation with Video Diffusion Transformer**, Fangyu Du et.al., Paper: [http://arxiv.org/abs/2508.05115](http://arxiv.org/abs/2508.05115)
 - 2023-11-06, **RADIO: Reference-Agnostic Dubbing Video Synthesis**, Dongyeun Lee et.al., Paper: [http://arxiv.org/abs/2309.01950](http://arxiv.org/abs/2309.01950)
 - 2023-12-09, **R2-Talker: Realistic Real-Time Talking Head Synthesis with Hash Grid Landmarks Encoding and Progressive Multilayer Conditioning**, Zhiling Ye et.al., Paper: [http://arxiv.org/abs/2312.05572](http://arxiv.org/abs/2312.05572)
+- 2026-11-10, **Pulse or Provenance? What rPPG-Based Deepfake Detectors Learn**, Othmane Harraq et.al., Paper: [http://arxiv.org/abs/2611.13992](http://arxiv.org/abs/2611.13992)
 - 2026-08-03, **Proxy Avatar Meets Low-Rank Caching: Real-Time One-Shot Emotion-Controllable Portrait Animation**, Haijie Yang et.al., Paper: [http://arxiv.org/abs/2608.01978](http://arxiv.org/abs/2608.01978)
 - 2019-08-20, **Prosodic Phrase Alignment for Machine Dubbing**, Alp Öktem et.al., Paper: [http://arxiv.org/abs/1908.07226](http://arxiv.org/abs/1908.07226), Code: **[https://github.com/alpoktem/MachineDub](https://github.com/alpoktem/MachineDub)**
 - 2022-11-26, **Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis**, Duomin Wang et.al., Paper: [http://arxiv.org/abs/2211.14506](http://arxiv.org/abs/2211.14506), Code: **[https://github.com/Dorniwang/PD-FGC-inference](https://github.com/Dorniwang/PD-FGC-inference)**
@@ -1160,7 +1161,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2020-08-29, **"It took me almost 30 minutes to practice this". Performance and Production Practices in Dance Challenge Videos on TikTok**, Daniel Klug et.al., Paper: [http://arxiv.org/abs/2008.13040](http://arxiv.org/abs/2008.13040)
 - 2025-09-22, **"I don't like my avatar": Investigating Human Digital Doubles**, Siyi Liu et.al., Paper: [http://arxiv.org/abs/2509.17748](http://arxiv.org/abs/2509.17748)
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 ## Image Animation
 
@@ -1330,7 +1331,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 - 2022-03-25, **3D GAN Inversion for Controllable Portrait Image Animation**, Connor Z. Lin et.al., Paper: [http://arxiv.org/abs/2203.13441](http://arxiv.org/abs/2203.13441)
 - 2023-03-10, **3D Cinemagraphy from a Single Image**, Xingyi Li et.al., Paper: [http://arxiv.org/abs/2303.05724](http://arxiv.org/abs/2303.05724)
 
-<p align=right>(<a href=#updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261111>back to top</a>)</p>
 
 Notes: 
 

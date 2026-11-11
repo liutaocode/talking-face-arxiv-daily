@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.11.10
+### Automatically Updated on 2026.11.11
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Pulse or Provenance? What rPPG-Based Deepfake Detectors Learn**|Othmane Harraq et.al.|[2611.13992](http://arxiv.org/abs/2611.13992)|null|
 |**2026-11-09**|**MUTE: Multi-Level Alignment Uncoupling Against Talking-Head Exploitation for Voice Protection**|Donghyun Kim et.al.|[2611.11989](http://arxiv.org/abs/2611.11989)|null|
 |**2026-11-06**|**Emo-LiveSync: Real-Time Universal Lip Synchronization with Explicit Emotion Control**|Sangjoon Yu et.al.|[2611.09074](http://arxiv.org/abs/2611.09074)|null|
 |**2026-11-03**|**Runway Characters: Serving a 57B Video Diffusion Transformer for Real-Time Conversation**|Rohan Agarwal et.al.|[2611.05642](http://arxiv.org/abs/2611.05642)|null|
