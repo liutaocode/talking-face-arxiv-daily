@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.11.23
+### Automatically Updated on 2026.11.24
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-21**|**StudioBench: Benchmarking Agentic Multimodal Large Language Models for Productive Audiovisual Creation**|Xinglong Xu et.al.|[2611.28902](http://arxiv.org/abs/2611.28902)|null|
 |**2026-11-19**|**AURA: AUdio-dRiven streaming Avatar**|Nathaniel Cohen et.al.|[2611.26540](http://arxiv.org/abs/2611.26540)|null|
 |**2026-11-15**|**AIFR: Adaptive Identity Feature Recovery for Diffusion-Based Makeup and Anime Portraits**|Linyan Dai et.al.|[2611.15764](http://arxiv.org/abs/2611.15764)|null|
 |**2026-11-13**|**Découpage: Directorial Audio-Visual Control for Long Multi-Shot Video Generation**|Yifan Wang et.al.|[2611.18866](http://arxiv.org/abs/2611.18866)|null|
@@ -1165,6 +1166,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-19**|**SceneTether: Activity-Gated Value Anchoring for Long-Horizon Autoregressive Image Animation**|Matiur Rahman Minar et.al.|[2611.28134](http://arxiv.org/abs/2611.28134)|null|
 |**2026-10-19**|**WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation**|Sangeyl Lee et.al.|[2609.36937](http://arxiv.org/abs/2609.36937)|null|
 |**2026-10-15**|**Edit4D: Editable 4D Scene Generation with Textual Control**|Chanwoo Kim et.al.|[2610.21668](http://arxiv.org/abs/2610.21668)|null|
 |**2026-08-27**|**EditaLive! Unified Character Video Editing for Live Streaming**|Zhiyuan Li et.al.|[2608.27123](http://arxiv.org/abs/2608.27123)|null|
