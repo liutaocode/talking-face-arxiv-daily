@@ -8,7 +8,7 @@ layout: default
 [![Issues][issues-shield]][issues-url]
 
 # Talking-Face Research Papers
-### Automatically Updated on 2026.11.25
+### Automatically Updated on 2026.11.26
 Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face Genertation`, `Lip Sync`, `Talker`, `Portrait`, `Talking Video`, `Head Synthesis`, `Face Reenactment`, `Wav2Lip`, `Talking Avatar`, `Lip Generation`, `Lip-Synchronization`, `Portrait Animation`, `Facial Animation`, `Lip Expert`
 
 > If you have any other keywords, please feel free to let us know :) 
@@ -21,6 +21,7 @@ Current Search Keywords: `Talking Face`, `Talking Head`, `Visual Dubbing`, `Face
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies**|Yipengjing Sun et.al.|[2611.34940](http://arxiv.org/abs/2611.34940)|null|
 |**2026-11-21**|**StudioBench: Benchmarking Agentic Multimodal Large Language Models for Productive Audiovisual Creation**|Xinglong Xu et.al.|[2611.28902](http://arxiv.org/abs/2611.28902)|null|
 |**2026-11-19**|**AURA: AUdio-dRiven streaming Avatar**|Nathaniel Cohen et.al.|[2611.26540](http://arxiv.org/abs/2611.26540)|null|
 |**2026-11-15**|**AIFR: Adaptive Identity Feature Recovery for Diffusion-Based Makeup and Anime Portraits**|Linyan Dai et.al.|[2611.15764](http://arxiv.org/abs/2611.15764)|null|
